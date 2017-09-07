@@ -2,28 +2,12 @@
 
 This repository contains a knowledgebase of repair app. It's built on [Hugo](https://gohugo.io/), based on great [Matcornic Learn theme](https://github.com/matcornic/hugo-theme-learn/).
 
-Visit the [theme documentation](http://docdock.netlify.com/) to see what is going on. It is actually built with this theme.
+Visit the [theme documentation](http://docdock.netlify.com/) to see what is going on. It is actually built with this theme. 
 
-# Main features
-
-- Search
-- **Unlimited menu levels**
-- RevealJS presentation from markdown (embededed or fullscreen page)
-- Attachments files
-- List child pages
-- Include segment of content from one page in another (Excerpt)
-- Automatic next/prev buttons to navigate through menu entries
-- Mermaid diagram
-- Icons, Buttons, Alerts, Panels, Tip/Note/Info/Warning boxes
-- Image resizing, shadow...
-- Customizable look and feel
-
-![Overview](https://github.com/vjeantet/hugo-theme-docdock/raw/master/images/tn.png)
-
-## Usage
-
-- [Visit the documentation](http://docdock.netlify.com/)
-
+## Prerequisite 
+* Go
+* Hugo 
+* Markdown
 
 ## Contribution 
 
