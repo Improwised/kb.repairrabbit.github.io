@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Welcome to Repair App Knowledgebase"
+theme = "docdock"
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
