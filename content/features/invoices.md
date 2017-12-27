@@ -6,39 +6,36 @@ weight = 7
 alwaysopen = true
 +++
 
-#### Invoice
 
-Invoicing system is the most important and Powerful part of any repair business. This option will help you to create an invoice for each new customer.
 
-#### How can i Generate an Invoice for New Customers?
 
-If you wish to generate an Invoice for the New Customer ,
+#### Invoice 
 
-1. Head to Invoice option and click the “NEW” , option, Add new Customer and fill the required details, and add the updated details.
-2. Add the other information like Name, email ID, Contact details, address, product details, SKU details,discount given, and invoice description.
-3. Select the Payment Method, also trigger the email button if you wish to send an email notification of the same invoice and save the changes.
+Basic purpose for Invoice is to keep record for Selling of Service . It provides a way to track the date of repairing service, how much money was paid and any outstanding debt. The invoice is  invaluable tool for accounting purpose as well. 
 
-#### How to print an invoice for the customers?
 
- If you want to print an invoice for the new or existing customer.
+### Terminology used in Invoice Menu :
 
-1. For Existing customers you need to search the customer with his user ID and select the “Print” option, and again click on print option available at the end of the invoice page.
-2. For New customers you need to add the customer to your database and then select the user ID and click the “Print” option and again select the print option available at the end of the invoice page.
+1. (Sign) this button shows the record as per asending or decending order
 
-#### How to generate single invoice for multiple products?
+2. ID : Number created at the time of new invoice generation
 
- Here you can create a single invoice for multiple products for the same customer.
+3. Payment Type : Shows the mode of payment
 
-1. Head to Invoice option and click the “NEW” , option, Add new Customer and fill the required details, and add the updated details.
-2. Add the other information like Name, email ID, Contact details, address, product details.
-3. While Adding the SKU details , click the “+” button to add another product , likewise multiple product can be added in the same invoice.
+4. Ticket Id : Ticket number
 
-#### How To Edit an Invoice?
+5. Store : In case multiple location , locationwise store can be filtered.
 
-If you want to edit the invoice then,
+6. Created At : Invoice creation date
 
-1. Head to Invoice option,
-2. Select the user Id you want to edit, and click on “View”
-3. Click on “Edit” option available at the bottom of the invoice page.
+7. Actions : These are the tools which helps to deal with entered data
 
-With the Help of Filter Box, you can also check & review the invoices for weekly , monthly on periodic bases.
+7.1. View : You can view the all details of Invoice.  
+
+7.2. Print: You can print the details related to invoice.
+
+7.3. Delete: You can delete the invoice completely. 
+ 
+8. Filter : You can filter the data as per requirement.
+
+

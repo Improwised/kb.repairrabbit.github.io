@@ -10,60 +10,122 @@ alwaysopen = true
 
  With Repair Rabbit it's easy managing your inventory. you can organize & manage trade in devices and track the other miscellaneous casual items.
 
-#### View Stock
+#### Terminology of VIEW STOCK Menu
 
-Here you can see the summary of the stock available at particular store. You can also add the required stock quantity at selected branch. This option helps you to keep the provisional quantity of the stock also. The summary includes the SKU,products, stores,updated price, updated fees,and quantity. You can also Edit or Delete directly from the stock dashboard.
+Here you can see the summary of the stock available at particular store. You can also add the required stock quantity at selected branch. This option helps you to keep the provisional quantity of the stock as well. The summary includes the SKU,products, stores,updated price, updated fees,and quantity. You can also Edit or Delete directly from the stock dashboard.
 
-#### How can i View Stock?
+1. (Sign) this button shows the record as per asending or decending order.
 
-1. Head to Inventory option and select "View" stock.
+2. SKU : Stock Keeping Unit shows store unit number.
 
-#### How can i check the provisional Quantity for each store?
+3. Device : Shows the fault in device
 
- To check the provisional quantity for a particular store,
+4. Uprated Price : Price of the product 
 
-1. Head to Inventory.
-2. Select “View Stock”.
-3. Click on the Particular product.
-4. History log will open and it will show the available quantity for the particular product with store location.
+5. Updated Fee : Service or Installion kind of charge
 
-#### Add Stock
+6. Quantity : Shows Number of available stock.
 
- To add stock for any product at any store you need to add them in stock,
+7. Actions : These are the tools which helps to deal with entered data
 
-1. Head to Inventory.
-2. Click add stock.
-3. Select the store, select the product ,quantity, updated price, fees, reason, and click “Add stock”
+7.1. Add : By clicking on Add button, you can add various parameters of Stock 
 
-#### Return Stock
+7.2. Return :  Deduction of the stock 
 
- The return stock can be tracked with this feature.
+7.3. Transfer : If you have multiple location, you can transfer stock from one place to another 
 
-1. Head to Inventory.
-2. Click Return Stock.
-3. Select the store, product, quantity & Reason.
-4. Click “Return Stock”.
+8.1 Search : Search the data from record
 
-#### Transfer Stock
 
- This will help to transfer the stock from one store to another.
+#### Terminology of ADD STOCK Menu  
 
-1. Head to Inventory.
-2. Select Transfer stock.
-3. Select the Store, product,quantity and Reason.
-4. Click “Transfer Stock”.
+This feature is used to add stock of your store.
 
-#### Stock History
+1. Select Store : If you have multiple store, select as required 
 
- Stock History will show you the stock summary on stock added or transfered. This will show you the details on Product, Employee, SKU, Store , Reason, quantity, Previous quantity, current quantity with the exact modified date.
+2. Select Product : Choose the Stock that you want to add from the list
 
-#### How to check the Stock History?
+3. Quantity : Addition of Stock
 
-1. Head to Inventory.
-2. Select the Stock History.
+4. Updated Price : Fill the price of Stock
 
-#### How to get Stock history in CSV format?
+5. Updated Fees : Fill the service / installation kind of charge for selected stock
 
-1. Select Inventory.
-2. Click Stock History.
-3. Select Export CSV option from the right Top corner.
+6. Reason : Mention the reason / remarks , if applicable
+
+7. By filling all previous data, click on ADD STOCK button 
+
+
+
+#### Terminology of RETURN STOCK Menu
+
+
+This feature is used to deduct stock from actual stock. 
+
+1. Select Store : If you have multiple store, select as required 
+
+2. Select Product : Choose the Stock that you want to deduct from the list
+
+3. Quantity : Deduction of Stock
+
+4. Reason : Mention the reason / remarks , if applicable
+
+5. By filling all previous data, click on RETURN STOCK button 
+
+
+####  Terminology of TRANSFER STOCK Menu
+
+
+If you have multiple location / store, this feature is used to transfer stock from one location to other. 
+
+1. Transfer From Store : Select the current location of stock 
+
+2. Transfer To Store : Select the location to transfer the stock 
+
+3. Select Product : Select the product that to be transferred
+
+4. Quantity : Quantity of /transferred Stock
+
+4. Reason : Mention the reason / remarks , if applicable
+
+
+#### Stock History 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

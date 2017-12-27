@@ -6,42 +6,44 @@ weight = 1
 alwaysopen = true
 +++
 
-### Agenda
-
-This feature will help you to add Objectives towards your employee or workers; you can set it by individual date and time as well.
-Click on individual date & time than you can add customer for your employee or worker; that is for their daily reminder that they have to complete their work within this or that time limit. And they have to work according to their targets.  
-
-#### How to set an agenda?
+## UserGuide for Repair Rabbit
 
 
-1. Head to **“Agenda“**     
-2. Double click & Select the time slot for new appointment. 
+Repair rabbit is a self hosted web application to take care of technical repair business. This web application efficiently monitors the operations, services and analysis for the multiple store at multiple locations.  
 
-**(To set this up, just)**
+You can perform multi functions with a single platform :
 
-1. Click **“Agenda“**    
-2. Add the Customer details to create a New Appointment.   
-3. Add the required details and submit.
- 
-#### How is it Useful?
+Create Appointment for the Customer 
 
-This feature will show you the summary for everydays work and completed task and ready to delivery data with particular date & time.
+Raise Ticket for Repairing Work Management
 
-#### How to create customer  agenda with particular date?
+Record & Track Customer’s Data
 
-1. Click **“Agenda"**   
-2. Select particular date.   
-3. Click on particular time.  
-4. If you have existing customer than type name; if you have new customer than create new customer.  
-5. Create an appointment of customer you can see that in agenda summary.
+Analyze the Overall Work of the Location
+
+Verify Invoice Data
+
+Maintain Working Schedule of Employees
+
+Ease in Monitoring Branch wise Work
+
+Inventory Management
 
 
-#### How to create an appointment ?
 
-1. Select customer.  
-2. Select customer’s device.  
-3. Select place where their product will repair.  
-4. Add IMEI code of product.  
-5. Select your repair.   
-6. Select particular date & time.  
-7. Click “ Add “ ; A customer's appointment will be added in agenda with  particular date and time.
+#### Terminology used in AGENDA menu 
+
+This feature shows the summary of work & completed task and ready to delivery data within required date & time format (Daily /Weekly /Monthly).
+
+#### To view Daily Agenda :
+
+Daily Work Agenda is default display and it shows today's performing activity.
+
+#### To view Weekly Agenda:
+
+You can select any WEEK (see picture) and see the Agenda of your required Week.
+
+#### To view Monthly Agenda :
+
+You can select any MONTH (see picture) and see the Agenda of your required Month.
+

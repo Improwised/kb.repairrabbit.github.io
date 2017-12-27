@@ -7,97 +7,139 @@ alwaysopen = true
 +++
 
 
-#### Tickets
+#### Tickets Menu
 
-The main organ of the repair shop is ticketing system and we know it. The tickets will show you exactly what you need, when you need it, from any device. The lightweight workflow will gently reminds you to the next task without getting in your way or slowing you down.
+Tickets Menu is the key utility of this web application. To Keep and Track the record of the device given by customers, Tickts are generated. The tickets include existing customers' data and also have facility to add New Customer and their Details.
 
-#### How to create a Repair Ticket? 
+#### New Ticket Generation for New Customers (or How to Make New Ticket for New Customer)
+         
 
-1. Head to Tickets section.
-2. Click the New Button.
-3. Head to Add New Customer.
-4. Fill the required details like Name,Email, Business Name, Phone number, Physical address, place and postcode and extra description if any.
-5. Click on add button.
-6. Select & add the device and add the details & click to add button.
 
-#### How can I view complete ticket details? 
+ Follow the steps to create ticket for New Customer :
 
-1. Head to Tickets option.
-2. Select the Ticket ID and click on View.
-3. Now you can see the Ticket details & Ticket History .
+1. Click on "New" Button.
 
-#### How Can I Export Repair Tickets To Excel Format? 
+2. New window will open automatically & you find another button "Add New Customer".Click on it.
 
-Repair Rabbit gives you the option to download a record of your repair tickets in the form of an Excel (.xls) file.
+3. Fill the required information. * shows mandatory details.
 
-You can run a search filter of open or completed repair tickets during a certain time frame and export the entire database to Excel (.xls) format.
+3.1. Salutation : Mr./ Mrs./ Ms. 
 
-To get this Excel (.xls) file: 
+3.2. Purpose: Two options are available.Only one can be chose either consumer or business.
 
-1. Go To Tickets.
-2. Click on Export CSV button on the right corner.
-3. Now you can download it.
+3.3. Extra Decription: If you have any remarks,note it down here. 
 
-#### How can I view all the tickets? 
+3.4. Name, Email and Business Name of Customers are mendatory fields. 
 
-1. Head to Tickets.
-2. The ticket option will show you the summary of all the tickets generated.
+3.5. Fill the required details and Press ADD button.
 
-#### Can I search any specific ticket? 
+4. New window opens automatically. 
 
-1. Head to Tickets.
-2. You will get a search box just next to New Button.
-3. Add the Ticket ID to make your search easy.
+4.1. Here you have to fill another data.
 
-#### Can I update/ edit an existing ticket details?## 
+4.2. Customer : Name of Customer displays automatically. 
 
-1. Go to Tickets section.
-2. Select the Ticket ID which you need to change.
-3. Click on View Ticket.
-4. Click on edit Button and save changes.
+4.3. Choose Your Device: Select the Device Name from the list
 
-#### What is the use of Action? 
+4.4. Serial / IMEI (type * # 06 # for IMEI) : Fill the serial or IMEI number as per device applicability 
 
-This option helps us to add ticket for new customer, they can also see their product’s status, work- progress, when the ticket was created, last modified date, and actions.
+4.5. EWP Policy number : Write Policy Number (if any)
 
-#### What is actions?
+4.6. Select your Defect : Selection of the device defect from given list
 
-There is three different options, available in actions, “View“, “Print“, “Delete“.
+4.7. Access Code: Type the Access code here
 
-1. If you want to check the details of particular customers, you can click “View”.
-2. If you want to print the ticket of the customer than you can click on, “Print”.
-3. If you want to delete the ticket of a customer than you can click on the "Delete" option.
-4. It will give you warning sign and will confirm with you with the message “are you sure?”
-5. if you will click yes than the ticket will be deleted.
-6. And if you wish to delete than, click on "yes,delete it"! “ if you don’t want to delete click “Cancel”.
+4.8. Initial Problem Description: Describe the initial problem
 
-#### What does the ticket details shows?
+4.9. Customer Reference From: Select an option from where you get this customer's reference.
 
-The ticket details will show you the details on Device information, about repair status and on customer information.
+4.10. If you chose "By Customer" option, then write name of Referee customer.
 
-#### How to check the ticket Details? 
+4.11. Status Image : Select an image for the stutus by click on Choose File option. 
 
-To check the ticket details for the particular customer,
+4.12. Now Press ADD button
 
-1. Head to Tickets.
-2. Select the customer ID.
-3. You will see the information available on Device, its working status and customer.
+5. Your Ticket for New customer is ready. You can Edit,Print from the Current window. 
 
-#### What is device Information?
 
-Here you will get an information on the device given for repairing. Select Device name, defect, defect list, serial/IMEI, Access code, & policy Number.
 
-#### What is status information?
 
-This option, is used to check the product’s work progress, it also shows the repair process status,store location details, name of the engineer,customer reference details,reason of damage caused in detail, internal report. A message can also be sent to the customer about the product status.
+   
+#### New Ticket Generation for Existing Customers
 
-#### What is Customer Information?
+2.1.Click on "New" Button.
 
-Customer information shows the details of the customer with the name, email id, phone and address.
+2.2.New window will open automatically & you find another search box "Search Customer". Type Customer's name, Select from Suggested names and on it and press Enter.
 
-#### How can i edit the ticket details? 
+2.3 Now Apply the Previous Steps from [ 1.5 to 1.15 ] to enable new ticket for Existing Customer. 
 
-You can edit the ticket details, if in case of change or update in device information or on its work progress or customer information.
 
-1. Head to Ticket section.
-2. Select User Id. Click on **“edit”** and update the details.
+
+
+#### Terminology used in TICKETS Menu :
+
+
+1. (Sign) this button shows the record as per asending or decending order
+
+2. ID : Number created at the time of Ticket generation
+
+3. Customer Name, Device & Status : It is shown as entered at the time of generating Ticket
+
+4. Progress: Repairing status of the device 
+
+5. Created: Date of Starting the process
+
+6.  Last Modified : Last editing date 
+
+3.7 Actions : These are the tools which helps to deal with entered data
+
+3.7.1. View : You can view the all details of customer as well as process, which was entered at the time of New Ticket Generation.
+
+3.7.2. Print: You can print the details related to repair work.
+
+3.7.3. Delete: You can delete the ticket completely. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

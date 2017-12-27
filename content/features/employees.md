@@ -6,12 +6,27 @@ weight = 6
 alwaysopen = true
 +++
 
-With your expanding business, when you will be in need of more manpower, this feature will make the mechanism effortless.
+#### Employee 
 
-#### How To add an Employee?
+To add, maintain and observe the record of Employee, this feature is useful.
 
 
+#### Add New Employee: 
 
-1. Head to Employee section and Click “NEW”.
-2. Add the Employees information like Name, email Id, assign store, working hours, break hours,designation and with their current active status.
-3. Click “Add”.
+1. Click on "New" button & New Window will open.
+
+2.  Name & Email : Write Name, Email Id of Employee.
+
+3. Store: Enter your store name. If you have multiple locations, select any one from it as required.
+
+4. Working Hours: Specify the working duration of Employee.
+
+5. Break Hours: Specify the break time of Employee.
+
+6. Administrator Privileges : Select the designation wise privileges for Employee
+
+7. Active / Deactive : Select the status of Employee
+
+8. Select Working Days : You can select one or multiple working days for Employee
+
+9. Click on "Add".

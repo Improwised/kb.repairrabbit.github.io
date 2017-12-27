@@ -7,35 +7,82 @@ alwaysopen = true
 +++
 
 #### Customers
-Customer Management is the most powerful thing and with the help of this you can use your entire database instantly as it's available from anywhere.
 
-#### How to Add Customers?
+Aim of any business is to find new customers and sustain existing customers. Customers play the vital role in any business. To maintain the relationship, this feature is useful. 
 
-1. Head to Customers section, and click on “NEW” .
-2. Fill the required details of the customers, like Name, email id, business name, phone number, physical address, and click add.
 
-#### How to edit the Customer details?
+### 1. Addition of New Customers 
+         
 
-1. Go to Customers Section.
-2. Select the Ticket ID you wish to edit. Select the “Edit” & update the details.
 
-#### How to See and Check the customer details?
+ Follow the steps to add New Customer :
 
-1. Head to Customers Section.
-2. Select the Ticket ID and Click on “View”.
+1.1 Click on "New" Button.
 
-#### What is the use of Customer Password?
+1.2. New window will open automatically & you find another button "Add Customer". Click on it.
 
-To update the customers with their product progress, you can assign a Separate Login Id and Password.
+1.3. Fill the required information. * shows mandatory details.
 
-#### How to change customers password?
+1.3.1. Salutation : Mr./ Mrs./ Ms. 
 
-Go to customers, select the USER ID, Click “change Password” , an automatic link for password change will be sent to the customers via email registered email id, so that customer can make changes.
+1.3.2. Name: Full name of Customer.
 
-#### How to Delete the Customer's Account?
+1.3.3. Email: Email ID of customers 
 
-1. Go to Customers,
-2. select the User ID, select & click on “DELETE” ,here you will get a warning asking for the confirmation to delete the particular customer details,
-3. select & click “Yes delete it” option and the entry will be deleted.
+1.3.4. Purpose : Choose any one from Customer or Business
 
-(Caution: On selecting delete the entry option, you will delete all the data of the particular customer, if you wish to delete than proceed for this option).
+1.3.5.  Business Name : Name of Company or Business
+
+1.3.6. Phone Number and Address : Fill the contact number and business/residential address of customer
+
+1.3.7. Postcode: Pin code of the area
+
+1.3.8. Place : City/ town of the customer
+
+1.3.9. Extra Discription : If you have any remarks, note here
+
+1.4. Click on Add button. 
+
+1.5. Now, New Customer is added & You can see the summary of entered data in another window, which has another 3 Options.
+
+1.5.1. These 3 Options are : Tickets, Appointments & Invoices
+
+1.5.2. By click on any of above option you can create new Tickets, Appointment or Invoice accordingly.
+
+
+
+### 2.To Find New Customers : Type customer's name in search bar & Press Enter.
+
+
+
+
+### 3. Terminology used in CUSTOMERS Menu :
+
+3.1. (Sign) this button shows the record as per asending or decending order
+
+3.2. User ID : _________________________
+
+3.3. Name & Customer Email : 
+
+3.3. Actions : These are the tools which helps to deal with entered data
+
+3.4. Import CSV : You get the data in Excel format with this function.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
