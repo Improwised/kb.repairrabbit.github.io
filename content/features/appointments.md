@@ -6,114 +6,104 @@ weight = 3
 alwaysopen = true
 +++
 
-#### Appointments Menu
+#### Appointments
 
-Appointment is the most valuable service to make process systematic and time savy. It also helps to make strong bonding with the customers by giving preference & considering their valuable time. 
+* What is an Appointment in Repair Rabbit ?
 
-
-##### 1. New Appointment Generation for New Customers 
-         
+Appointment is an arrangement of assigning service to make your Business Process systematic and time savvy on specific Time & Place. With the help of Appointment, Customer can know/ book the exact date and time for his repair. 
 
 
- Follow the steps to create appointment for New Customer :
+* Creation of  New appointment 
 
-1.1 Click on "New" Button.
-
-1.2. New window will open automatically & you find another button "Add New Customer". Click on it.
-
-1.3. Fill the required information. * shows mandatory details.
-
-1.3.1. Salutation : Mr./ Mrs./ Ms. 
-
-1.3.2. Purpose: Two options are available.Only one can be chose either consumer or business.
-
-1.3.3. Extra Decription: If you have any remarks,note it down here. 
-
-1.3.4. Name, Email and Business Name of Customers are mendatory fields. 
-
-1.3.5. Fill the required details and Press ADD button.
-
-1.3.6. New window opens automatically. 
-
-1.4. Here you have to fill another data.
-
-1.4.1 Customer : Name of Customer displays automatically. 
-
-1.4.2 Select your Device : Select the Device Name from the list
-
-1.4.3 Select a place : Choose the Customer's city 
-
-1.4.4 IMEI : If you have mobile repair shop,apply IMEI number of mobile
-
-1.4.5 Select your repair : Choose the major cause of fault of Device  from given list
-
-1.4.6 Select a date : select the date for Appointment
-
-1.4.7 Select a time : Select time for Appointment
-
-1.4.8 Click on ADD button. Now, your New Appointment is created.
+You can generate an Appointment for New Customers as well as Existing Customers. 
 
 
+New Appointment For New customers : (underline this title)
+
+To generate new apoointment for New Customers, First You have to add New Customer, then You will be able to create New Appointment for him. 
+
+Go to << Appointments 
+          (Screenshot)
+
+Click on “ New ” 
+          (Screenshot)
+
+Click on “ Add New Customer ”
+          (Screenshot)
+
+Fill all the necessary details about a Customer, then click on “ Add ”.
+
+By clicking on “ Add ” appointment will be created.
+
+ 
+New Appointment For Existing Customers : (underline this title)
+
+Go to << Appointments
+          (Screenshot)
+
+Click on “ New ”
+          (Screenshot)
+
+Search Customer whose appointment is to be created.
+          (Screenshot)
+
+Fill all the necessary details about the customer’s repair. 
+
+Then click on “ Add ”
+          (Screenshot)
+
+By clicking on “ Add ”, Appointment will be created.
 
 
+* Is it possible to assign appointment to selected employee ?
+ 
+ No, Appointments cannot be assigned to selected employee.
+ 
+ But yes, You can avail this facility , Please Click >> (Customisation Price Link)
 
 
+* How can I convert Appointment into Ticket ?
 
-#####  2. New Appointment Generation for Existing Customers
+Go to << “ Appointments ”
+                (Screenshot)
 
-2.1 Click on "New" Button.
+lick on “ View ” 
+                (Screenshot)
 
-2.2.You find search box named "Search Customer". Type Customer's name, Select from Suggested names and press Enter.
+Click on “ Start repair ”
+                (Screenshot)
+  
+You will get a message “ Are you sure to convert this Appointment into Ticket ? ” 
+                (Screenshot)  
 
-2.3. New Window will open and Customer's name is shown automatically. 
+Click on “ Ok ” to convert an appointment into ticket.
+                (Screenshot)
 
-2.3.1. Select your Device : Select the Device Name from the list
+As you will click “ Ok ” Appointment will be converted into ticket.
+    
+  
+* Can I recover deleted Appointment ?
 
-2.3.2. Select a place : Choose the Customer's city 
+No. Once you delete an appointment,  you are not able to  recover it. You have to create a new one.
 
-2.3.3. IMEI : If you have mobile repair shop, then type IMEI number
-
-2.3.4. Select your repair : Choose the major cause of the fault from given list
-
-2.3.5. Select a date : select the date for Appointment
-
-2.3.6 Select a time : Select time for Appointment
-
-2.3.7 Click on ADD button. Now, your New Appointmnet is created.
-
-
-
-
-#### 3.Terminology used in APPOINTMENTS Menu:
+To know how to Create a New Appointment , Please Click (Link to Create New Appointment) 
 
 
-Confirmed : Shows number of confirmed appointment
+* How Customer can Prepone or Postpone his Appointment ?
 
-No Shown : _________________
+Customer should Log in to the Repair Rabbit. Go to >> Appointments . Click on Edit . ( Screen Shot )
 
-Retargeted : ______________________
+Modify the date and time & Click on Edit.
 
-Warranty: Shows appointment of device which has warranty period 
+Your Appointment is modified. 
 
-All: Shows all types of appointments together
+You are not able to modify the date, if it has already gone. 
 
-View : By click on View button, you are able to view the details of selected data
 
-(Sign): This button shows the record as per asending or decending order
+* How Customers can book an Appointment from their mail id ?
 
-ID : Number created at the time of Appointment generation
+Password is automatically send to mail ID which Customer provide at the time of New Customer Entry. Customer can use this email address as ID for Log in. 
 
-Name, Email, Appointmnet Start Date & Device : It is shown as entered at the time of generating Appointment
-
-Assign To : Employee assigned for that Appointment 
-
-Actions : These are the tools which helps to deal with entered data
-
-View : You can view the all details of customer as well as process, which was entered at the time of New Appointment Generation.
-
-Print: You can print the details related to repair work.
-
-Delete: You can delete an Appointment completely. 
 
 
 

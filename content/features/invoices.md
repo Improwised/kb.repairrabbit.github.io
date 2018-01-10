@@ -11,31 +11,43 @@ alwaysopen = true
 
 #### Invoice 
 
-Basic purpose for Invoice is to keep record for Selling of Service . It provides a way to track the date of repairing service, how much money was paid and any outstanding debt. The invoice is  invaluable tool for accounting purpose as well. 
+* If I want to link Repair Rabbit with my accounting software , is it Possible ? {link to Customization Page}
+
+* Create an Invoice 
+
+* How can I check Record of previous Invoices ?
+
+* How can I search Invoice of specific Customer ?
+
+* Can I see Store wise Invoice ?
+
+* Is it possible to mail Invoice ?
+
+* Can I make Estimate ? {link to Customization Page}
+
+* How can I back up invoice data ?
+
+* How do I modify Invoice ?
+
+* Print of Invoice
+
+* How do I manage Payments ? (Partial, refund , deposite , online payment failure )
+
+* Discounting process on Invoice
+
+* How can I format Invoice as per my Business identity ? (link of Customization )
+
+* In case of other purchase apart from Repair Service, How it could be added to invoice ?
 
 
-### Terminology used in Invoice Menu :
 
-1. (Sign) this button shows the record as per asending or decending order
 
-2. ID : Number created at the time of new invoice generation
 
-3. Payment Type : Shows the mode of payment
 
-4. Ticket Id : Ticket number
 
-5. Store : In case multiple location , locationwise store can be filtered.
 
-6. Created At : Invoice creation date
 
-7. Actions : These are the tools which helps to deal with entered data
 
-7.1. View : You can view the all details of Invoice.  
 
-7.2. Print: You can print the details related to invoice.
-
-7.3. Delete: You can delete the invoice completely. 
- 
-8. Filter : You can filter the data as per requirement.
 
 

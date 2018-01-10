@@ -8,65 +8,104 @@ alwaysopen = true
 
 #### Customers
 
-Aim of any business is to find new customers and sustain existing customers. Customers play the vital role in any business. To maintain the relationship, this feature is useful. 
+
+*  How can I add New customer ? 
+
+Go to << “Customers” 
+          (Screenshot)
+
+Click on “New”
+          (Screenshot) 
+
+Fill all the necessary  information,  then click “ Add ”
+          (Screenshot) 
+
+By clicking on “ Add ”, you can save the information of New Customer. 
 
 
-### 1. Addition of New Customers 
-         
+* If I have already listed my Clients, How can I add this into Repair Rabbit ?
+
+Go to << “ Customers ”
+         (Screenshot) 
+
+Click on “ Click to select a file ” and Choose the file of Customer Data
+       (Screenshot)
+
+Click on “ Upload file ”
+       (Screenshot)
+
+As you will click on “ Upload file ” , File will be added.
+
+* How can I Edit my Existing Customer ?
+
+Go to << “ Customers ”
+         (Screenshot) 
+
+Select the customer then click on “ Edit ”
+        (Screenshot)
+
+Edit the desired changes then click on “ Edit ” 
+        (Screenshot)
+
+As you’ll click on “ Edit ”, all changes will be saved.
 
 
- Follow the steps to add New Customer :
+* Do Customer can Access into Repair Rabbit ? How can I provide LOGIN Details to Customers ?
 
-1.1 Click on "New" Button.
+Yes. Login password of Repair Rabbit can be provided to the customers though sending a mail which they provide for communication. (Screen shot for the filled e mail id)
 
-1.2. New window will open automatically & you find another button "Add Customer". Click on it.
+Customer can Login into the Repair Rabbit through this registered email Id and password.
 
-1.3. Fill the required information. * shows mandatory details.
+Customer has limited priviledge of Repair Rabbit. To see priviledges ( Click on User Priviledge )
 
-1.3.1. Salutation : Mr./ Mrs./ Ms. 
+* If any Customer forget the Password , How can I help on that ?
 
-1.3.2. Name: Full name of Customer.
+System admin only can change the password of a customer.
+           (Screenshot)
 
-1.3.3. Email: Email ID of customers 
+System admin only can change the password of a customer. For this, Click on “ Change Password ”.
+           (Screenshot)
 
-1.3.4. Purpose : Choose any one from Customer or Business
-
-1.3.5.  Business Name : Name of Company or Business
-
-1.3.6. Phone Number and Address : Fill the contact number and business/residential address of customer
-
-1.3.7. Postcode: Pin code of the area
-
-1.3.8. Place : City/ town of the customer
-
-1.3.9. Extra Discription : If you have any remarks, note here
-
-1.4. Click on Add button. 
-
-1.5. Now, New Customer is added & You can see the summary of entered data in another window, which has another 3 Options.
-
-1.5.1. These 3 Options are : Tickets, Appointments & Invoices
-
-1.5.2. By click on any of above option you can create new Tickets, Appointment or Invoice accordingly.
+Now, customer will receive the mail for changing password. 
 
 
+* If my Customer generate an Appointment, Will they get any notification ? 
 
-### 2.To Find New Customers : Type customer's name in search bar & Press Enter.
+Yes, Customer can receive notification via E mail for the same. 
+
+
+* Where can I check Invoice, Appointment and Ticket of the Customer ?
+
+Go to “ Customers”
+           (Screenshot) 
+ 
+Search for the particular customer, then click on “ View ” 
+           (Screenshot)  
+
+Click on “ Tickets ", “ Appointments ” or “ Invoices ” for detailed information of any of the category.
+           (Screenshot)
+
+
+* Do Customer can track his device's Repairing Status ?
+
+Yes, Customer can track . To track this, Customer has to Login in RR. 
+
+
+
+* How Customer can Prepone or Postpone his Appointment ?
+
+Customer should Log in to the Repair Rabbit. Go to >> Appointments . Click on Edit . ( Screen Shot )
+
+Modify the date and time & Click on Edit.
+
+Your Appointment is modified. 
+
+You are not able to modify the Date, if it has already gone. 
 
 
 
 
-### 3. Terminology used in CUSTOMERS Menu :
 
-3.1. (Sign) this button shows the record as per asending or decending order
-
-3.2. User ID : _________________________
-
-3.3. Name & Customer Email : 
-
-3.3. Actions : These are the tools which helps to deal with entered data
-
-3.4. Import CSV : You get the data in Excel format with this function.
 
 
 

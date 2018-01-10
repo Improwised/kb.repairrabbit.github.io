@@ -8,25 +8,31 @@ alwaysopen = true
 
 #### Employee 
 
-To add, maintain and observe the record of Employee, this feature is useful.
+* How can I add New Employee as well as its related data?
+
+Go to << Employees 
+         (Screenshot)
+
+Click on “ New ”
+         (Screenshot)
+
+Fill the necessary details about the employee, then click on “ Add ”.
+         (Screenshot) 
+
+By clicking on “ Add ”, Employee will be added.
+         (Screenshot) 
 
 
-#### Add New Employee: 
+* What is Administrator Privileges ? How can I assign it ?
 
-1. Click on "New" button & New Window will open.
 
-2.  Name & Email : Write Name, Email Id of Employee.
 
-3. Store: Enter your store name. If you have multiple locations, select any one from it as required.
+* How can I provide LOGIN Details of Repair Rabbit to employees ?
 
-4. Working Hours: Specify the working duration of Employee.
 
-5. Break Hours: Specify the break time of Employee.
 
-6. Administrator Privileges : Select the designation wise privileges for Employee
+* What if my Employees forget the Password of their Login ID of Repair Rabbit ?
 
-7. Active / Deactive : Select the status of Employee
+* When to use Active / Deactive status ?
 
-8. Select Working Days : You can select one or multiple working days for Employee
 
-9. Click on "Add".
