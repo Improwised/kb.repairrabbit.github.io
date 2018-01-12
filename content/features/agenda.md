@@ -8,13 +8,13 @@ alwaysopen = true
 
 #### Agenda
 
-* How can I overview all tasks?
+* How can I overview all Tasks?
 
 Go to << Agenda 
          (Screenshot)
 
-By clicking on “Agenda”, you can see all the tasks with exact Date and Time.
+By clicking on “Agenda”,  you can see all the tasks with exact Date and Time.
          (Screenshot)
 
-Tasks of particular Month, Week or a Day can be also seen easily.
+You can overview the Tasks of particular Month, Week or a Day as well.
          (Screenshot)

@@ -10,30 +10,36 @@ alwaysopen = true
 
 * What is an Appointment in Repair Rabbit ?
 
-Appointment is an arrangement of assigning service to make your Business Process systematic and time savvy on specific Time & Place. With the help of Appointment, Customer can know/ book the exact date and time for his repair. 
+Appointment is an arrangement of assigning service to make your business process systematic and time savvy on specific Time & Place. With the help of Appointment, Customer can know/ book the exact date and time for his repair. 
 
 
 * Creation of  New appointment 
 
-You can generate an Appointment for New Customers as well as Existing Customers. 
+You can generate an Appointment for new customers as well as existing customers. 
 
 
-New Appointment For New customers : (underline this title)
+New Appointment For New Customers : (underline this title)
 
-To generate new apoointment for New Customers, First You have to add New Customer, then You will be able to create New Appointment for him. 
+To generate new apoointment for New Customers, First You have to add it, then you will be able to create New Appointment for him. 
 
 Go to << Appointments 
           (Screenshot)
 
-Click on “ New ” 
+Click on “New” 
           (Screenshot)
 
-Click on “ Add New Customer ”
+Click on “Add New Customer”
           (Screenshot)
 
-Fill all the necessary details about a Customer, then click on “ Add ”.
+Fill all the necessary details about a Customer, then click on “Add”.
 
-By clicking on “ Add ” appointment will be created.
+Now, new window will open. 
+
+Fill all the necessary repairing details . 
+
+
+By clicking on “Add”, Appointment will be created. 
+
 
  
 New Appointment For Existing Customers : (underline this title)
@@ -41,45 +47,45 @@ New Appointment For Existing Customers : (underline this title)
 Go to << Appointments
           (Screenshot)
 
-Click on “ New ”
+Click on “New”
           (Screenshot)
 
-Search Customer whose appointment is to be created.
+Search customer whose appointment is to be created.
           (Screenshot)
 
 Fill all the necessary details about the customer’s repair. 
 
-Then click on “ Add ”
+Then click on “Add”
           (Screenshot)
 
-By clicking on “ Add ”, Appointment will be created.
+By clicking on “Add”, Appointment will be created.
 
 
 * Is it possible to assign appointment to selected employee ?
  
  No, Appointments cannot be assigned to selected employee.
  
- But yes, You can avail this facility , Please Click >> (Customisation Price Link)
+  To avail this facility , Please contact ( contact details )
 
 
 * How can I convert Appointment into Ticket ?
 
-Go to << “ Appointments ”
+Go to << “Appointments”
                 (Screenshot)
 
-lick on “ View ” 
+lick on “View” 
                 (Screenshot)
 
-Click on “ Start repair ”
+Click on “Start repair”
                 (Screenshot)
   
-You will get a message “ Are you sure to convert this Appointment into Ticket ? ” 
+You will get a message “Are you sure to convert this Appointment into Ticket ?” 
                 (Screenshot)  
 
-Click on “ Ok ” to convert an appointment into ticket.
+Click on “Ok” to convert an appointment into ticket.
                 (Screenshot)
 
-As you will click “ Ok ” Appointment will be converted into ticket.
+As you will click “Ok” , Appointment will be converted into ticket.
     
   
 * Can I recover deleted Appointment ?
@@ -91,18 +97,20 @@ To know how to Create a New Appointment , Please Click (Link to Create New Appoi
 
 * How Customer can Prepone or Postpone his Appointment ?
 
-Customer should Log in to the Repair Rabbit. Go to >> Appointments . Click on Edit . ( Screen Shot )
+Customer should Log in to the Repair Rabbit. 
 
-Modify the date and time & Click on Edit.
+Go to >> Appointments . Click on "Edit" . ( Screen Shot )
 
-Your Appointment is modified. 
+Modify the date and time & Click on "Edit".
 
-You are not able to modify the date, if it has already gone. 
+Your Appointment is modified now. 
+
+Please Note : You are not able to modify the Date, if it has already gone. 
 
 
 * How Customers can book an Appointment from their mail id ?
 
-Password is automatically send to mail ID which Customer provide at the time of New Customer Entry. Customer can use this email address as ID for Log in. 
+Password is automatically send to mail ID which Customer has provided at the time of new customer entry. Customer can use this email address as ID for Log in. 
 
 
 

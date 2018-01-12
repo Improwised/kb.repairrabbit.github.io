@@ -17,7 +17,19 @@ alwaysopen = true
 
 #### Device & Device Catagories 
 
-* Add New Device 
+* How do I add New Device ?
+
+Go to << “ Master ”
+(Screenshot)
+
+Click on “ New ”
+(Screenshot)
+
+Add necessary details, then click on “ Add ”
+(Screenshot)
+
+As you will click on “ Add ”, device will be added.
+
 
 * How can I add SKU number for New Device ? ( link to SKU )
 
