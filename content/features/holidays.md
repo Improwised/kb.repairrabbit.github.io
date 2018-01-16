@@ -6,37 +6,66 @@ weight = 7
 alwaysopen = true
 +++
 
-HOLIDAYS
-
-You can add the calendar holidays for the year.
 
 
-####  Add the Holiday of Store
-
-1.  Gp to " Store Closed " Menu.
-
-2. Press " New".
-
-3. Select Date for holidays
-
-4. Title : Reason for Holiday
-
-5. Select Store : Mention the location of your store. If you have more than 1 store, select accordingly. 
-
-6. Press "ADD".
+#### Store Closed
 
 
-
-#### Terminology used in Store Closed Menu :
-
-1. (Sign) this button shows the record as per asending or decending order
-
-2. Actions : These are the tools which helps to deal with entered data
+* How can I manage holidays?
 
 
-2.1. Edit: You can Edit the day of Holiday.
+With the help of “Store closed”,  Holidays can be managed easily. You can Add, Edit or Delete holidays with help of this feature.
+Process for Adding a holiday 
+ 
+Go to << “Store Closed”
+         (screenshot)
 
-2.2. Delete: You can delete the Holiday completely. 
+Click on “New” 
+         (screenshot)
+
+Fill all the necessary details, then click on “Add” 
+         (screenshot)
+
+As you click on “Add” , Holiday will be added. 
+
+Process for Editing a holiday
+
+Go to <<  “Store closed”
+         (screenshot)
+
+Select the holiday in which changes are to be done.  Then click on “Edit”
+         (screenshot)
+
+Edit the desired details and click on “Edit” 
+        (screenshot)
+
+By clicking on “Edit”,  you can save the edited information.
+
+Process for Deleting a holiday
+
+Go to <<  “Store closed”
+         (screenshot)
+
+Select the holiday which is to be deleted and click on “Delete”
+         (screenshot)
+
+You will get a message : “Are you sure ?”
+
+Click on “Yes” to delete the holiday.
+         (screenshot) 
+
+As you will click on “Yes”, Holiday will be deleted permanently.
+
+
+* Is created holiday automatically remove after passage of that Date ?
+
+No, Holiday can’t be removed automatically but you can manually delete it. 
+
+
+* Is it Possible to link "Store Closed" with Google drive or Outlook ? (Customization link)
+
+If you want this feature, please contact on ( Link of Contact details )
+
 
 
 

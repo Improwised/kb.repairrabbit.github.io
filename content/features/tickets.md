@@ -7,102 +7,192 @@ alwaysopen = true
 +++
 
 
-#### Tickets Menu
+#### Tickets 
 
-Tickets Menu is the key utility of this web application. To Keep and Track the record of the device given by customers, Tickts are generated. The tickets include existing customers' data and also have facility to add New Customer and their Details.
+* What is Ticket in Repair Rabbit ?
 
-#### New Ticket Generation for New Customers (or How to Make New Ticket for New Customer)
-         
-
-
- Follow the steps to create ticket for New Customer :
-
-1. Click on "New" Button.
-
-2. New window will open automatically & you find another button "Add New Customer".Click on it.
-
-3. Fill the required information. * shows mandatory details.
-
-3.1. Salutation : Mr./ Mrs./ Ms. 
-
-3.2. Purpose: Two options are available.Only one can be chose either consumer or business.
-
-3.3. Extra Decription: If you have any remarks,note it down here. 
-
-3.4. Name, Email and Business Name of Customers are mendatory fields. 
-
-3.5. Fill the required details and Press ADD button.
-
-4. New window opens automatically. 
-
-4.1. Here you have to fill another data.
-
-4.2. Customer : Name of Customer displays automatically. 
-
-4.3. Choose Your Device: Select the Device Name from the list
-
-4.4. Serial / IMEI (type * # 06 # for IMEI) : Fill the serial or IMEI number as per device applicability 
-
-4.5. EWP Policy number : Write Policy Number (if any)
-
-4.6. Select your Defect : Selection of the device defect from given list
-
-4.7. Access Code: Type the Access code here
-
-4.8. Initial Problem Description: Describe the initial problem
-
-4.9. Customer Reference From: Select an option from where you get this customer's reference.
-
-4.10. If you chose "By Customer" option, then write name of Referee customer.
-
-4.11. Status Image : Select an image for the stutus by click on Choose File option. 
-
-4.12. Now Press ADD button
-
-5. Your Ticket for New customer is ready. You can Edit,Print from the Current window. 
+Ticket is the confirmed details of  Customer Repairing . When Appointment is confirmed, it converts into a ticket . In other words, When any customer books an Appointment & it confirms as per schedule, it converts into Ticket. 
 
 
+* Generate New Ticket  
+
+Process for creating Ticket for a New Customer : (underline)
+
+Go to << Tickets
+(Screenshot)
+
+Click on “New”
+(Screenshot)
+
+Click on “Add New customer”
+(Screenshot)
+
+Add all the necessary details about the customer then click on “Add”.
+(Screenshot)
+
+As you will click on “Add”, system will display an empty ticket. 
+(Screenshot)
+
+Fill the necessary details in the ticket, then click on “Add”. 
+(Screenshot)
+
+As you will click on “Add” button, ticket for a new customer will be created.
+
+Process for creating a ticket for a existing customer.
+
+Go to << Tickets
+(Screenshot)
+
+Click on “New”
+(Screenshot)
+
+Search the customer name for whom ticket is to be created.
+(Screenshot)
+
+Fill the necessary details in the ticket, then click on “Add”
+(Screenshot)
+
+As you will click on “Add” , Ticket will be created.
 
 
-   
-#### New Ticket Generation for Existing Customers
+* How can I View all Tickets together ?
 
-2.1.Click on "New" Button.
+You can view all Tickets of any one branch or all branches (if applicable) together.
 
-2.2.New window will open automatically & you find another search box "Search Customer". Type Customer's name, Select from Suggested names and on it and press Enter.
+To view tickets of all branches 
 
-2.3 Now Apply the Previous Steps from [ 1.5 to 1.15 ] to enable new ticket for Existing Customer. 
+Go to << Tickets 
+       (Screenshot)
 
+Go to the right side on the top and click on “All branches”
+       (Screenshot)
 
+As you will click on “All branches” , system will display tickets of all the branches.
+       (Screenshot)
 
+To view tickets of  any selected branch
 
-#### Terminology used in TICKETS Menu :
+Go to << Tickets 
+       (Screenshot)
 
+Go to the right side on the top &  select the branch of which tickets are to be seen. 
+       (Screenshot)
 
-1. (Sign) this button shows the record as per asending or decending order
-
-2. ID : Number created at the time of Ticket generation
-
-3. Customer Name, Device & Status : It is shown as entered at the time of generating Ticket
-
-4. Progress: Repairing status of the device 
-
-5. Created: Date of Starting the process
-
-6.  Last Modified : Last editing date 
-
-3.7 Actions : These are the tools which helps to deal with entered data
-
-3.7.1. View : You can view the all details of customer as well as process, which was entered at the time of New Ticket Generation.
-
-3.7.2. Print: You can print the details related to repair work.
-
-3.7.3. Delete: You can delete the ticket completely. 
+As you will select and click on any selected branch, system will display all the tickets of that branch. 
+       (Screenshot)
 
 
+* Printing a Ticket 
+
+Go to << Tickets 
+     (Screenshot)
+
+Click on “Print” 
+     (Screenshot)
+
+* Delete the Ticket 
+
+Go to << “Tickets” 
+      (Screenshot)
+
+Search the customer name  whose ticket is to be deleted.
+      (Screenshot)
+
+Click on “Delete” 
+      (Screenshot)
+
+As you will click on “Delete” , you will get a message “Are you sure ?”
+     (Screenshot)
+
+Click on “ Yes, Delete it ” to delete the ticket.
+
+Then you will get the message “Ticket has been deleted” & Press Ok button. 
 
 
 
+* Do I observe Status Wise Tickets ?
+
+Yes, you can observe status wise  tickets . 
+
+Process 
+
+Go to << “Tickets”
+(Screenshot)
+
+As you will go to Tickets menu, System will display list of tickets . So from there, you can see  Repairing status of the tickets.
+
+
+* Can I use only one ticket for Single User , Multiple device ?
+
+No, You can't. You have to create New Tickets for different devices. One ticket can be used for only one device. 
+
+
+* How Can I arrange the Ticket as per : Date of Creation or Last Modified ?
+
+You can arrange Tickets as per  ascending or descending order as follows :
+
+Process to see tickets according to their creation time.
+
+Go to << “Tickets” 
+(Screenshot)
+
+Click on upper arrow to see tickets of previous date 
+(Screenshot)
+
+Click on lower arrow to see latest tickets.
+(Screenshot)
+
+Process to see tickets according to their modification time
+
+Go to << “Tickets” 
+(Screenshot)
+
+Click on upper arrow to see tickets modified on previous dates
+(Screenshot)
+
+Click on lower arrow to see latest modified tickets.
+(Screenshot)
+
+
+* Invoice process after Ticket Generation
+
+Go to << “Tickets” 
+(Screenshot)
+
+Search the particular customer name.
+(Screenshot)
+
+As you will  search for the customer , system will display an empty ticket. 
+(Screenshot)
+
+Fill all the necessary details in the ticket, then click on “Add”
+(Screenshot)
+
+As you will click on “Add” Ticket will be generated and system will display all the details of that particular ticket. 
+(Screenshot)
+
+Click on “Generate invoice”
+(Screenshot)
+
+As you will click on “Generate invoice” you will get a message “Are you sure to generate this invoice?” click on yes to generate the invoice
+(Screenshot)
+
+As you will click on “Yes” , invoice will be generated. 
+
+
+* Can I recover deleted Ticket ?
+
+No, once a ticket is deleted ,it cannot be recovered. You can create a new one. 
+
+Create a new ticket from here ( Link to Create new ticket )
+
+
+
+
+
+
+
+ 
 
 
 

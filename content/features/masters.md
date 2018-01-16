@@ -7,82 +7,119 @@ alwaysopen = true
 +++
 
 
-#### Device Category
-This option will isolate your product into a league and you can add a new products with its divisions.
+#### Product
 
-Multiple products: You can manage them all in just one software.(can keep a track for multiple products just with the one click.
+* How can I work on Products ?
 
-1. Get Started with a effortless actions.
-2. Hit the New button Icon near device categories.
-3. Add Product summary required.(Image)
-4. Click on Add button Icon.
+* If I want to add image of damaged product, how do I ?
 
-#### Device
- This feature allows to add Individual device with different categories .
 
- Products This section helps you to know the exact product details available like SKU, device category, price list,purchase price, & Installation fee.
 
-To Get This:
+#### Device & Device Catagories 
 
-1. Head to Master.
-2. Select “Products”
-3. Click Add “NEW”
+* How do I add New Device ?
 
-#### Shops
- 
- This Features help to manage multiple shops or branches. With just one click you can manage each store or shop in one time.
+Go to << “ Master ”
+(Screenshot)
 
-1. How to create and Add multiple store Location?
-2. How To Update Individual Item Price Across Multiple Stores?
+Click on “ New ”
+(Screenshot)
 
-#### How to create and Add multiple store Location?
- 
- If you have decided to expand your repair business. That's great! Repair Rabbit allows you to add multiple store locations to accommodate your ever growing business needs. So if you are figuring out how to set up another store location, then you have come to the right place!
+Add necessary details, then click on “ Add ”
+(Screenshot)
 
-#### In this article we will tell you about:
+As you will click on “ Add ”, device will be added.
 
-1. How to add another store location?
-2. Regional Settings.
-3. How to manage your stores?
-4. How to transfer Inventory Items.
-5. Multi store Reports.
 
-#### Add another store location?
+* How can I add SKU number for New Device ? ( link to SKU )
 
-1. Click on Master button Icon & select shops
-2. Click on "New" button.(Screenshot )
-3. Add New Stores, you can enter Basic, Contact and Other Information.
+* How can I  add description of a Device ?
 
-#### Basic Information.
+* If want to get backup data of devices, device categories etc. of a particular date, how can I do that?
 
-A. Under Basic Information, enter your Store Name, Email Address and other contact Information & Physical Address & click the Save changes button.
+* How can I add an image of the Device ?
 
- In case you have multiple stores you can also use friendly name under ‘Alternate name’ i.e. “Location name Store” to differentiate between multiple store locations.
+* How can I export data of Appointments, Tickets or Invoices?
 
-B. Select Device & add Details & Save changes & Next.
 
-C. Add Store Employees details. E.g. Name of the employee, store (where they are working or in particular store or branches), Email, daily working hours, break hours and working days.
+#### Stores 
 
-#### How To Update Individual Item Price Across Multiple Stores? 
+* How can I add the details of New Store ?
 
-Repair Rabbit allow merchants to run multiple stores and share inventory across each other. As items are sold in each of your store, inventory is updated automatically.
+* Is Opening and Closing time of Store is displayed anywhere ?
 
-To set this up, just:
 
-1.Head to inventory,click on “Add Stock”.
-2.Select the other informations and fill the details.
-3.Update the Price and head to “Add stock”.
+#### E mail 
 
-#### Email Templates
+* Where can I receive the mails of Customers for Appointment ? Is that notify anywhere ?
 
- This option helps to schedule the email Templates for your future Actions. With this feature, it's easy and effortless to send email every time even if you are not at work. This will automatically send the email templates following the schedule details. them.
+* How E mail Template system works ?
 
-To set this Up,just:
 
-1. Head to Master.
-2. Select Email Templates.
-3. Add “New”.
-4. Add other details like Name, Subject, Email Content, and
-5. Click “Submit”.
-6. Now Click the “Disable” option to “Enable” the action.
-7. Email Templates can also be “view”, “Edit” or “Delete” from the actions.
+#### Back up of Data
+  
+  Back up of...
+
+* Ticket
+
+* Appointment
+
+* Customers
+
+* Invoices
+
+* Employees 
+
+* Store Closed
+
+* Stocks
+
+* Stock History
+
+* Device Catagory 
+
+* Device 
+
+* Product 
+
+* Shops 
+
+* E mail Template
+
+
+
+#### Accessories 
+
+* Addition of New Accessories (also Mention the difference between different prices within)
+
+#### Roles of User
+
+
+
+#### Installation 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
