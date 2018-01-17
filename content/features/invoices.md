@@ -17,7 +17,7 @@ alwaysopen = true
 
 * Create an Invoice 
 
-New Invoice for New Customers :
+New Invoice for New Customers : (Underline this)
 
 
 Go to << “Invoices” 
@@ -34,12 +34,12 @@ Click on “Add”
 As you will click on “Add” button , it will display an empty invoice.
        (Screenshot)
 
-Fill all the necessary details required in invoice and click on “ save ” button . 
+Fill all the necessary details required in invoice and click on “save” button . 
        (Screenshot)
 
 As you will click on “Save” button ,invoice will be created.
 
-New Invoice for Existing customers 
+New Invoice for Existing customers : (Underline this)
 
 Go to << Invoices 
         (Screenshot)
@@ -50,7 +50,7 @@ Search customer name whose invoice is to be created.
 Fill all the details in the invoice, then click on “save” .
         (Screenshot)
 
-As You’ll click on “save” you’ll get a message “Are you sure to generate this invoice” ?
+As You’ll click on “save”, you’ll get a message “Are you sure to generate this invoice” ?
 
 Click “Yes” to generate the invoice
         (Screenshot)
@@ -93,7 +93,7 @@ Search by typing name of the customer whose invoice is to be checked.
 
 Yes, store wise invoices can be seen quite easily.
 
-Process to see invoices of a particular store.
+Process to see invoices of a particular store.(Underline this)
 
 Go to << Invoices 
        (Screenshot)
@@ -104,7 +104,7 @@ Go to the right side on the top &  select the particular store.
 As you’ll select the store , system will display invoices of that particular store.
       (Screenshot)
 
-Process to see invoices of all stores together. 
+Process to see invoices of all stores together. (Underline this)
 
  Go to << Invoices 
        (Screenshot)
@@ -178,9 +178,9 @@ Click on “Print”
      (Screenshot)
 
 
-* How do I manage Payments ? (Partial, refund , deposite , online payment failure )
+* How do I manage Payments ? (Partial, refund , deposit , online payment failure )
 
-please Contact : {link to Contact Us} to avil this facility
+please Contact : {link to Contact Us} to avail this facility
 
 * Discounting process on Invoice
 
@@ -205,7 +205,7 @@ After completion of this process click on “Edit”
 
 * How can I format Invoice as per my Business identity ? 
 
-please Contact : {link to Contact Us} to avil this facility
+please Contact : {link to Contact Us} to avail this facility
 
 * In case of other purchase apart from Repair Service, How it could be added to invoice ?
 

@@ -18,3 +18,9 @@ By clicking on “Agenda”,  you can see all the tasks with exact Date and Time
 
 You can overview the Tasks of particular Month, Week or a Day as well.
          (Screenshot)
+
+#### Dashboard
+
+* How do Dashboard is useful to me ?
+
+         
