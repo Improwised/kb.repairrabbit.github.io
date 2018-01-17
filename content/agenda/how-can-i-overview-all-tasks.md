@@ -3,7 +3,6 @@ title= "How can i overview all tasks?"
 date= 2018-01-16T20:02:37+05:30
 description = ""
 draft= false
-alwaysopen = true
 +++
 
 ![Example image](/images/social_mockup.jpg)
