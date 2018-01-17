@@ -1,0 +1,102 @@
+<style type="text/css">
+  .dd-item.cSection {
+    float: left;
+    margin: 30px;
+    max-width: 300px;
+  }
+  .dd-item.cPage {
+    padding: 2.5px 15px 2.5px 0;
+  }
+  .sectionPages * {
+    font-size: 14px;
+  }
+</style>
+<div class="{{if $.Site.Params.showVisitedLinks }}showVisitedLinks{{end}}">
+  {{ $currentNode := . }}
+  {{ $showvisitedlinks := .Site.Params.showVisitedLinks }}
+  <div class="highlightable">
+    <div class="topics">
+      {{if eq .Site.Params.ordersectionsby "title"}}
+      {{range .Site.Home.Sections.ByTitle}}
+      {{ template "section-tree-nav-content-links" dict "sect" . "currentnode" $currentNode "showvisitedlinks" $showvisitedlinks}}
+      {{end}}
+      {{else}}
+      {{range .Site.Home.Sections.ByWeight}}
+      {{ template "section-tree-nav-content-links" dict "sect" . "currentnode" $currentNode "showvisitedlinks" $showvisitedlinks}}
+      {{end}}
+      {{end}}
+      {{with .Site.Menus.shortcuts}}
+      <section id="shortcuts">
+        {{ range sort . "Weight"}}
+        <div class="" role="">
+          {{.Pre}}
+          <a href="{{.URL}}">{{safeHTML .Name}}</a>
+          {{.Post}}
+        </div>
+        {{end}}
+      </section>
+      {{ if $.Site.Params.showVisitedLinks}}
+      <a class="" href="#" data-clear-history-toggle=""><i class="fa  fa-history"></i> {{T "Clear-History"}}</a>
+      {{ end }}
+      {{end}}
+    </div>
+    <section id="footer">
+      {{ partial "menu-footer.html" . }}
+    </section>
+  </div>
+</div>
+<!-- templates -->
+{{ define "section-tree-nav-content-links" }}
+{{ $showvisitedlinks := .showvisitedlinks }}
+{{ $currentNode := .currentnode }}
+{{with .sect}}
+{{if .IsSection}}
+{{safeHTML .Params.head}}
+<div data-nav-id="{{.URL}}" class="clearfix dd-item cSection
+  {{if .IsAncestor $currentNode }}parent{{end}}
+  {{if eq .UniqueID $currentNode.UniqueID}}active{{end}}
+  {{if .Params.alwaysopen}}parent{{end}}
+  ">
+  {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
+  <a href="{{ .RelPermalink}}" style="font-size: 24px;">{{safeHTML .Params.Pre}}{{.Title}}{{safeHTML .Params.Post}}</a>
+  <div style="height: 5px;"></div>
+  {{ if ne $numberOfPages 0 }}
+  <div class="sectionPages">
+    {{ .Scratch.Set "pages" .Pages }}
+    {{ if .Sections}}
+    {{ .Scratch.Set "pages" (.Pages | union .Sections) }}
+    {{end}}
+    {{ $pages := (.Scratch.Get "pages") }}
+    {{if eq .Site.Params.ordersectionsby "title"}}
+    {{ range $pages.ByTitle }}
+    {{ if and .Params.hidden (not $.showhidden) }}
+    {{else}}
+    {{ template "section-tree-nav-content-links" dict "sect" . "currentnode" $currentNode "showvisitedlinks" $showvisitedlinks }}
+    {{end}}
+    {{ end }}
+    {{else}}
+    {{ range $pages.ByWeight }}
+    {{ if and .Params.hidden (not $.showhidden) }}
+    {{else}}
+    {{ template "section-tree-nav-content-links" dict "sect" . "currentnode" $currentNode "showvisitedlinks" $showvisitedlinks }}
+    {{end}}
+    {{ end }}
+    {{end}}
+  </div>
+  {{ end }}
+</div>
+{{else}}
+{{ if not .Params.Hidden }}
+<div data-nav-id="{{.URL}}" class="dd-item cPage
+  {{if eq .UniqueID $currentNode.UniqueID}}active{{end}}
+  ">
+  <a href="{{ .RelPermalink}}">
+  <i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;
+  <span>{{safeHTML .Params.Pre}}{{.Title}}{{safeHTML .Params.Post}}</span>
+  {{ if $showvisitedlinks}}<i style="color:grey" class="fa fa-circle-thin read-icon"></i>{{end}}
+  </a>
+</div>
+{{ end }}
+{{end}}
+{{ end }}
+{{ end }}
