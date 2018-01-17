@@ -34,3 +34,8 @@ alwaysopen = true
 
 {{%children style="h5"%}}
 ```
+
+* make sure you always run following command while inserting data in repo
+```
+hugo server --noHTTPCache -t docdock
+```
