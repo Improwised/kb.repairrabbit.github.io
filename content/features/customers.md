@@ -6,9 +6,7 @@ weight = 4
 alwaysopen = true
 +++
 
-#### Customers
-
-
+#### 
 *  How can I add New customer ? 
 
 Go to << “Customers” 
@@ -21,7 +19,6 @@ Fill all the necessary  information,  then click “Add”
           (Screenshot) 
 
 By clicking on “Add”, you can save the information of New Customer. 
-
 
 * If I have already listed my Clients, How can I add this into Repair Rabbit ?
 
@@ -36,7 +33,6 @@ Click on “Upload file” button
 
 As you will click on “Upload file” , File will be added.
 
-
 * How can I Edit my Existing Customer ?
 
 Go to << “Customers”
@@ -50,14 +46,14 @@ Edit the desired changes then click on “Edit”
 
 As you’ll click on “Edit”, all changes will be saved.
 
-
 * Do Customer can Access into Repair Rabbit ? How can I provide LOGIN Details to Customers ?
 
-Yes. Login password of Repair Rabbit can be provided to the customers though sending a mail which they provide for communication. (Screen shot for the filled e mail id)
+Yes. Login password of Repair Rabbit can be provided to the customers though sending a mail which they provide for communication. (Screenshot for the filled email id)
 
 Customer can Login into the Repair Rabbit through this registered email Id and password.
 
-Customer has limited priviledge of Repair Rabbit. To see priviledges ( Click on User Priviledge )
+Customer has limited privilege of Repair Rabbit. To see privileges ( Click on User Privilege )
+
 
 * If any Customer forget the Password , How can I help ?
 
@@ -69,11 +65,9 @@ System admin only can change the password of a customer. For this, Click on “C
 
 Now, customer will receive the mail for changing password. 
 
-
 * If my Customer generate an Appointment, Will they get any notification ? 
 
-Yes, Customer can receive notification via E mail for the same. 
-
+Yes, Customer can receive notification via Email for the same. 
 
 * Where can I check Invoice, Appointment and Ticket of the Customer ?
 
@@ -86,12 +80,9 @@ Search for the particular customer, then click on “View”
 Click on “Tickets", “Appointments” or “Invoices” for detailed information of any of the category.
            (Screenshot)
 
-
 * Do Customer can track his device's Repairing Status ?
 
 Yes, Customer can track . To track this, Customer has to Login in RR. 
-
-
 
 * How Customer can Prepone or Postpone his Appointment ?
 
