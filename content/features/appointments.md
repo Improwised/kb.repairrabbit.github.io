@@ -103,31 +103,3 @@ Please Note : You are not able to modify the Date, if it has already gone.
 
 Password is automatically send to mail ID which Customer has provided at the time of new customer entry. Customer can use this email address as ID for Log in. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
