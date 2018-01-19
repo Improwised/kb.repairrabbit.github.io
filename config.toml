@@ -1,4 +1,4 @@
-baseURL = "http://repairrabbit.gitlab.io/knowledge-base"
+baseURL = "http://repairrabbit.gitlab.io/"
 languageCode = "en-us"
 title = "Welcome to Repair App Knowledgebase"
 theme = "docdock"
