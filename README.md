@@ -22,3 +22,19 @@ Let me give you an example to create pages of appointments:
 
 * All the new pages will be in drafts mode, go to your file and remove drafts tag and add `weight = 1` and `alwaysopen = true`
 
+* make sure when you create your md file, this all properties is in frontmatter
+```
++++
+title= "Agenda"
+date= 2017-11-20T13:00:30+05:30
+description = ""
+weight = 1
+alwaysopen = true
++++
+{{%children style="h5"%}}
+```
+
+* make sure you always run following command while inserting data in repo
+```
+hugo server --noHTTPCache -t docdock
+```

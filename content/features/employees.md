@@ -55,7 +55,7 @@ Click on << Change Password
 
 * When to use Active / Deactive status ?
 
-If any employee leave the Shop or Organisation, it can be marked as “ Deactive ” . 
+If any employee leave the Shop or Organisation, it can be marked as “Deactive” . 
 
 Process of Deactivation :
 
