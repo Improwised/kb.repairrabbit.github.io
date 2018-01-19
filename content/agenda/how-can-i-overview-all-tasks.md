@@ -1,17 +1,14 @@
 +++
-title= "How can i overview all tasks?"
+title= "How can I overview all tasks?"
 date= 2018-01-16T20:02:37+05:30
 description = ""
 draft= false
 +++
 
-![Example image](/images/social_mockup.jpg)
-
-Go to << Agenda 
-         (Screenshot)
-
-By clicking on “Agenda”,  you can see all the tasks with exact Date and Time.
-         (Screenshot)
-
+Go to << Agenda
+![agenda1](/images/agenda/gotoagenda.png)
+By clicking on “Agenda”, you can see all the tasks with exact Date and Time.
+![agenda2](/images/agenda/agenda_see_all task.png)
 You can overview the Tasks of particular Month, Week or a Day as well.
-         (Screenshot)
+![agenda3](/images/agenda/agenda_selectmonth.png)       
+
