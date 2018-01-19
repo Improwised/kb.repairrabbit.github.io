@@ -4,7 +4,7 @@ before_script:
   - apk update && apk add openssl git
   - wget https://github.com/gohugoio/hugo/releases/download/v0.33/hugo_0.33_Linux-64bit.tar.gz
   - echo "8946a6b3c269fa3c9689085d860b7bd2  hugo_0.33_Linux-64bit.tar.gz" | md5sum -c
-  - tar xf hugo_0.33_Linux-64bit.tar.gz --strip-components=1 && cp ./hugo_0.33_Linux-64bit/hugo /usr/bin
+  - tar xf hugo_0.33_Linux-64bit.tar.gz && cp ./hugo_0.33_Linux-64bit/hugo /usr/bin
   - hugo version
   # Uncomment the next line if your theme is in a git submodule
   # - git submodule update --init
