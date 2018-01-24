@@ -7,25 +7,25 @@ date = "2017-09-05T18:36:24+02:00"
 
 ### Welcome to RepairRabbit Knowledgebase
 
-Thank you for stopping here. We hope that this knowledgebase will help you get started with RepairRabbit self hosted repairing application. If you have anything unclear, please feel free to write to us.
+Thank you for stopping here. We hope this knowledgebase will help you to get started with RepairRabbit as a self hosted repaire application. If you have anything unclear, please feel free to write us.
 
 
-Repair rabbit is a self hosted web application to take care of technical repair business. This web application efficiently monitors the operations, services and analysis for the multiple store at multiple locations.  
+Repair rabbit is a self hosted web application to maintain technical repair business. This web application efficiently monitors the operations, services and analysis for the multiple store at different locations.  
 
-You can perform multi functions with a single platform :
+ You can perform multiple actions with a single platform :
 
 * Create Appointment for the Customer 
 
-* Raise Ticket for Repairing Work Management
+* Raise Ticket for Repaire Work Management
 
-* Record & Track Customer’s Data
+* Record & Track Customer Data
 
-* Analyze the Overall Work of the Location
+* Analyze the Overall Work for the diffent Locations.
 
-* Verify Invoice Data
+* Verify Invoice Data.
 
-* Maintain Working Schedule of Employees
+* Manage work Schedule for the Employees.
 
-* Ease in Monitoring Branch wise Work
+* Ease to monitor store Work for different stores.
 
 * Inventory Management
