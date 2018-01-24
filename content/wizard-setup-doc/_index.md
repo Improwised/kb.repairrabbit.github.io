@@ -2,7 +2,7 @@
 title= "Product Installation Guide for Wizard"
 date= 2018-01-18T19:42:39+05:30
 description = ""
-draft= false
+draft= true
 type="page"
 +++
 

@@ -3,7 +3,7 @@ title= "Cron Setting Doc"
 date= 2018-01-18T19:23:21+05:30
 description = ""
 weight = 99
-draft= false
+draft= true
 alwaysopen = true
 +++
 
