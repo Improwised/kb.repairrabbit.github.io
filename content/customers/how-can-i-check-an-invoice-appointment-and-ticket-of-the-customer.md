@@ -5,5 +5,11 @@ description = ""
 draft= false
 +++
 
-Lorem Ipsum.
-Notice `draft` is set to true.
+Go to “ Customers”
+           (Screenshot) 
+ 
+Search the customer, select “ View ” 
+           (Screenshot) 
+
+Click “Tickets”, “Appointments” or  an “invoices” for detail information of any of the category.
+           (Screenshot)
