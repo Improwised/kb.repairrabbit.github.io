@@ -1,9 +1,9 @@
 +++
-title= "_Index"
-date= 2018-01-19T17:54:55+05:30
+title= "Dashboard"
+date= 2018-01-25T17:07:04+05:30
 description = ""
-draft= false
+draft= true
 +++
 
-Lorem Ipsum.
-Notice `draft` is set to true.
+
+{{%children style="h5"%}}

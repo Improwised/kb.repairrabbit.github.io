@@ -2,7 +2,7 @@
 title= "Roles assesment of admin"
 date= 2018-01-18T19:42:14+05:30
 description = ""
-draft= false
+draft= true
 +++
 
 The documentation for admin type of users in Repairrabbit is provided here in this file

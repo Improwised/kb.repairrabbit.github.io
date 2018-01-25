@@ -1,5 +1,5 @@
 +++
-title= "How customer can prepone or postpone his appointment ?"
+title= "How customer can prepone or postpone the appointment ?"
 date= 2018-01-19T11:32:27+05:30
 description= ""
 weight = 5
@@ -7,23 +7,22 @@ draft= false
 
 +++
 
-customer should Log in to the Repair Rabbit. 
+customer needs to Log in to the Repair Rabbit. 
 
 Go to << Appointments . 
 
-[appointments postpone prepone](/images/modify_appointment/goto_appointment.png)
+(/images/modify_appointment/goto_appointment.png)
 
-Click on "Edit" . 
+Click "Edit" . 
 
-[appointments postpone prepone](/images/modify_appointment/edit.png)
+(/images/modify_appointment/edit.png)
 
+Adjust the date and time & Click "Edit".
 
-Modify the date and time & Click on "Edit".
+(/images/modify_appointment/editagain.png)
 
-[appointments postpone prepone](/images/modify_appointment/editagain.png)
+change in Appointment is updated now. 
 
-Your Appointment is modified now. 
+(/images/modify_appointment/modified.png)
 
-[appointments postpone prepone](/images/modify_appointment/modified.png)
-
-Please Note : You are not able to modify the Date, if it has already gone. 
+Please Note : Passed dates cannot be modified. 

@@ -1,13 +1,14 @@
 +++
-title= "Do customer can access into Repair Rabbit ? How can I provide login details to customers?"
+title= "Do customers have access to Repair Rabbit ? How can I provide login details to customers?"
 date= 2018-01-19T16:43:52+05:30
 description = ""
 weight= 4
 draft= false
 +++
 
-Yes. Login password of Repair Rabbit can be provided to the customers though sending a mail which they provide for communication. (Screenshot for the filled email id)
+Login details like Email Id and password for customers can be provided by sending an email on registered mail id. 
 
-Customer can Login into the Repair Rabbit through this registered email Id and password.
+Customer can Login into the Repair Rabbit with the assign log in details.
+
 
 Customer has limited privilege of Repair Rabbit. To see privileges ( Click on User Privilege )

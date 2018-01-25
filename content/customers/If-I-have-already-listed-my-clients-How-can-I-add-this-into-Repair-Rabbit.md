@@ -1,8 +1,8 @@
 +++
-title= "If I have already listed my Clients, How can I add this into Repair Rabbit ? ?"
+title= " How can I add the list of my existing clients into Repair Rabbit ?"
 date= 2018-01-17T18:07:42+05:30
 description = ""
-weight = 2
+weight = 3
 draft= false
 
 +++
@@ -10,10 +10,10 @@ draft= false
 Go to << “Customers”
       
 
-Click on “Click to select a file” and Choose the file of Customer Data
+Click on “Click to select a file” and Choose the Customer Data file.
        
 
-Click on “Upload file” button
+Click on “Upload file” button.
        
 
-As you will click on “Upload file” , File will be added.
+your existing client data has been uploaded.

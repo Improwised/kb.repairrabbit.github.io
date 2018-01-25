@@ -2,7 +2,7 @@
 title= "Role assesment of customer"
 date= 2018-01-18T19:41:37+05:30
 description = ""
-draft= false
+draft= true
 +++
 
 The documentation for employee type of users in Repairrabbit is provided here in this file

@@ -2,7 +2,7 @@
 title= "Role Assesment of storeadmin"
 date= 2018-01-18T19:42:01+05:30
 description = ""
-draft= false
+draft= true
 +++
 
 The documentation for store-admin type of users in Repairrabbit is provided here in this file

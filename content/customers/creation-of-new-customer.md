@@ -1,21 +1,21 @@
 +++
-title= "How can I add new customer ?"
+title= "How to add a new customer or How can I add information about New Customers?"
 date= 2018-01-18T11:03:12+05:30
 description = ""
-Weight = 1
+Weight = 2
 draft= false
 +++
 
 Go to << “Customers” 
  
 
-Click on “New”
+Click “New”
          
 
-Fill all the necessary  information,  then click “Add”
+Fill the necessary  information, & click “Add”
         
 
-By clicking on “Add”, you can save the information of New Customer. 
+Your customer has been added to your list. 
 
 
 

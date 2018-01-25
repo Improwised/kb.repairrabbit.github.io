@@ -6,13 +6,17 @@
   }
   .dd-item.cSection {
     margin: 30px;
-    width: 300px;
+    width: 500px;
   }
   .dd-item.cPage {
     padding: 2.5px 15px 2.5px 0;
   }
   .sectionPages * {
-    font-size: 14px;
+    font-size: 16px;
+  }
+  #body .cPage a.highlight,
+  #body .cPage a.highlight i {
+    line-height: 1.5;
   }
 </style>
 <div class="{{if $.Site.Params.showVisitedLinks }}showVisitedLinks{{end}}">
@@ -95,9 +99,10 @@
   {{if eq .UniqueID $currentNode.UniqueID}}active{{end}}
   ">
   <a href="{{ .RelPermalink}}">
-  <i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;
-  <span>{{safeHTML .Params.Pre}}{{.Title}}{{safeHTML .Params.Post}}</span>
-  {{ if $showvisitedlinks}}<i style="color:grey" class="fa fa-circle-thin read-icon"></i>{{end}}
+    <div style="display: flex; align-items: flex-start;">
+      <i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;
+      <span>{{safeHTML .Params.Pre}}{{.Title}}{{safeHTML .Params.Post}}</span>
+    </div>
   </a>
 </div>
 {{ end }}
