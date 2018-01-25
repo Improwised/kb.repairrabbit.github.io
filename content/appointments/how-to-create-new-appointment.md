@@ -1,5 +1,5 @@
 +++
-title= "Create New Appointment"
+title= "How to create new appointment?"
 date= 2018-01-18T11:05:02+05:30
 description = ""
 weight = 2
