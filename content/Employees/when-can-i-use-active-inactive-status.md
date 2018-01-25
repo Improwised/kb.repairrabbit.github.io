@@ -1,5 +1,5 @@
 +++
-title= "when can i use activeor inactive status?"
+title= "When can i use active or inactive status?"
 date= 2018-01-17T18:07:42+05:30
 description = ""
 weight = 7

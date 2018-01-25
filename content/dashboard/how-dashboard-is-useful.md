@@ -6,5 +6,6 @@ weight= 1
 draft= false
 +++
 
-Lorem Ipsum.
-Notice `draft` is set to true.
+
+
+

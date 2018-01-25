@@ -1,5 +1,5 @@
 +++
-title= "How can i add an image of a damaged product?"
+title= "How can i add an image of a damaged Product?"
 date= 2018-01-25T12:49:51+05:30
 description = ""
 weight= 1

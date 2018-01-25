@@ -1,5 +1,5 @@
 +++
-title= " How to take data backup for the device?"
+title= "How to take data backup for the device?"
 date= 2018-01-25T15:02:24+05:30
 description = ""
 weight= 10
