@@ -10,7 +10,7 @@ draft= false
 
 
 Go to “Inventory”
-(Screenshot)
+![convert appointment into ticket2](/images/add_stock/add_stock_1.png)
 
 Click “add stock”
 (Screenshot)
