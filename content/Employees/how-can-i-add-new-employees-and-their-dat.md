@@ -8,14 +8,14 @@ draft= false
 
 
 Go to > Employees 
-         (Screenshot)
+![convert appointment into ticket3](/images/add_employee/add_employee_2.png)
 
 Click “New”
-         (Screenshot)
+![convert appointment into ticket3](/images/add_employee/add_Employee_3.png)
 
 Fill the necessary details about the employee, then click “Add”
          (Screenshot) 
-
+![convert appointment into ticket3](/images/add_employee/add_employee_4.png)
 click “Add” employees.
-         (Screenshot) 
+![convert appointment into ticket3](/images/add_employee/add_employee_5.png)
 

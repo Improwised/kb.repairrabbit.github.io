@@ -11,6 +11,7 @@ Password can be Changed and the new changes will be sent automatically to Employ
 To change this password:
 
 Go to << Employee
+![convert appointment into ticket3](/images/add_employee/add_employee_2.png)
 
 click << Change Password
 
