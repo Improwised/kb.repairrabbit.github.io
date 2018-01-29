@@ -1,5 +1,5 @@
 +++
-title= "How to take data back up for the store closed?"
+title= "How to take data back up for the store Holiday?"
 date= 2018-01-25T14:46:29+05:30
 description= ""
 weight= 6
@@ -9,10 +9,11 @@ draft= false
 
 
 Go to “master management”
-(Screenshot)
+![How to take data back for the store holiday?](/images/data_back_up_store_closed/go_to_master.png)
 
 Click “data backup ”
-(Screenshot)
+![How to take data back for the store holiday?](/images/data_back_up_store_closed/click_data_backup.png)
+
 
 Select “Store closed” from select module
 (Screenshot)

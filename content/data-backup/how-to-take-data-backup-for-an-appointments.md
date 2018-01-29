@@ -12,28 +12,29 @@ draft= false
 
 
 Go to “master management”
-(Screenshot)
+![How to take data back for an appointments?](/images/data_back_up_appointment/go_to_master_shops.png)
 
 Click “data backup”
-(Screenshot)
+![How to take data back for an appointments?](/images/data_back_up_appointment/click_data_backup.png)
+
 
 Select “appointment” from select module
-(Screenshot)
+![How to take data back for an appointments?](/images/data_back_up_appointment/appointments.png)
 
 Select date for data backup  is required. 
-(Screenshot)
+![How to take data back for an appointments?](/images/data_back_up_appointment/date.png)
 
 click “Select range ”
-(Screenshot)
+![How to take data back for an appointments?](/images/data_back_up_appointment/select_range_app.png)
 
 select date from “Custom range ” to export the data for specific date.
-(Screenshot)
+![How to take data back for an appointments?](/images/data_back_up_appointment/)
 
 Click “apply ”
-(Screenshot)
+![How to take data back for an appointments?](/images/data_back_up_appointment/click_data_backup.png)
 
 Click “export ” 
-(Screenshot)
+![How to take data back for an appointments?](/images/data_back_up_appointment/export_app.png)
 
 Your data back up has been saved in your system setting
 

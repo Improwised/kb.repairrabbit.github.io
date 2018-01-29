@@ -9,19 +9,19 @@ draft= false
 
 
 Go to “master management”
-(Screenshot)
+![How to take data back for an email template?](/images/data_back_up_email_template/)
 
-Click “data backup”
-(Screenshot)
 
 Select “email template” from select module
-(Screenshot)
+![How to take data back for an email template?](/images/data_back_up_email_template/email_templates.png)
 
 click “Select range ”
-(Screenshot)
+![How to take data back for an email template?](/images/data_back_up_email_template/select_range.png)
+
 
 Click “export”
-(Screenshot)
+![How to take data back for an email template?](/images/data_back_up_email_template/export.png)
+
 
 Your data back up has been saved in your system settings.
 

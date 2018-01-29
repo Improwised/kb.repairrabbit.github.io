@@ -6,12 +6,11 @@ draft= false
 +++
 
 Go to << Agenda
-![agenda1](/images/agenda/gotoagenda.png)
+![How can i overview all tasks](/images/agenda/gotoagenda.png)
 
-click “Agenda”, you will get the tasks summary with exact Date and Time.
 
-![agenda2](/images/agenda/agenda_see_all task.png)
-You can also review the Tasks for particular Month, Week or a Day .
+You can also review the Tasks for particular Month.
+![How cani overview all tasks](/images/agenda/agenda_selectmonth.png)       
 
-![agenda3](/images/agenda/agenda_selectmonth.png)       
-
+View Task Summary with Exact dates.
+![How cani overview all tasks](/images/agenda/agenda_see_all_task.png)     

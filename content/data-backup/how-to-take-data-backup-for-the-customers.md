@@ -9,27 +9,29 @@ draft= false
 
 
 Go to “master management”
-(Screenshot)
+![How to take data back for the customers?](/images/data_back_up_customers/go_to_master.png)
 
 Click “data backup”
-(Screenshot)
+![How to take data back for the customers?](/images/data_back_up_customers/click_data_backup.png)
 
 Select “Customers” from select module
-(Screenshot)
+![How to take data back for the customers?](/images/data_back_up_customers/select_customers_module.png)
 
 Select date for data backup  is required. 
-(Screenshot)
+![How to take data back for the customers?](/images/data_back_up_customers/select_date_cus.png)
 
 click “Select range ”
-(Screenshot)
+![How to take data back for the customers?](/images/data_back_up_customers/select_range_customers.png)
+
 
 select date from “Custom range ” to export the data for specific date.
 (Screenshot)
 
 Click “apply ”
-(Screenshot)
+![How to take data back for the customers?](/images/data_back_up_customers/apply_customers.png)
 
 Click “export ” 
-(Screenshot)
+![How to take data back for the customers?](/images/data_back_up_customers/export_customers.png)
+
 
 Your data back up has been saved in your system setting.

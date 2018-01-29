@@ -11,18 +11,20 @@ customer needs to Log in to the Repair Rabbit.
 
 Go to << Appointments . 
 
-(/images/modify_appointment/goto_appointment.png)
+
+![convert appointment into ticket2](/images/appointments/appointment_goto.png)
 
 Click "Edit" . 
 
-(/images/modify_appointment/edit.png)
+![convert appointment into ticket2](/images/appointments/appointmentedit.png)
 
 Adjust the date and time & Click "Edit".
 
-(/images/modify_appointment/editagain.png)
+![convert appointment into ticket2](/images/modify_appointment/editagain.png)
+
 
 change in Appointment is updated now. 
 
-(/images/modify_appointment/modified.png)
+![convert appointment into ticket2](/images/modify_appointment/modified.png)
 
 Please Note : Passed dates cannot be modified. 

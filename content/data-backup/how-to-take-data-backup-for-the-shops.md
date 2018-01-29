@@ -9,19 +9,20 @@ draft= false
 
 
 Go to “master management”
-(Screenshot)
+![How to take data back for the shop?](/images/data_back_up_shops/
 
 Click “data backup”
-(Screenshot)
+![How to take data back for the shop?](/images/data_back_up_shops/data_back_up.png)
 
 Select “Shops” from select module
-(Screenshot)
+![How to take data back for the shop?](/images/data_back_up_shops/select_module_shop.png)
 
 click “Select range”
-(Screenshot)
+![How to take data back for the shop?](/images/data_back_up_shops/select_range.png)
 
-Click “export ”
-(Screenshot)
+Click “export”
+![How to take data back for the shop?](/images/data_back_up_shops/click_export.png)
+
 
 Your data back up has been saved in your system settings.
 
