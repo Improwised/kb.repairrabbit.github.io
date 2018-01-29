@@ -9,7 +9,7 @@ draft= false
 
 
 Go to “master management”
-(Screenshot)
+![convert appointment into ticket2](/images/back_up_data_stock/go_to_master_shops.png)
 
 Click “data backup”
 (Screenshot)
