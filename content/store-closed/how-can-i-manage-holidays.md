@@ -39,10 +39,10 @@ go to "master management"
 go to “Store closed”
 ![How can i manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_edit_holiday/click_store_holidays.png)
 
-Select the holiday and make the required changes & click “edit”
+select the holiday and make the required changes & click “edit”
 ![How can i manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_edit_holiday/select_holiday_and_click_edit.png)
 
-Click “Edit”  & the new change done will be saved.
+click “Edit”  & the new change done will be saved.
 ![How can i manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_edit_holiday/edit_details_and_click_edit.png) 
 
 
@@ -53,7 +53,7 @@ Click “Edit”  & the new change done will be saved.
 Go to "master management"
 ![How can i manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_delet_holiday/go_to_master_management.png)
 
-Go to“Store closed”
+Go to“store closed”
 ![How can i manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_delet_holiday/click_store_holidays.png)
 
 Select the holiday to be deleted and click  “delete”
