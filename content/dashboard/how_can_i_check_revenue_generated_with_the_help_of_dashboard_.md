@@ -12,7 +12,6 @@ draft= false
 go to "dashboard"
 ![How can i check revenue generated with the help of dashboard?](/images/dashboard/how_can_i_check_revenue_generated/go_to_dashboar.png)
 
-
 select "date" and "store" and search
 ![How can i check revenue generated with the help of dashboard?](/images/dashboard/how_can_i_check_revenue_generated/select_date_and_store_and_search.png)
 

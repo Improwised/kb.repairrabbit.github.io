@@ -8,19 +8,21 @@ draft= false
 
 
 Go to “master management”
-(Screenshot)
+![How to take data backup for the device category?](/images/data_backup_device_category/go_to_master_management.png)
 
 Click “data backup”
-(Screenshot)
+![How to take data backup for the device category?](/images/data_backup_device_category/select_data_backup.png)
+
 
 Select “device category” from select module
-(Screenshot)
+![How to take data backup for the device category?](/images/data_backup_device_category/select_device_category.png)
 
 click “Select range”
-(Screenshot)
+![How to take data backup for the device category?](/images/data_backup_device_category/select_range.png)
 
 Click “export”
-(Screenshot)
+![How to take data backup for the device category?](/images/data_backup_device_category/click_export.png)
+
 
 Your data back up has been saved in your system settings.
 

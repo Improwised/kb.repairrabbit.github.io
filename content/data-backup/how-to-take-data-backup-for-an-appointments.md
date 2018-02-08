@@ -12,7 +12,7 @@ draft= false
 
 
 Go to “master management”
-![How to take data back for an appointments?](/images/data_back_up_appointment/go_to_master_shops.png)
+![How to take data back for an appointments?](/images/data_back_up_appointment/go_to_master.png)
 
 Click “data backup”
 ![How to take data back for an appointments?](/images/data_back_up_appointment/click_data_backup.png)

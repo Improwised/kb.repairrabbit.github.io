@@ -11,28 +11,31 @@ draft= false
 To get backup for Tickets, 
 
 Go to “master management”
-(Screenshot)
+![How to take data back up for the tickets?](/images/data_backup_tickets/go_to_master_management.png)
 
 Click “data backup”
-(Screenshot)
+![How to take data back up for the tickets?](/images/data_backup_tickets/select_data_backup.png)
 
 Select "tickets" from Select Module. 
-(Screenshot)
+![How to take data back up for the tickets?](/images/data_backup_tickets/select_tickets.png)
 
 Select date for data backup  is required. 
-(Screenshot)
+![How to take data back up for the tickets?](/images/data_backup_tickets/select_date.png)
 
 click “Select range ”
-(Screenshot)
+![How to take data back up for the tickets?](/images/data_backup_tickets/select_range.png)
 
 select date from “Custom range ” to export the data for specific date.
-(Screenshot)
+![How to take data back up for the tickets?](/images/data_backup_tickets/)
+
 
 Click “apply ”
-(Screenshot)
+![How to take data back up for the tickets?](/images/data_backup_tickets/click_apply.png)
+)
 
 Click “export ” 
-(Screenshot)
+![How to take data back up for the tickets?](/images/data_backup_tickets/click_export.png)
+
 
 Your data back up has been saved in your system setting
 
