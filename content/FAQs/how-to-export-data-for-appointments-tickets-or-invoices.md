@@ -8,14 +8,17 @@ draft= false
 
 
 
-Go to “inventory”
-(Screenshot)
+Go to “master management”
+![How to export data for appointments,tickets or invoices?](/images/faq's/how_to_export_data_for_appointments_tickets_or_invoice/go_to_master_management.png)
 
 Click “data backup ”
-(Screenshot)
+![How to export data for appointments,tickets or invoices?](/images/faq's/how_to_export_data_for_appointments_tickets_or_invoice/select_data_backup.png)
 
-Select the category for data export,  with it's time duration & range. 
-(Screenshot)
+Select the category for data export,  with it's time duration
+![How to export data for appointments,tickets or invoices?](/images/faq's/how_to_export_data_for_appointments_tickets_or_invoice/select_date.png)
+
+select ticket, appointments or invoice from the list.
+![How to export data for appointments,tickets or invoices?](/images/faq's/how_to_export_data_for_appointments_tickets_or_invoice/select_ticket_invoice.png)
 
 click “export ”
-(Screenshot)
+![How to export data for appointments,tickets or invoices?](/images/faq's/how_to_export_data_for_appointments_tickets_or_invoice/clcik_export.png)
