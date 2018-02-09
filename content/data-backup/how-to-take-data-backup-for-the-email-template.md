@@ -9,7 +9,7 @@ draft= false
 
 
 Go to “master management”
-![How to take data back for an email template?](/images/data_back_up_email_template/)
+![How to take data back for an email template?](/images/data_back_up_email_template/go_to_master_management.png)
 
 
 Select “email template” from select module

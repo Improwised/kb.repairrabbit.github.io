@@ -1,7 +1,7 @@
 +++
 title= "Can i recover the deleted tickets?"
 date= 2018-01-25T16:52:44+05:30
-description = ""
+description= ""
 weight= 13
 draft= false
 +++
@@ -11,17 +11,17 @@ No, we are sorry. you cannot recover the deleted ticket. You need to create a ne
 
 You can create a new ticket from here.
 
-Go to "tickets"
-(Screenshot)
+go to "tickets"
+![How to create a new ticket?](/images/tickets/can_i_recover_the_deleted_tickets/go_to_tickests.png)
 
-Click “new”
-(Screenshot)
+click “new”
+![How to create a new ticket?](/images/tickets/can_i_recover_the_deleted_tickets/click_new.png)
 
 Search the customer.
-(Screenshot)
+![How to create a new ticket?](/images/tickets/can_i_recover_the_deleted_tickets/search_customer.png)
 
 Fill the required details, click “add ”
-(Screenshot)
+![How to create a new ticket?](/images/tickets/can_i_recover_the_deleted_tickets/add_the_required_details_and_add.png)
 
 The new ticket will be created.
 
