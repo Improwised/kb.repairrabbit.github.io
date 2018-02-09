@@ -9,8 +9,8 @@ draft= false
 
 
 Go to “tickets ”
-(Screenshot)
+![How can i see repair tickets?](/images/tickets/how_can_i_see_repaired_tickets/go_to_tickets.png)
 
 System will show you the summarize list of the tickets for repair.
-(screenshot)
+![How can i see repair tickets?](/images/tickets/how_can_i_see_repaired_tickets/ticket_summary.png)
 
