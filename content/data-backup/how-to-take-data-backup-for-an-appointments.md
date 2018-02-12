@@ -28,7 +28,7 @@ click “Select range ”
 ![How to take data back for an appointments?](/images/data_back_up_appointment/select_range_app.png)
 
 select date from “Custom range ” to export the data for specific date.
-![How to take data back for an appointments?](/images/data_back_up_appointment/)
+![How to take data back for an appointments?](/images/custom_image/custom_range.png)
 
 Click “apply ”
 ![How to take data back for an appointments?](/images/data_back_up_appointment/click_data_backup.png)
