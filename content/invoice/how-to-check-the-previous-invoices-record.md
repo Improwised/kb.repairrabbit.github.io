@@ -10,10 +10,12 @@ draft= false
 Here you can check the summary of an individual customer with specific duration (Day, Week, Month).
 
 Go to "invoice"
-(Screenshot)
+![How to check the previous invoice records?](/images/invoice/how_to_check_previous_invoice_records/go_to_invoice.png)
 
 
-Select the date, week or a month.(screenshot)
+Select the date, week or a month and "apply"
+![How to check the previous invoice records?](/images/invoice/how_to_check_previous_invoice_records/select_date_and_apply.png)
 
-The details summary for the requested time will be shown.(screenshot)
+The details summary for the requested time will be shown.
+![How to check the previous invoice records?](/images/invoice/how_to_check_previous_invoice_records/system_will_show_you_history.png)
 

@@ -11,24 +11,23 @@ draft= false
 
 
 Go to “invoices ” 
-(Screenshot)
+![How to add other service purchased a part from repair rabbit to the invoice?](/images/invoice/how_to_add_additional_purchase_in_invoice/go_to_invoice.png)
 
-Select the particular invoice and click “view ”
-(Screenshot)
+click "New"
+![How to add other service purchased a part from repair rabbit to the invoice?](/images/invoice/how_to_add_additional_purchase_in_invoice/clcik_new.png)
 
-Click on “edit ”
-(Screenshot)
+add the required details and add
+![How to add other service purchased a part from repair rabbit to the invoice?](/images/invoice/how_to_add_additional_purchase_in_invoice/add_required_details_and_add.png)
 
-As you will click on “edit”, it  will allow you to make changes in the invoice
-(Screenshot)
+Now add the details in the invoice
+![How to add other service purchased a part from repair rabbit to the invoice?](/images/invoice/how_to_add_additional_purchase_in_invoice/addd_the_details_in_invoice.png)
 
 Click in the (+) sign to add extra items to  invoice. 
-(Screenshot)
+![How to add other service purchased a part from repair rabbit to the invoice?](/images/invoice/how_to_add_additional_purchase_in_invoice/add_the_details_on_additional_purchase.png)
 
 Click “save” 
-(Screenshot)
+![How to add other service purchased a part from repair rabbit to the invoice?](/images/invoice/how_to_add_additional_purchase_in_invoice/now_save.png)
 
-while click on save you will get a message “are you sure to generate an 
-invoice?” 
+while click on save you will get a message “are you sure to generate an invoice?” 
+![How to add other service purchased a part from repair rabbit to the invoice?](/images/invoice/how_to_add_additional_purchase_in_invoice/system_will_ask_to_confirm_your_action.png)
 
-Click on “ok” to generate the invoice.

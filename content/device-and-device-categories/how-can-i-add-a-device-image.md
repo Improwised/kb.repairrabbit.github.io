@@ -11,21 +11,19 @@ draft= false
 
 
 Go to “master management”
-(Screenshot)
+![How can i add a device image?](/images/device_and_device_categories/how_can_i_add_a_device_image/go_to_master_management.png)
 
 Click “devices”
-(Screenshot)
+![How can i add a device image?](/images/device_and_device_categories/how_can_i_add_a_device_image/select_device_categories.png)
 
 Click “new”
-(Screenshot)
+![How can i add a device image?](/images/device_and_device_categories/how_can_i_add_a_device_image/click_new.png)
 
 Click “Click to select file” 
-(Screenshot)
-
-Select the image and click  “add”
-(Screenshot)
+![How can i add a device image?](/images/device_and_device_categories/how_can_i_add_a_device_image/click_to_select_file.png)
 
 As you will click “add” image will be added
-(Screenshot) 
+![How can i add a device image?](/images/device_and_device_categories/how_can_i_add_a_device_image/now_add.png)
+
 
 
