@@ -14,10 +14,10 @@ click “data backup”
 ![How to take data back for the device?](/images/data_back_up_devices/click_data_backup.png)
 
 Select “devices” from select module
-![How to take data back for the device?](/images/data_back_up_devices/)
+![How to take data back for the device?](/images/data_back_up_devices/select_device_module.png)
 
 click “Select range”
-![How to take data back for the device?](/images/data_back_up_devices/)
+![How to take data back for the device?](/images/data_back_up_devices/select_range.png)
 
 Click “export”
 ![How to take data back for the device?](/images/data_back_up_devices/click_export.png/)

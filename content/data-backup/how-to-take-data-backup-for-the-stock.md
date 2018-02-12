@@ -21,7 +21,7 @@ click “Select range”
 ![How to take data back for the stock?](/images/data_back_up_stock/select_range.png)
 
 click on “export”
-![How to take data back for the stock?](/images/data_back_up_stock/
+![How to take data back for the stock?](/images/data_back_up_stock/click_export.png)
 
 
 Your data back up has been saved in your system setting.

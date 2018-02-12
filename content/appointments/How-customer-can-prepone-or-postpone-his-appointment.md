@@ -9,22 +9,20 @@ draft= false
 
 customer needs to Log in to the Repair Rabbit. 
 
-Go to << Appointments . 
+Go to Appointments 
+![How customer can prepone or postpone the appointment?](/images/appointments/how_to_prepone_or_postpone_appointments/go_to_appointments.png)
 
+Search the customer
+![How customer can prepone or postpone the appointment?](/images/appointments/how_to_prepone_or_postpone_appointments/search_the_customer_to_edit.png)
 
-![convert appointment into ticket2](/images/appointments/appointment_goto.png)
+click "edit"
+![How customer can prepone or postpone the appointment?](/images/appointments/how_to_prepone_or_postpone_appointments/click_edit.png)
 
-Click "Edit" . 
+select date or time to change the appointment
+![How customer can prepone or postpone the appointment?](/images/appointments/how_to_prepone_or_postpone_appointments/select_date_and_time.png)
 
-![convert appointment into ticket2](/images/appointments/appointmentedit.png)
+click "save"
+![How customer can prepone or postpone the appointment?](/images/appointments/how_to_prepone_or_postpone_appointments/click_save.png)
 
-Adjust the date and time & Click "Edit".
-
-![convert appointment into ticket2](/images/modify_appointment/editagain.png)
-
-
-change in Appointment is updated now. 
-
-![convert appointment into ticket2](/images/modify_appointment/modified.png)
 
 Please Note : Passed dates cannot be modified. 

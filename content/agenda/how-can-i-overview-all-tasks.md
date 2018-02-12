@@ -5,7 +5,7 @@ description = ""
 draft= false
 +++
 
-Go to << Agenda
+Go to Agenda
 ![How can i overview all tasks](/images/agenda/gotoagenda.png)
 
 
