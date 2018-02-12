@@ -8,15 +8,23 @@ draft= false
 
 
 
-If an employees leave the Shop or Organisation, it can be marked as “ Inactive ” . 
+Once an employee join the organisation or shop he will be marked as an active but if an employeesleave the Shop or Organisation, they need to be marked as “ Inactive ” .
 
-**_Process to Inactive_** :
 
-Go to << Employee
+#### *Process* to change the Active/Inactive status 
 
-select **“Edit”** ( Screenshot )
 
-Click  **“Inactive”**.
+Go to Employees
+![When can i use active or inactive status?](/images/employees/how_to_assign_active_inactive_status/go_to_employees.png) 
 
-When any Employee join or Rejoin the Shop or Organisation,it can be marked as “ Active ” status. 
+Search the Employees
+![When can i use active or inactive status?](/images/employees/how_to_assign_active_inactive_status/search_the_employee.png) 
+
+click "edit"
+![When can i use active or inactive status?](/images/employees/how_to_assign_active_inactive_status/click_edit.png) 
+
+click "save"
+![When can i use active or inactive status?](/images/employees/how_to_assign_active_inactive_status/now_save.png) 
+
+
 

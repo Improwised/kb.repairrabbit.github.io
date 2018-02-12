@@ -14,6 +14,19 @@ While adding a new Employee, you can assign any one category from
 2. Store Admin 
 3. Employee. 
 
-After selecting this,you need to save this data by as single click on edit button. employees login details will be the Id and Password will automatically sent to the same email .
+Go to Employees
+![How can i assifn priviledge to different categories?](/images/employees/go_to_employees.png)
 
+Add "New"
+![How can i assifn priviledge to different categories?](/images/employees/add_new.png)
+
+fill the required details to assign priviledge
+![How can i assifn priviledge to different categories?](/images/employees/fill_the_required_details_and_assign_privilege.png)
+
+Click "add"
+![How can i assifn priviledge to different categories?](/images/employees/click_add.png)
+
+
+
+#### Important
 Privilege for Customers will be automatically assigned.  On adding a new Customer , the registered email of Customers would be their login Id and Password will sent  automatically to registered email.

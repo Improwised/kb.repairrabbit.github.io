@@ -10,9 +10,11 @@ Password can be Changed and the new changes will be sent automatically to Employ
 
 To change this password:
 
-Go to << Employee
-![convert appointment into ticket3](/images/add_employee/add_employee_2.png)
+Go to Employee
+![What if my employees forget the login details or password of the software?](/images/employees/how_to_change_password_for_exsisting_employee/go_to_employees.png)
 
-click << Change Password
+Search the employee
+![What if my employees forget the login details or password of the software?](/images/employees/how_to_change_password_for_exsisting_employee/search_the_employees.png)
 
-(Screenshot)
+click on Change Password
+![What if my employees forget the login details or password of the software?](/images/employees/how_to_change_password_for_exsisting_employee/click_change_password.png)
