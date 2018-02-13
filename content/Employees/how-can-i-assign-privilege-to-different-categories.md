@@ -15,16 +15,16 @@ While adding a new Employee, you can assign any one category from
 3. Employee. 
 
 Go to Employees
-![How can i assifn priviledge to different categories?](/images/employees/go_to_employees.png)
+![How can i assign priviledge to different categories?](/images/employees/how_to_assing_priviledges/go_to_employees.png)
 
 Add "New"
-![How can i assifn priviledge to different categories?](/images/employees/add_new.png)
+![How can i assign priviledge to different categories?](/images/employees/how_to_assing_priviledges/add_new.png)
 
 fill the required details to assign priviledge
-![How can i assifn priviledge to different categories?](/images/employees/fill_the_required_details_and_assign_privilege.png)
+![How can i assign priviledge to different categories?](/images/employees/how_to_assing_priviledges/fill_the_required_details_and_assign_privilege.png)
 
 Click "add"
-![How can i assifn priviledge to different categories?](/images/employees/click_add.png)
+![How can i assign priviledge to different categories?](/images/employees/how_to_assing_priviledges/click_add.png)
 
 
 
