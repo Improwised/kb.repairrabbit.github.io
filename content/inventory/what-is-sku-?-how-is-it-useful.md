@@ -6,17 +6,15 @@ weight= 2
 draft= false
 +++
 
-SKU is Stock Keeping Unit. 
+#### SKU is Stock Keeping Unit. 
 
 Go to “Master Management"
-(Screenshot)
+![what is SKU? How is it useful?](/images/inventory/what_is_sku_how_is_it_useful/go_to_master_management.png)
 
 Click "Product"
-(screenshot)
+![what is SKU? How is it useful?](/images/inventory/what_is_sku_how_is_it_useful/click_product.png)
 
-Select "Product"
-(screenshot)
+Select "Product" and "edit"
+![what is SKU? How is it useful?](/images/inventory/what_is_sku_how_is_it_useful/select_the_product_and_edit.png)
 
 
-click "Edit"
-(screenshot)

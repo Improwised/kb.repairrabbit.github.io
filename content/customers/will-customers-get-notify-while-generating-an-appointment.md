@@ -6,5 +6,4 @@ weight = 6
 draft= false
 +++
 
-Lorem Ipsum.
-Notice `draft` is set to true.
+ yes customer will get notify for booked appointment via email.

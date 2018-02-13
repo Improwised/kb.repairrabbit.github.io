@@ -7,13 +7,14 @@ draft= false
 +++
 
 Go to "Inventory”
-(Screenshot)
+![How to check record of stock for multiple stores?](/images/inventory/how_to_check_stock_records_for_multiple_stores/go_to_inventory.png)
 
 Click “View stock ”
-(Screenshot)
+![How to check record of stock for multiple stores?](/images/inventory/how_to_check_stock_records_for_multiple_stores/view_stock.png)
 
 Select “all branches” from the top right corner.
-(Screenshot)
+![How to check record of stock for multiple stores?](/images/inventory/how_to_check_stock_records_for_multiple_stores/select_all_branches.png)
 
-it will summarize the stock for “all branches” (Screenshot)
+it will summarize the stock for “all branches”
+![How to check record of stock for multiple stores?](/images/inventory/how_to_check_stock_records_for_multiple_stores/detail_summary_for_stock.png)
 

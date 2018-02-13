@@ -8,14 +8,18 @@ draft= false
 
 
 
-Go to “Master”
-(Screenshot)
+Go to “Master management”
+![How to add exsisting device description?](/images/device_and_device_categories/how_to_Add_exsisting_device_description/go_to_master_management.png)
+
+search the device
+![How to add exsisting device description?](/images/device_and_device_categories/how_to_Add_exsisting_device_description/search_the_device.png)
+
 
 Select the device and click  “edit”
-(Screenshot)
+![How to add exsisting device description?](/images/device_and_device_categories/how_to_Add_exsisting_device_description/select_the_device_and_click_edit.png)
 
-Add description and click  “edit ”
-(Screenshot)
+Add description and click  “edit ” & "save"
+![How to add exsisting device description?](/images/device_and_device_categories/how_to_Add_exsisting_device_description/edit_the_details_and_save.png)
 
 
 

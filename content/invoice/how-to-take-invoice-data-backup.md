@@ -11,16 +11,19 @@ draft= false
 
 
 Go to "master management" 
- (Screenshot)
+![How to take invoice data backup?](/images/invoice/how_to_take_invoice_data_backup/Go_to_master_management.png)
 
 select “ data backup ”
-(Screenshot)
+![How to take invoice data backup?](/images/invoice/how_to_take_invoice_data_backup/Select_data_backup.png)
 
-Click “invoices ” 
-(Screenshot)
+Click “invoices” from module
+![How to take invoice data backup?](/images/invoice/how_to_take_invoice_data_backup/select_invoice.png)
 
-Select time duration & range
-(Screenshot)
+Select date
+![How to take invoice data backup?](/images/invoice/how_to_take_invoice_data_backup/Select_date.png)
+
+select range
+![How to take invoice data backup?](/images/invoice/how_to_take_invoice_data_backup/select_range.png)
 
 Then click  “Export ” 
-(Screenshot)
+![How to take invoice data backup?](/images/invoice/how_to_take_invoice_data_backup/select_export_data.png)

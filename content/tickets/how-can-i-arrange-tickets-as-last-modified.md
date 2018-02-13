@@ -10,11 +10,11 @@ draft= false
 
 
 Go to “tickets ” 
-(Screenshot)
+![How can i arrange tickets as last modified?](/images/tickets/how_can_i_ arrange_tickets_as_last_ modified/go_to_tickets.png)
 
 Click on upper case key to see tickets modified on previous dates.
-(Screenshot)
+![How can i arrange tickets as last modified?](/images/tickets/how_can_i_ arrange_tickets_as_last_ modified/Click on upper case key to see tickets modified on previous dates.png)
 
 Click on lower case key to see latest modified tickets.
-(Screenshot)
+![How can i arrange tickets as last modified?](/images/tickets/how_can_i_ arrange_tickets_as_last_ modified/Click on lower case key to see latest modified tickets.png)
 

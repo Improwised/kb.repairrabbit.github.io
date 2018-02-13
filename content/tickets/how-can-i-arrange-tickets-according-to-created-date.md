@@ -10,11 +10,11 @@ You can arrange Tickets as per  ascending or descending order as follows :
 
 
 Go to “Tickets ” 
-(Screenshot)
+![How can i arrange tickets according to created date?](/images/tickets/how_can_i_arrange_the_tickets_according_to_created_date/go_to_tickets.png)
 
 Click upper case key to see tickets for previous date 
-(Screenshot)
+![How can i arrange tickets according to created date?](/images/tickets/how_can_i_arrange_the_tickets_according_to_created_date/select_upper_case_key_to_see_previous_ticket.png)
 
 Click on lower case key to see latest tickets.
-(Screenshot)
+![How can i arrange tickets according to created date?](/images/tickets/how_can_i_arrange_the_tickets_according_to_created_date//select_lower_case_key_to_see_latest_tickets.png)
 

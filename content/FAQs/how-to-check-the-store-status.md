@@ -15,11 +15,12 @@ If a customer is making booking on Store Closed day, the system will not accept 
 Moreover, “Store menu”  will also show the opening and closing time.
 
 Go to “Master management” 
-(screenshot)
+![How to check the store status?](/images/faq's/how_to_check_the_store_status/go_to_master_management.png/)
 
 
 Click “Stores”
-(Screenshot)
+![How to check the store status?](/images/faq's/how_to_check_the_store_status/select_store_from_the_list.png)
 
 Now selecte  “Stores” , here the system will display all the data about stores.
+![How to check the store status?](/images/faq's/how_to_check_the_store_status/here_system_will_show_the details.png)
 

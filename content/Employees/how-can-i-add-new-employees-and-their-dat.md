@@ -7,15 +7,15 @@ draft= false
 +++
 
 
-Go to > Employees 
-         (Screenshot)
+Go to Employees 
+![How can i add new employees and their data?](/images/add_employee/add_employee_2.png)
 
 Click “New”
-         (Screenshot)
+![How can i add new employees and their data?](/images/add_employee/add_Employee_3.png)
 
 Fill the necessary details about the employee, then click “Add”
-         (Screenshot) 
-
+![How can i add new employees and their data?](/images/add_employee/add_employee_4.png)
+          
 click “Add” employees.
-         (Screenshot) 
+!![How can i add new employees and their data?](/images/add_employee/add_employee_5.png)
 

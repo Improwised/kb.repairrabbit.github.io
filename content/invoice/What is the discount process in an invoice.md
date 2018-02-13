@@ -6,21 +6,6 @@ weight= 13
 draft= false
 +++
 
-Go to “invoices ” 
-(Screenshot)
 
-Select “View ”
-(Screenshot)
-
-select “edit”
-(Screenshot)
-
-select “amount”,if discount is applicable.
-(Screenshot)
-
-Select “Percentage ”,if discount is to be given in percentages. 
-(Screenshot)
-
-On the process is complete, click “edit ”
-(Screenshot)
-
+The amount and the description for  the given discount will be added during the invoice generation.
+![what is the discount process in an invoice?](/images/invoice/what_is_the_discount-process/discount_applicable.png)

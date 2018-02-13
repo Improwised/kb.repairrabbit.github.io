@@ -7,23 +7,29 @@ draft= false
 +++
 
 
-Go to "invoice" 
-(Screenshot)
+Go to "customer" 
+![How to add an additional accessories?](/images/accessories/go_to_customers.png)
 
-Search the invoice to be edited  
-(screenshot)
+click "New"
+![How to add an additional accessories?](/images/accessories/clcik_new.png)
 
-click “edit”
-(Screenshot)
+click “add new customer"
+![How to add an additional accessories?](/images/accessories/add_new_customer.png)
 
-Click “+” sign to add items to invoice
-(Screenshot)
+select "New invoice"
+![How to add an additional accessories?](/images/accessories/click_new_invoice.png)
 
-Fill details of added product.
-(Screenshot)
+add the details on additional purchase
+![How to add an additional accessories?](/images/accessories/add_the_additional_accessories_detail.png)
+
+Click “+” sign to add multiple items to invoice
+![How to add an additional accessories?](/images/accessories/you_can_add_multiple_purchase_also.png)
 
 Click “Save”
-(Screenshot)
+![How to add an additional accessories?](/images/accessories/click_save.png)
 
-Inovice has been edited.
+system will confirm your action, click "ok"
+![How to add an additional accessories?](/images/accessories/confirm_your_system_click_ok.png)
+
+
 

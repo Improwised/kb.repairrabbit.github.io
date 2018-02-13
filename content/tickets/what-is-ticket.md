@@ -7,4 +7,4 @@ draft= false
 +++
 
 
-Ticket is the confirmation to the customers in detail for the product Repaire . When Appointment is confirmed, it converts into a ticket.
+The ticket is the confirmation to the customers for the details on product Repair. When an appointment is confirmed, it is converted into a ticket.

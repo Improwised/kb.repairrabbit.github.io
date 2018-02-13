@@ -9,9 +9,9 @@ draft= false
 
 
 Go to "Tickets" 
-(Screenshot)
+![How to print a ticket?](/images/tickets/how_to-print_a_ticket/go_to_tickets.png)
 
 Click “Print” 
-(Screenshot)
+![How to print a ticket?](/images/tickets/how_to-print_a_ticket/click_print.png)
 
 

@@ -9,22 +9,22 @@ draft= false
 
 
 Go to “master management”
-(Screenshot)
+![How to take data backup for the stock history?](/images/data_backup_stock_history/go_to_master_management.png)
 
 Click “data backup”
-(Screenshot)
+![How to take data backup for the stock history?](/images/data_backup_stock_history/select_data_backup.png)
 
 Select “stock history” from select module
-(Screenshot)
+![How to take data backup for the stock history?](/images/data_backup_stock_history/select_stock_history.png)
 
 Select date for data backup  is required. 
-(Screenshot)
+![How to take data backup for the stock history?](/images/data_backup_stock_history/select_date.png)
 
 click “Select range ”
-(Screenshot)
+![How to take data backup for the stock history?](/images/data_backup_stock_history/select_range.png)
 
 Click “export ” 
-(Screenshot)
+![How to take data backup for the stock history?](/images/data_backup_stock_history/click_export.png)
 
 Your data back up has been saved in your system settings.
 

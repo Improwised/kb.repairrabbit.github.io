@@ -6,24 +6,22 @@ weight= 9
 draft= false
 +++
 
+
+
 Go to "master management"
-(screenshot)
+![How can i edit products?](/images/inventory/how_can_i_edit_product/go_to_master_management.png)
 
 
 "search & select product"
-(screenshot)
+![How can i edit products?](/images/inventory/how_can_i_edit_product/search_the_product.png)
 
 
 click "edit"
-(screenshot)
+![How can i edit products?](/images/inventory/how_can_i_edit_product/click_edit.png)
 
 
-edit the information you need to change or update.
-
-
-select "edit"
-(screenshot)
-
+edit the information you need to change or update & click "save"
+![How can i edit products?](/images/inventory/how_can_i_edit_product/edit_the_details_and_save.png)
 
 
 The new changes will be saved.
