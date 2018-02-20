@@ -14,9 +14,9 @@ _**Create New Appointments for new customers**_
  
 Proccess:-
 
-Go to Dashboard > Add New Appointments.
+Go to Dashboard > Add Appointment.
 
-![dashboard add new appoinment](/images/appointments/dash_board_new-min.png)
+![dashboard add new appoinment](/images/appointments/dashboard_add_appointment.png)
 
  *OR* 
 
@@ -25,7 +25,7 @@ Go to Appointments > New > Add New customer > fill details > Add
 
 Go to “New” 
 
-![new appointment for new customer](/images/appointments/appointment_new.png)
+![new appointment for new customer](/images/appointments/click_new.png)
 
 Click “Add New Customer”
 
@@ -50,9 +50,9 @@ click “Add”, Appointment will be created.
 
 _**New Appointment For Existing Customers :**_
 
-Go to << Dashboard << Add New Appointment
+Go to << Dashboard << Add Appointment
 
-![dashboard add new appoinment](/images/appointments/dash_board_new-min.png)
+![dashboard add new appoinment](/images/appointments/dashboard_add_appointment.png)
 
 *or*  
 
@@ -62,7 +62,7 @@ Go to << Appointment
 
 Click “New”.
 
-![new appointment for existing customer2](/images/appointments/appointment_new.png)
+![new appointment for new customer](/images/appointments/click_new.png)
 
 Search customer .
 
