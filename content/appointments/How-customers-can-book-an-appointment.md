@@ -1,5 +1,5 @@
 +++
-title= "How do Customers book an appointment from personal email?? "
+title= "How do Customers book an appointment? "
 date= 2018-01-18T16:13:10+05:30
 description = ""
 weight = 4
