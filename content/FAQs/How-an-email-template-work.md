@@ -1,5 +1,5 @@
 +++
-title= "How an email template works?"
+title= "How an email template?"
 date= 2018-01-25T14:13:04+05:30
 description= ""
 weight= 5

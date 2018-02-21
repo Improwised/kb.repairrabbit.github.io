@@ -1,5 +1,5 @@
 +++
-title= "How to export data for appointments tickets or invoices?"
+title= "How to export data for appointments, tickets or invoices?"
 date= 2018-01-25T13:38:08+05:30
 description = ""
 weight= 1

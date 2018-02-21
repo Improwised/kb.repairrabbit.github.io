@@ -1,5 +1,5 @@
 +++
-title= "How to Use Inventory?"
+title= "How to Use an Inventory?"
 date= 2018-01-25T09:53:19+05:30
 description = ""
 weight= 1

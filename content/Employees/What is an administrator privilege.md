@@ -1,5 +1,5 @@
 +++
-title= "What is administrator priviledg?"
+title= "What is an administrator privilege?"
 date= 2018-01-17T18:07:42+05:30
 description = ""
 weight = 2
