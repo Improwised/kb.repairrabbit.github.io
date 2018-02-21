@@ -8,7 +8,7 @@ draft= false
 
 
 
- In case of insufficient stock, if the ticket has been generated,the system will show a message, "requested product is out of stock"
+ In case of insufficient stock, if the ticket has been generated,the system will show a message, "The requested product is out of stock".
 
 
 

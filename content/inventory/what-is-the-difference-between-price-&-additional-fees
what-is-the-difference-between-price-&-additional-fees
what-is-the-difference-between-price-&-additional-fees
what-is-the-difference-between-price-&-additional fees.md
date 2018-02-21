@@ -7,6 +7,6 @@ draft= false
 +++
 
 
-sum total of services provided is called “price” and additional price of accessories added by customer the customers at the time of purchase is called “ additional fee ” 
+sum total of services provided is called “price” and  the additional price of accessories added by customer while purchase is called “ additional fee ” 
 
 

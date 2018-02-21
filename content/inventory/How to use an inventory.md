@@ -8,9 +8,9 @@ draft= false
 
  View complete summary of your stock easily in  just one click by hitting on “ View stock ”
  
-“Transfer stock” will show you the summary of the transferred stock while emergency.
+“Transfer stock” will show you the summary of the transferred stock in emergency.
 
-“Add stocks” will help you to add the new stock ordered by the company.
+“Add stocks” will help you to add the new stock.
 
 “Stock history” will summarize the details on stock transferred within multiple location.
 

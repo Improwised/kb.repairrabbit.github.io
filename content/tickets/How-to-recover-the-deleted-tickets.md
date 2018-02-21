@@ -7,9 +7,9 @@ draft= false
 +++
 
 
-No, we are sorry. you cannot recover the deleted ticket. You need to create a new ticket. 
+We are sorry. you cannot recover the deleted ticket. You need to create a new ticket. 
 
-You can create a new ticket from here.
+You need to create a new ticket.
 
 go to "tickets"
 ![How to create a new ticket?](/images/tickets/can_i_recover_the_deleted_tickets/go_to_tickests.png)
