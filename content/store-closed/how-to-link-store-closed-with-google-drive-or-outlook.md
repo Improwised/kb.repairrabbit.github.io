@@ -1,5 +1,5 @@
 +++
-title= "How can i link Store closed with google drive ot outlook?"
+title= "How to link Store closed with google drive ot outlook?"
 date= 2018-01-24T18:56:27+05:30
 description = ""
 Weight = 3
