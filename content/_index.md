@@ -17,10 +17,10 @@ If you have anything unclear, please feel free to write us.
 
 ### Perform multiple actions with a single platform:
 
-* Create Appointment for the Customer 
-* Raise Ticket for Repaire work Management
-* Record & Track Customers Data
-* Analyze the Overall work for the diffent Locations.
+* Create an appointment for the Customers. 
+* Raise Tickets for Repair work Management
+* Track & record Customers Data
+* Analyze the Overall work for the diffent store Locations.
 * Verify - Invoice Data.
 * Manage work Schedule for the Employees. 
 * Ease to monitor store work for different stores.
