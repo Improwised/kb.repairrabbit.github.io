@@ -7,8 +7,8 @@ draft= false
 +++
 
 
-You can provide an email Id and password to your customer after completion of  their registration for booking appointments and tickets.  
 
-Customer can now easily book an appointment with the help of assign ID.
+
+Customer can now easily book an appointment through customer Web portal where they can sign in with their registered email id and password.
 
 
