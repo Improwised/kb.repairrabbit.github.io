@@ -1,5 +1,5 @@
 +++
-title= "Will i get an email notification for a new appointment booked by the customers?"
+title= "Will I get notified of a new appointment booked by the customers??"
 date= 2018-01-25T13:50:27+05:30
 description = ""
 weight= 4 
