@@ -14,35 +14,35 @@ _**Create New Appointments for new customers**_
  
 Proccess:-
 
-Go to Dashboard > Add Appointment.
+Dashboard > Add Appointment.
 
 ![dashboard add new appoinment](/images/appointments/dashboard_add_appointment.png)
 
  *OR* 
 
-Go to Appointments > New > Add New customer > fill details > Add
+Appointments > New > Add New customer > fill details > Add
 
 
-Go to “New” 
+“New” 
 
 ![new appointment for new customer](/images/appointments/click_new.png)
 
-Click “Add New Customer”
+“Add New Customer”
 
 ![new appointment for new customer](/images/appointments/appointment_newcustomer.png)
 
-Fill the details, click “Add”.
+Fill the details, and “Add”.
 
 ![new appointment for new customer](/images/appointments/appointment_filldata.png)
 
-click "Add" 
+"Add" 
 ![new appointment for new customer](/images/appointments/appointment_add.png)
 
-Again  Fill the details required for product repair. 
+Again Fill the details required for product repair. 
 
 ![new appointment for new customer6](/images/appointments/appointment_filldetail.png)
 
-click “Add”, Appointment will be created. 
+“Add”, Appointment will be created. 
 
 ![new appointment for new customer5](/images/appointments/appointment_clickadd.png)
 
@@ -50,17 +50,17 @@ click “Add”, Appointment will be created.
 
 _**New Appointment For Existing Customers :**_
 
-Go to << Dashboard << Add Appointment
+Dashboard << Add Appointment
 
 ![dashboard add new appoinment](/images/appointments/dashboard_add_appointment.png)
 
 *or*  
 
-Go to << Appointment
+Appointment
 
 ![new appointment for existing customer](/images/appointments/appointment_goto.png)
 
-Click “New”.
+“New”.
 
 ![new appointment for new customer](/images/appointments/click_new.png)
 
@@ -72,7 +72,7 @@ Fill the required details about the prodcuct repair.
 
 ![new appointment for existing customer2](/images/appointments/appointment_filldetail.png)
 
-click “Add”
+“Add”
 
 ![new appointment for existing customer2](/images/appointments/appointment_1clickadd.png)
 

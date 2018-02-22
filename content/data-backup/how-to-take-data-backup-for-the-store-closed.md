@@ -8,14 +8,14 @@ draft= false
 
 
 
-Go to “master management”
+“Master management”
 ![How to take data back for the store holiday?](/images/data_back_up_store_closed/go_to_master.png)
 
-Click “data backup ”
+“Data backup ”
 ![How to take data back for the store holiday?](/images/data_back_up_store_closed/click_data_backup.png)
 
 
-Select “Store closed” from select module
+“Store closed” from select module
 (Screenshot)
 
 Select date for data backup. 
@@ -24,13 +24,13 @@ Select date for data backup.
 select date from “Custom range ”
 (Screenshot)
 
-click “Select range”
+“Select range”
 (Screenshot)
 
-Click “Apply”
+“Apply”
 (Screenshot)
 
-Click on “Export”
+“Export”
 (Screenshot)
 
 

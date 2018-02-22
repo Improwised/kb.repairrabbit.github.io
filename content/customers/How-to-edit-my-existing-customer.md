@@ -6,15 +6,15 @@ weight = 1
 draft= false
 +++
 
-Go to “Customers”
+“Customers”
 ![How to edit my exsisting customer?](/images/customers/how_to_edit_my_exsisting_customer/go_to_customers.png)
          
 
-Select the customer  & click “Edit”
+Select the customer and “Edit”
 ![How to edit my exsisting customer?](/images/customers/how_to_edit_my_exsisting_customer/select_the_customer.png)
         
 
-Edit the required changes & click “Edit” 
+Edit the required changes and “Edit” 
 ![How to edit my exsisting customer?](/images/customers/how_to_edit_my_exsisting_customer/search_the_customer_and_click_edit.png)
 
         

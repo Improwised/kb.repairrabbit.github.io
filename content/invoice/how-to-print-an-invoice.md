@@ -7,9 +7,8 @@ draft= false
 +++
 
 
-
-Go to “invoices ”
+“Invoices ”
 ![How to print an invoice?](/images/invoice/how_to_print_an_invoice/go_to_invoice.png)
 
-Click “Print ” 
+“Print ” 
 ![How to print an invoice?](/images/invoice/how_to_print_an_invoice/click_print.png)

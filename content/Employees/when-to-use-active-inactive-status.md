@@ -14,16 +14,16 @@ Once an employee join the organisation or shop he will be marked as an active bu
 #### *Process* to change the Active/Inactive status 
 
 
-Go to Employees
+"Employees"
 ![When to use active or inactive status?](/images/employees/how_to_assign_active_inactive_status/go_to_employees.png) 
 
-Search the Employees
+"Search the Employees"
 ![When to use active or inactive status?](/images/employees/how_to_assign_active_inactive_status/search_the_employee.png) 
 
-click "edit"
+"Edit"
 ![When to use active or inactive status?](/images/employees/how_to_assign_active_inactive_status/click_edit.png) 
 
-click "save"
+"Save"
 ![When to use active or inactive status?](/images/employees/how_to_assign_active_inactive_status/now_save.png) 
 
 

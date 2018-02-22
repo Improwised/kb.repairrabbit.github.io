@@ -11,10 +11,10 @@ You can review all the tickets for the selected branch or for all the branches (
 
 To view tickets of all branches 
 
-Go to Tickets 
+"Tickets" 
 ![How to review all the tickets for all the branches?](/images/tickets/ how_can_i_review_all_the_tickets_for_all_the_branches/go_to_tickets.png)
 
-Click “all branches” from the top right corner.
+“all branches” from the top right corner.
 ![How to review all the tickets for all the branches?](/images/tickets/ how_can_i_review_all_the_tickets_for_all_the_branches/select_all_branches.png)
 
 You will get summary of all the tickets from all the branches.       

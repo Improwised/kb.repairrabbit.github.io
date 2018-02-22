@@ -7,8 +7,7 @@ draft= false
 +++
 
 
-
-Go to “tickets ”
+“Tickets ”
 ![How to review the repair tickets?](/images/tickets/how_can_i_see_repaired_tickets/go_to_tickets.png)
 
 System will show you the summarize list of the tickets for repair.

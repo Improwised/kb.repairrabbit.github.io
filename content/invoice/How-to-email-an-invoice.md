@@ -9,13 +9,13 @@ draft= false
 Yes, you can email an invoice . 
 
 
-Go to "invoice"
+"Invoice"
 ![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/go_to_invoice.png)
 
-click "new"
+"New"
 ![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/clcik_new.png)
 
-fill the required details and "add"
+Fill the required details and "add"
 ![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/add_required_details_and_add.png)
 
 system will provide you option for email invoice

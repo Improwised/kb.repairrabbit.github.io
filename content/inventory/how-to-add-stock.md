@@ -9,19 +9,19 @@ draft= false
 
 
 
-Go to “Inventory”
+“Inventory”
 ![How to add stock?](/images/inventory/how_can_i_add_stock/go_to_inventory.png)
 
-Click “Add stocks”
+“Add stocks”
 ![How to add stock?](/images/inventory/how_can_i_add_stock/select_add_stock.png)
 
-Add the required details about a product and click “Add stock”
+Add the required details about a product and “Add stock”
 ![How to add stock?](/images/inventory/how_can_i_add_stock/fill_the_required_details.png)
 
-Click “Add stock”
+“Add stock”
 (![How to add stock?](/images/inventory/how_can_i_add_stock/click_add_stock.png)
 
-With a click on “Add stock” system will show the details updated by the user.
+“Add stock” system will show the details updated by the user.
 ![How to add stock?](/images/inventory/how_can_i_add_stock/stock_detail_summary_again_click_add_stock.png)
 
 

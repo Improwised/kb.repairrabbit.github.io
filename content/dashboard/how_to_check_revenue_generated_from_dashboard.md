@@ -9,7 +9,7 @@ draft= false
 
 
 
-go to "dashboard"
+"Dashboard"
 ![How to check revenue generated from dashboard?](/images/dashboard/how_can_i_check_revenue_generated/go_to_dashboar.png)
 
 select "date" and "store" and search

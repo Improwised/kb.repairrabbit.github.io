@@ -8,19 +8,19 @@ draft= false
 
 
 
-Go to “master management”
+“Master management”
 ![How to get device data backup or device categories for a specific date?](/images/device_and_device_categories/how_will_i_get_device_data_backup_for_device_categories_for_a_specific_date/go_to_master_management.png)
 
-Click “data backup”
+“Data backup”
 ![How to get device data backup or device categories for a specific date?](/images/device_and_device_categories/how_will_i_get_device_data_backup_for_device_categories_for_a_specific_date/select_data_backup.png)
 
-Click “device category" from select Module 
+“Device category" from select Module 
 ![How to get device data backup or device categories for a specific date?](/images/device_and_device_categories/how_will_i_get_device_data_backup_for_device_categories_for_a_specific_date/select_device_category.png)
 
-Click “select range”,
+“Select range”,
 ![How to get device data backup or device categories for a specific date?](/images/device_and_device_categories/how_will_i_get_device_data_backup_for_device_categories_for_a_specific_date/select_range.png)
 
-Click  “export” to export data of selected date.
+“Export” 
 ![How to get device data backup or device categories for a specific date?](/images/device_and_device_categories/how_will_i_get_device_data_backup_for_device_categories_for_a_specific_date/click_export.png)
 
 your data has been exported.

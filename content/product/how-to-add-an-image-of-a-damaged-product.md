@@ -8,22 +8,22 @@ draft= false
 
 
 
-Go to “tickets”  
+“Tickets”  
 ![How to add an image of a damaged product?](/images/products/how_can_i_add_image_of_damaged_product/go_to_tickets.png)
 
-Click “new”
+“New”
 ![How to add an image of a damaged product?](/images/products/how_can_i_add_image_of_damaged_product/click_new.png)
 
-Add “new customer”
+“New customer”
 ![How to add an image of a damaged product?](/images/products/how_can_i_add_image_of_damaged_product/add_new_customer.png)
 
 Add the required details.
 ![How to add an image of a damaged product?](/images/products/how_can_i_add_image_of_damaged_product/fill_required_details_and_add.png)
 
-As you click “add” the information will be updated.
+“Add” the information will be updated.
 ![How to add an image of a damaged product?](/images/products/how_can_i_add_image_of_damaged_product/fill_required_details_and_add.png)
 
-Now, add the  required details on  product problem.
+Add the  required details on  product problem.
 ![How to add an image of a damaged product?](/images/products/how_can_i_add_image_of_damaged_product/product_details.png)
 
 Add Status Image of damage product and click “Add”.

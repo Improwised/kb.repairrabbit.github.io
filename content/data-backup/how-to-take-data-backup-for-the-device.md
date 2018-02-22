@@ -7,19 +7,19 @@ draft= false
 +++
 
 
-Go to “master management”
+“Master management”
 ![How to take data back for the device?](/images/data_back_up_devices/go_to_master.png)
 
-click “data backup”
+“Data backup”
 ![How to take data back for the device?](/images/data_back_up_devices/click_data_backup.png)
 
-Select “devices” from select module
+Select “Devices” from select module
 ![How to take data back for the device?](/images/data_back_up_devices/select_device_module.png)
 
-click “Select range”
+“Select range”
 ![How to take data back for the device?](/images/data_back_up_devices/select_range.png)
 
-Click “export”
+“Export”
 ![How to take data back for the device?](/images/data_back_up_devices/click_export.png/)
 
 Your data back up has been saved in your system settings.

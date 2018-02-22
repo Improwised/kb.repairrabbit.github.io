@@ -9,19 +9,19 @@ draft= false
 
 customer needs to Log in to the Repair Rabbit. 
 
-Go to Appointments 
+Appointments 
 ![How to prepone or postpone the appointments?](/images/appointments/how_to_prepone_or_postpone_appointments/go_to_appointments.png)
 
 Search the customer
 ![How to prepone or postpone the appointments?](/images/appointments/how_to_prepone_or_postpone_appointments/search_the_customer_to_edit.png)
 
-click "edit"
+"Edit"
 ![How to prepone or postpone the appointments?](/images/appointments/how_to_prepone_or_postpone_appointments/click_edit.png)
 
-select date or time to change the appointment
+Select date or time to change the appointment
 ![How to prepone or postpone the appointments?](/images/appointments/how_to_prepone_or_postpone_appointments/select_date_and_time.png)
 
-click "save"
+"Save"
 ![How to prepone or postpone the appointments?](/images/appointments/how_to_prepone_or_postpone_appointments/click_save.png)
 
 

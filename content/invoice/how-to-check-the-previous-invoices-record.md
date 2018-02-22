@@ -9,7 +9,7 @@ draft= false
 
 Here you can check the summary of an individual customer with specific duration (Day, Week, Month).
 
-Go to "invoice"
+"Invoice"
 ![How to check the previous invoice records?](/images/invoice/how_to_check_previous_invoice_records/go_to_invoice.png)
 
 

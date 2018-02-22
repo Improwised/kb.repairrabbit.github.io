@@ -7,13 +7,13 @@ draft= false
 +++
 
 
-Go to "customer" 
+"customer" 
 ![How to add an additional accessories?](/images/accessories/go_to_customers.png)
 
-click "New"
+"New"
 ![How to add an additional accessories?](/images/accessories/clcik_new.png)
 
-click “add new customer"
+“add new customer"
 ![How to add an additional accessories?](/images/accessories/add_new_customer.png)
 
 select "New invoice"

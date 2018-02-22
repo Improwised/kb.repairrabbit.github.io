@@ -14,16 +14,16 @@ While adding a new Employee, you can assign any one category from
 2. Store Admin 
 3. Employee. 
 
-Go to Employees
+"Employees"
 ![How to assign a privilege to different categories?](/images/employees/how_to_assing_priviledges/go_to_employees.png)
 
-Add "New"
+"New"
 ![How to assign a privilege to different categories?](/images/employees/how_to_assing_priviledges/add_new.png)
 
 fill the required details to assign priviledge
 ![How to assign a privilege to different categories?](/images/employees/how_to_assing_priviledges/fill_the_required_details_and_assign_privilege.png)
 
-Click "add"
+"Add"
 ![How to assign a privilege to different categories?](/images/employees/how_to_assing_priviledges/click_add.png)
 
 

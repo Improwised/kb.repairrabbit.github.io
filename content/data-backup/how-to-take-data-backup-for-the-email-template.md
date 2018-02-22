@@ -8,21 +8,20 @@ draft= false
 
 
 
-Go to “master management”
+“Master management”
 ![How to take data backup for an email template?](/images/data_back_up_email_template/go_to_master_management.png)
 
 Select Data Backup
 ![How to take data backup for an email template?](/images/data_back_up_email_template/data_backup.png)
 
 
-Select “email template” from select module
+Select “Email template” from select module
 ![How to take data backup for an email template?](/images/data_back_up_email_template/email_templates.png)
 
-click “Select range ”
+“Select range ”
 ![How to take data backup for an email template?](/images/data_back_up_email_template/select_range.png)
 
-
-Click “export”
+“Export”
 ![How to take data backup for an email template?](/images/data_back_up_email_template/export.png)
 
 

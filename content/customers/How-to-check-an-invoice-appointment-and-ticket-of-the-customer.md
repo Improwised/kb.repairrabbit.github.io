@@ -6,16 +6,16 @@ weight= 7
 draft= false
 +++
 
-Go to “ Customers”
+“Customers”
 ![How to check an invoice, appointment and ticket of the customer?](/images/customers/how_can_i_check_invoice_appointment_tickets_of_the_customer/go_to_customers.png)
  
 Search the customer, 
 ![How to check an invoice, appointment and ticket of the customer?](/images/customers/how_can_i_check_invoice_appointment_tickets_of_the_customer/search_the_customer.png)
 
-select “View” 
+“View” 
 ![How to check an invoice, appointment and ticket of the customer?](/images/customers/how_can_i_check_invoice_appointment_tickets_of_the_customer/click_view.png)
     
 
-Click “Tickets”, “Appointments” or  an “invoices” for detail information of any of the category.
+Select “Tickets”, “Appointments” or  an “invoices” for detail information of any of the category.
 ![How to check an invoice, appointment and ticket of the customer?](/images/customers/how_can_i_check_invoice_appointment_tickets_of_the_customer/select_tickets_appointments_invoices.png)
 

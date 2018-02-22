@@ -11,16 +11,16 @@ We are sorry. you cannot recover the deleted ticket. You need to create a new ti
 
 You need to create a new ticket.
 
-go to "tickets"
+"Tickets"
 ![How to create a new ticket?](/images/tickets/can_i_recover_the_deleted_tickets/go_to_tickests.png)
 
-click “new”
+“New”
 ![How to create a new ticket?](/images/tickets/can_i_recover_the_deleted_tickets/click_new.png)
 
 Search the customer.
 ![How to create a new ticket?](/images/tickets/can_i_recover_the_deleted_tickets/search_customer.png)
 
-Fill the required details, click “add ”
+Fill the required details “add ”
 ![How to create a new ticket?](/images/tickets/can_i_recover_the_deleted_tickets/add_the_required_details_and_add.png)
 
 The new ticket will be created.

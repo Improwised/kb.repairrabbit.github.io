@@ -9,7 +9,7 @@ draft= false
 
 
 
-Go to “tickets ” 
+“Tickets ” 
 ![How to arrange tickets as per last modified?](/images/tickets/how_can_i_ arrange_tickets_as_last_ modified/go_to_tickets.png)
 
 Click on upper case key to see tickets modified on previous dates.

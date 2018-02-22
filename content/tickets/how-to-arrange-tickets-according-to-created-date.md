@@ -9,7 +9,7 @@ draft= false
 You can arrange Tickets as per  ascending or descending order as follows :
 
 
-Go to “Tickets ” 
+“Tickets ” 
 ![How to arrange tickets according to created date?](/images/tickets/how_can_i_arrange_the_tickets_according_to_created_date/go_to_tickets.png)
 
 Click upper case key to see tickets for previous date 

@@ -13,7 +13,8 @@ Here,you can check the store wise invoices.
 
 Process to Follow.
 
-Go to Invoices 
+
+"Invoices" 
 ![How to check store wise invoice?](/images/invoice/how_to_check_store_wise_invoice/go_to_invoice.png)
 
 Select the particular store from the top right side.       

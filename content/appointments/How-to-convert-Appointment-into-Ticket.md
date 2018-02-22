@@ -6,14 +6,13 @@ weight = 3
 draft= false
 +++
 
-Go to “Appointments”
-
+“Appointments”
 ![How to convert Appointments into Tickets?](/images/convert_appointment_int_ticket/convert_app_ticket_clickappointment.png)
                 
-Click “View” 
+“View” 
 ![How to convert Appointments into Tickets?](/images/convert_appointment_int_ticket/view_appointments-min.png) 
      
-Click “Start repair”
+“Start repair”
 ![How to convert Appointments into Tickets?](/images/convert_appointment_int_ticket/start_repair-min.png) 
                
 You will get a message “Are you sure to convert this Appointment into Ticket ?” Click “Ok” 

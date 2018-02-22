@@ -6,10 +6,10 @@ weight= 6
 draft= false
 +++
 
-Go to "Inventory”
+"Inventory”
 ![How to check record of stock for multiple stores?](/images/inventory/how_to_check_stock_records_for_multiple_stores/go_to_inventory.png)
 
-Click “View stock ”
+“View stock ”
 ![How to check record of stock for multiple stores?](/images/inventory/how_to_check_stock_records_for_multiple_stores/view_stock.png)
 
 Select “all branches” from the top right corner.

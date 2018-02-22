@@ -9,13 +9,13 @@ draft= false
 
 
 
-Go to “Inventory”
+“Inventory”
 ![How to add multiple stock at a time?](/images/inventory/how_to_add_multiple_stock_at_a_time/go_to_inventory.png)
 
-Click “add stock”
+“Add stock”
 ![How to add multiple stock at a time?](/images/inventory/how_to_add_multiple_stock_at_a_time/select_add_stock.png)
  
-fill the necessary details again & click “add stock” 
+fill the necessary details again & “add stock” 
 ![How to add multiple stock at a time?](/images/inventory/how_to_add_multiple_stock_at_a_time/fill_the_required_details.png)
 
 Select “add stock”, and system will show all the updated details. 

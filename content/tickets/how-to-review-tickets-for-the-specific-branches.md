@@ -6,7 +6,7 @@ weight= 5
 draft= false
 +++
 
-Go to "tickets" 
+"Tickets" 
 ![How to review tickets for the specific branches?](/images/tickets/how_can_i_review_tickets_for_specific_branch/go_to_tickests.png)
 
 Select the branch from the top right corner. 

@@ -9,7 +9,7 @@ draft= false
 
 
 
-Go to "invoices" 
+"Invoices" 
 ![How to check an invoices for all the stores together?](/images/invoice/how_can_i_see_all_invoice_for_all_stores/go_to_invoice.png)
 
 Select “all branches" from the top right side.

@@ -8,7 +8,7 @@ draft= false
 
 Only System admin has an access to change the password of a customer. To generate the new password, 
 
-Go to “Customers”
+“Customers”
 ![How to help the customer to generate the new password?](/images/customers/how_can_i_help_the_customer_to_generate_the_new_password/go_to_customers.png)
 
 Search the “Customer”
