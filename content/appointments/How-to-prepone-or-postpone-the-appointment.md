@@ -7,7 +7,7 @@ draft= false
 
 +++
 
-customer needs to Log in to the Repair Rabbit. 
+After login to the Repair Rabbit. 
 
 Appointments 
 ![How to prepone or postpone the appointments?](/images/appointments/how_to_prepone_or_postpone_appointments/go_to_appointments.png)
