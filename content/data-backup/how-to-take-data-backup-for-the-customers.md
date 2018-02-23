@@ -25,7 +25,7 @@ Select date for data backup  is required.
 
 
 select date from “Custom range ” to export the data for specific date.
-(Screenshot)
+![How to take data back for the customers?](/images/data_back_up_customers/custom_range_customers-min.png)
 
 “Apply ”
 ![How to take data back for the customers?](/images/data_back_up_customers/apply_customers.png)
