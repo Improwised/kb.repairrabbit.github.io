@@ -6,14 +6,14 @@ weight= 5
 draft= false
 +++
 
-Go to “Invoices ” 
+“Invoices ” 
 ![How to see an invoice for a specific customer?](/images/invoice/how_to_check_an_invoice_for_specific_customer/go_to_invoice.png)                                  
 
 Search the particular customer 
 ![How to see an invoice for a specific customer?](/images/invoice/how_to_check_an_invoice_for_specific_customer/search_customer.png)
 
 
-Select "View"     
+"View"     
 ![How to see an invoice for a specific customer?](/images/invoice/how_to_check_an_invoice_for_specific_customer/view_details.png)                       
        
 

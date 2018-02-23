@@ -8,30 +8,30 @@ draft= false
 
 
 
-Go to “master management”
+“Master management”
 ![How to take data back for the store holiday?](/images/data_back_up_store_closed/go_to_master.png)
 
-Click “data backup ”
+“Data backup ”
 ![How to take data back for the store holiday?](/images/data_back_up_store_closed/click_data_backup.png)
 
 
-Select “Store closed” from select module
-(Screenshot)
+“Store closed” from select module
+![How to take data back for the store holiday?](/images/data_back_up_store_closed/store_closed_module-min.png)
 
 Select date for data backup. 
-(Screenshot)
+![How to take data back for the store holiday?](/images/data_back_up_store_closed/date_store_holiday-min.png)
 
 select date from “Custom range ”
-(Screenshot)
+![How to take data back for the store holiday?](/images/data_back_up_store_closed/custom_range_store_holiday-min.png)
 
-click “Select range”
-(Screenshot)
+“Select range”
+![How to take data back for the store holiday?](/images/data_back_up_store_closed/range_store_holiday-min.png)
 
-Click “Apply”
-(Screenshot)
+“Apply”
+![How to take data back for the store holiday?](/images/data_back_up_store_closed/apply_store_holiday-min.png)
 
-Click on “Export”
-(Screenshot)
+“Export”
+![How to take data back for the store holiday?](/images/data_back_up_store_closed/click_export-min.png)
 
 
 Your data back up has been saved in your system setting.

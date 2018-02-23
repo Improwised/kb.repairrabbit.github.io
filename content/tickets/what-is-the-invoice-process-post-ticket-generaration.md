@@ -6,21 +6,21 @@ weight= 12
 draft= false
 +++
 
-Go to “tickets ” 
+“Tickets ” 
 ![What is the invoice process post ticket generation?](/images/tickets/what_is_the_invoice_process_post_ticket_generation/go_to_tickets.png)
 
 Search the customer.
 ![What is the invoice process post ticket generation?](/images/tickets/what_is_the_invoice_process_post_ticket_generation/search_customer.png)
 
-click "view"
+"view"
 ![What is the invoice process post ticket generation?](/images/tickets/what_is_the_invoice_process_post_ticket_generation/clcik_view.png)
 
-Fill the required details, now "add"
+Fill the required details and "add"
 ![What is the invoice process post ticket generation?](/images/tickets/what_is_the_invoice_process_post_ticket_generation/add_required_details_and_edit.png)
 
 Ticket is generated and system will show all the details related to the ticket. 
 
-Now, Click “generate invoice ”
+Click “generate invoice ”
 ![What is the invoice process post ticket generation?](/images/tickets/what_is_the_invoice_process_post_ticket_generation/click_on_generate_invoice.png)
 
 Your invoice is generated.

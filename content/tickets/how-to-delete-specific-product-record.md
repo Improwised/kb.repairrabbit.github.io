@@ -8,18 +8,18 @@ draft= false
 
 
 
-Go to “master management”
+“Master management”
 ![How to delete specific product records?](/images/tickets/how_to_delet_specific_product_records/go_to_master_management.png)
 
 
-Click “Products ”
+“Products ”
 ![How to delete specific product records?](/images/tickets/how_to_delet_specific_product_records/click_product.png)
 
 Now search the product
 ![How to delete specific product records?](/images/tickets/how_to_delet_specific_product_records/search_procudt.png)
 
 
-Select the product and click “delete”
+Select the product and “delete”
 ![How to delete specific product records?](/images/tickets/how_to_delet_specific_product_records/select_the_product_and_delet.png)
 
 You will get a confirmation message, “are you sure to delete the ticket, Click “Yes” to delete record of product permanently. 

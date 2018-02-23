@@ -7,20 +7,20 @@ draft= false
 +++
 
 
-Go to “master management”
+“Master management”
 ![How to take data backup for the device category?](/images/data_backup_device_category/go_to_master_management.png)
 
-Click “data backup”
+“Data backup”
 ![How to take data backup for the device category?](/images/data_backup_device_category/select_data_backup.png)
 
 
-Select “device category” from select module
+Select “Device category” from select module
 ![How to take data backup for the device category?](/images/data_backup_device_category/select_device_category.png)
 
-click “Select range”
+“Select range”
 ![How to take data backup for the device category?](/images/data_backup_device_category/select_range.png)
 
-Click “export”
+“Export”
 ![How to take data backup for the device category?](/images/data_backup_device_category/click_export.png)
 
 

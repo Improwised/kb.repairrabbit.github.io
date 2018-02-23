@@ -8,19 +8,19 @@ draft= false
 
 
 
-Go to “master management”
+“Master management”
 ![How to take data back for the shop?](/images/data_back_up_shops/
 
-Click “data backup”
+“Data backup”
 ![How to take data back for the shop?](/images/data_back_up_shops/data_back_up.png)
 
-Select “Shops” from select module
+“Shops” from select module
 ![How to take data back for the shop?](/images/data_back_up_shops/select_module_shop.png)
 
-click “Select range”
+“Select range”
 ![How to take data back for the shop?](/images/data_back_up_shops/select_range.png)
 
-Click “export”
+“Export”
 ![How to take data back for the shop?](/images/data_back_up_shops/click_export.png)
 
 

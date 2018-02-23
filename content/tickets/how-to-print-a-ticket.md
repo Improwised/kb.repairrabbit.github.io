@@ -8,10 +8,10 @@ draft= false
 
 
 
-Go to "Tickets" 
+"Tickets" 
 ![How to print a ticket?](/images/tickets/how_to-print_a_ticket/go_to_tickets.png)
 
-Click “Print” 
+“Print” 
 ![How to print a ticket?](/images/tickets/how_to-print_a_ticket/click_print.png)
 
 

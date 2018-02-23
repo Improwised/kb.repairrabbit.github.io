@@ -8,16 +8,16 @@ draft= false
 
 
 
-Go to "tickets"
+"Tickets"
 ![How to generate a ticket for the exsisting customers?](/images/tickets/how_to_generate_the_tickets_for_exsisting_customers/go_to_tickets.png)
 
-Click “New”
+“New”
 ![How to generate a ticket for the exsisting customers?](/images/tickets/how_to_generate_the_tickets_for_exsisting_customers/click_New_ticket.png)
 
 Search the customer.
 ![How to generate a ticket for the exsisting customers?](/images/tickets/how_to_generate_the_tickets_for_exsisting_customers/search_the_customer.png)
 
-Fill the required details,  click on “add ”
+Fill the required details, “add ”
 ![How to generate a ticket for the exsisting customers?](/images/tickets/how_to_generate_the_tickets_for_exsisting_customers/fill_the_required_details & add.png)
 
 The New ticket has been created.

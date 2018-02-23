@@ -6,12 +6,12 @@ weight= 2
 draft= false
 +++
 
-#### SKU is Stock Keeping Unit. 
+SKU is Stock Keeping Unit which is useful to identify & track the products in stock. 
 
-Go to “Master Management"
+“Master Management"
 ![what is SKU? How is it useful?](/images/inventory/what_is_sku_how_is_it_useful/go_to_master_management.png)
 
-Click "Product"
+"Product"
 ![what is SKU? How is it useful?](/images/inventory/what_is_sku_how_is_it_useful/click_product.png)
 
 Select "Product" and "edit"

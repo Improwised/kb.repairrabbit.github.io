@@ -7,20 +7,20 @@ draft= false
 +++
 
 
-Go to “master management”
+“Master management”
 ![How to take data back for the stock?](/images/data_back_up_stock/Go_to_master_management.png)
 
-Click “data backup ”
+“Data backup ”
 ![How to take data back for the stock?](/images/data_back_up_stock/Select_data_backup.png)
 
 
 Select “Stock” from select module
 ![How to take data back for the stock?](/images/data_back_up_stock/Select_module.png)
 
-click “Select range”
+“Select range”
 ![How to take data back for the stock?](/images/data_back_up_stock/select_range.png)
 
-click on “export”
+“Export”
 ![How to take data back for the stock?](/images/data_back_up_stock/click_export.png)
 
 
