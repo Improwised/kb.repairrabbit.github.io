@@ -11,4 +11,3 @@ Login details like Email Id and password for customers can be provided by sendin
 Customer can Login into the Repair Rabbit with the assign log in details.
 
 
-Customer has limited privilege of Repair Rabbit. To see privileges ( Click on User Privilege )

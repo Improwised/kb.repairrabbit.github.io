@@ -3,7 +3,7 @@ title= "How to manage the generated tickets incase of insufficient stock?"
 date= 2018-01-25T17:02:35+05:30
 description = ""
 weight= 15
-draft= false
+draft= true
 +++
 
 
