@@ -3,7 +3,7 @@ title= "Modules"
 date= 2018-02-28T19:30:59+05:30
 description = ""
 draft= false
-weight = 3333
+weight = 1
 +++
 
 RepairRabbit has following core modules available right now.

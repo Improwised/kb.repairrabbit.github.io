@@ -63,4 +63,4 @@ For example:
 
 Now you want to serve the application in `portuguese`. So change the value of `APP_LANGUAGE` in `.env` file.
 
-For more details visit this [link](https://laravel.com/docs/5.6/localization)
+For more details visit this [link](https://laravel.com/docs/5.4/localization)

@@ -32,18 +32,17 @@ MAILGUN_SECRET=
 * These settings also available in `settings` page of admin. These keys in `.env` se can also be changed from settings panel.
 
 ## List Of Email Templates
-
-* [Appointment Status Is No Show & Unconfirmed](#status_no_show)
-* [Appointment confirmation Mail](#appointment_confirmation)
-* [Reminder E-Mail](#reminder_email)
-* [Appointment Notification To Store](#notification_to_store)
-* [New Ticket Creation](#new_ticket)
-* [Ticket Update](#ticket_update)
-* [Password Reset](#password_reset)
-* [Ticket Notification To Store](#ticket_notification_to_store)
-* [New User Created](#new_user)
-* [Ticket Updated With Police Number](#ticket_update_with_policy)
-* [Retarget E-Mail Template](#retarget_email_template)
+* [Appointment Status Is No Show & Unconfirmed](/advanced-configuration/email-templates/#a-name-status-no-show-appointment-status-is-no-show-unconfirmed-a)
+* [Appointment confirmation Mail](/advanced-configuration/email-templates/#a-name-appointment-confirmation-appointment-conformation-mail-a)
+* [Reminder E-Mail](/advanced-configuration/email-templates/#a-name-reminder-email-reminder-e-mail-a)
+* [Appointment Notification To Store](/advanced-configuration/email-templates/#a-name-notification-to-store-appointment-notification-to-store-a)
+* [New Ticket Creation](/advanced-configuration/email-templates/#a-name-new-ticket-new-ticket-creation-a)
+* [Ticket Update](/advanced-configuration/email-templates/#a-name-ticket-update-ticket-update-a)
+* [Password Reset](/advanced-configuration/email-templates/#a-name-password-reset-password-reset-a)
+* [Ticket Notification To Store](/advanced-configuration/email-templates/#a-name-ticket-notification-to-store-ticket-notification-to-store-a)
+* [New User Created](/advanced-configuration/email-templates/#a-name-ticket-notification-to-store-ticket-notification-to-store-a)
+* [Ticket Updated With Police Number](/advanced-configuration/email-templates/#a-name-ticket-update-with-policy-ticket-updated-with-police-number-a)
+* [Retarget E-Mail Template](/advanced-configuration/email-templates/#a-name-retarget-email-template-retarget-e-mail-template-a)
 
 
 ### <a name="status_no_show">Appointment status is no show & unconfirmed</a>
