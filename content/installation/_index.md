@@ -7,98 +7,52 @@ type="page"
 weight = 1
 +++
 
+
 ### Setup On Cloud
-Install project
 
-```
-git clone git@gitlab.com:RepairRabbit/repairrabbit.git
-```
+#### Prerequisites:
 
-Change Directory
+* docker/docker-compose
+* git
 
-```
-cd repairrabbit
-```
+You must have project added on your server and you are in root of your project.
 
-Install all dependencies
-
-```
-composer install
-```
-
-Create a .env file
-
-```
-Create a .env file in root of the prject as per `.env.example` supplied. (you can setup .env file through wizard also)
-```
-
-Generate application key
-
-```
-php artisan key:generate
-```
-
-Link the storage
-
-```
-php artisan storage:link
-```
-
-Create database in mysql
-
-```
-create database `databaseName`
-```
-
-Database migration
-
-```
-php artisan migrate
-
-```
-
-Serve Application
-
-```
-php artisan serve
-```
-
-Alternatively you can serve using [valet](https://laravel.com/docs/5.4/valet#installation)
-
-Link url to valet for that go to that directory and run following command
-
-```
-valet link
-```
-
-After link that valet to get the url
-
-```
-valet links
-```
-
-From links select your project url and Open in browser
-For example,
-
-```
-http://phoneworld.dev
-```
-
-#### Using Docker
-
-Run below command in root of your project.
+Run below command from root of your project.
 
 ```
 docker-compose up
 ```
 
-Above command will create 3 containers for nginx, app and database respectively. For `.env` settings [click here](/wizard-env/).
+Above command will create 3 containers for nginx, app and database respectively. 
+
+As we mount the storage to container. Give read/write permission to storage for user docker.
+
+```
+chmod -R 777 storage/app/public/
+```
+
+After Successfull creation of containers. SSH/Bash into app container using `docker exec -it <container> bash`.
+
+* Generate application key
+
+```
+php artisan key:generate
+
+```
+
+* Link the storage
+
+```
+php artisan storage:link
+```
+
+To know detail description of each configuration variables [click here](/wizard-installation/).
 
 ### Setup On Shared Hosting
 
-Here we assume you have whole application's repository including `vendor` and database setup already done and you served the application already.
+Here we assume you have extracted the zip package and you served `index.php` from public folder.
 
-* Go to installation route
+* Now, Go to installation route
 
   ```
   {APP_URL}/install
@@ -106,6 +60,11 @@ Here we assume you have whole application's repository including `vendor` and da
 
 * Provide `Environment`, `Database`, `Company`, `Mail` and one `super admin` user information to kickstart the application.
 
-* Wizard will generate `.env` file and set the configurations required for this ERP.
-* To know detail description of each `.env` variables [click here](/wizard-env/)
+* Wizard will set the configurations required for this ERP.
 
+* To know detail description of each configuration variables [click here](/wizard-installation/)
+
+
+#### Miscellaneous
+
+If you are unable to generate PDF on server, create a folder fonts inside storage folder.

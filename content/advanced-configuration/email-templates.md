@@ -91,7 +91,7 @@ An email will be sent to user when the appointment status will be updated as `re
 
 ## To Update Email Template
 
-* To modify the email templete from `Edit` button, It will redirecting the ckeditor to change the name, subject, status and content of a perticular mail in that `{{variable_names}}` should be keep as it is to replace it with actual value in mail.
+* To modify the email templete from `Edit` button, It will redirect the ckeditor to change the name, subject, status and content of a perticular mail in that `{{variable_names}}` should be kept as it is .
 
 * The `Active` status shows that the mail will be sent and the `Deactive` status shows the mail will not be sent from system.
 

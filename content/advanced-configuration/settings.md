@@ -6,6 +6,8 @@ draft= false
 weight = 3
 +++
 
+# Settings
+
 This module is for settings configuation. Following settgins can be managed from settings.
 
 * General
@@ -94,10 +96,10 @@ Accessories: true
 
 ### **Miscellaneous**
 
-This field is used to handle miscellaneous data. For example user can enable a field called `Send Anonymous usage data` to receive error logs for better user experience and improvement of application.
+This field is used to handle miscellaneous data. For example user can enable a field called `Send Anonymous usage data` to send error logs for better user experience and improvement of application.
 
 * Send Anonymous usage data
 
 Example:
 
-Send Anonymous usage data: true
+Send Anonymous usage data: trueSend Anonymous usage data: true
