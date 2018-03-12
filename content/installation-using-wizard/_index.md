@@ -1,5 +1,5 @@
 +++
-title= "Wizard Env"
+title= "Installation using wizard"
 date= 2018-03-09T11:06:25+05:30
 description = ""
 draft= false
@@ -42,7 +42,6 @@ weight = 2
 
   The percentage value of VAT, That would be applied to all the price. By default it would consider `21`% of VAT included in Price.
 
-
 ### 2. Database settings
 
 ![Screen_Shot_2018-03-05_at_11.43.53_AM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/63bdf40a3534ecf2780d9b59107d0048/Screen_Shot_2018-03-05_at_11.43.53_AM.png)
@@ -75,7 +74,6 @@ weight = 2
 
   It defines the mode in which to operate database. It should contains value either `True` or `False`.
   
-
 ### 3. Company Detail Settings for mail
 
 ![Screen_Shot_2018-03-05_at_11.44.14_AM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/d2c76c9e5fffcf24f463719b298b7830/Screen_Shot_2018-03-05_at_11.44.14_AM.png)
@@ -104,7 +102,6 @@ weight = 2
 
   This email would be used to communicate regarding company's policy services.
   
-
 ### 4. Mail Settings
 
 ![Screen_Shot_2018-03-05_at_11.20.49_AM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/013aa1134cffc77002b2f03020115c6f/Screen_Shot_2018-03-05_at_11.20.49_AM.png)
@@ -176,4 +173,32 @@ Below piece of configurations contains the information about the initial user wh
 * `Admin Password`
 
   Password for the above email. Which is used while login to the system.
+  
+  
+### Additional Settings
 
+Following are the additional env fields which can be set directly in `.env` file.
+
+* `APP_TIMEZONE`
+
+  This field is used to specify timezone which app will use for its all time related operations. For example. `Asia/Kolkata`
+  
+* `APP_LANGUAGE`
+
+  It is used to serve the application in different languages. By default we support to serve application in two languages `en`, `da`. You can add more languages if you need by following instructions from [here](./development/internationalization.md)
+  
+* `QUEUE_DRIVER`
+
+  It specifies how to send mails to users. Its value can be `sync` or `database`. `sync` will directly send mails rather than pushing into queue. For `Database` will generate jobs/queue and we have to run jobs explicitely.
+  
+* `Sentry`
+
+  This field is used to handle miscellaneous data. For example user can enable a field called Send Anonymous usage data to receive error logs for better user experience and improvement of application. To support this, we have to add sentry key in .env file. and enable feature from settings.
+  
+* `ANALYTICS_PROVIDER`
+
+  This field is to setup analytics like google analytics. For example. `GoogleAnalytics`.
+  
+* `ANALYTICS_TRACKING_ID`
+
+  It is related to anaylytics. Here we have to add tracking id.  For example. `UA-106769603-1`.
