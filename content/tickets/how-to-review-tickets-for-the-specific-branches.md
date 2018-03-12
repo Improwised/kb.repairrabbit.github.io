@@ -7,7 +7,7 @@ draft= false
 +++
 
 "Tickets" 
-![How to review tickets for the specific branches?](/images/tickets/how_can_i_review_tickets_for_specific_branch/go_to_tickests.png)
+![How to review tickets for the specific branches?](/images/tickets/how_can_i_review_tickets_for_specific_branch/go_to_tickets_edited-min.png)
 
 Select the branch from the top right corner. 
 ![How to review tickets for the specific branches?](/images/tickets/how_can_i_review_tickets_for_specific_branch/Select the branch from the top right corner.png)
