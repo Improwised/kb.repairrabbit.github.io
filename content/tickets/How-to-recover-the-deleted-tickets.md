@@ -25,3 +25,4 @@ Fill the required details “add ”
 
 The new ticket will be created.
 
+You need to create a new ticket. [Click here](/tickets/How-to-generate-tickets-for-the-exsisting-customers.md)
