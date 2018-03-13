@@ -19,8 +19,6 @@ Select the device and “edit”
 ![How to add exsisting device description?](/images/device_and_device_categories/how_to_Add_exsisting_device_description/select_the_device_and_click_edit.png)
 
 Add description and “edit & save"
-![How to add exsisting device description?](/images/device_and_device_categories/how_to_Add_exsisting_device_description/edit_the_details_and_save.png)
-
-
+![How to add exsisting device description?](/images/device_and_device_categories/how_to_Add_exsisting_device_description/edit_description_of_existing_device_save.png)
 
 
