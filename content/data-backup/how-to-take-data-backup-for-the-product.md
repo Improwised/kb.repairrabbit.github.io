@@ -10,10 +10,10 @@ draft= false
 
 
 "Master management”
-![How to take data backup for the products?](/images/data_backup_products/go_to_master_management.png)
+![How to take data backup for the products?](/images/data_backup_products/master_management_edited-min.png)
 
 “Data backup”
-![How to take data backup for the products?](/images/data_backup_products/select_data_backup.png)
+![How to take data backup for the products?](/images/data_backup_products/click_data_back_up_edited-min.png)
 
 “Product” from select module
 ![How to take data backup for the products?](/images/data_backup_products/select_product.png)
