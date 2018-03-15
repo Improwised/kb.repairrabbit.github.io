@@ -9,7 +9,7 @@ draft= true
 
 
 “Master management”
-![How to take data backup for an email template?](/images/data_back_up_email_template/go_to_master_management.png)
+![How to take data backup for an email template?](/images/data_back_up_email_template/master_management_edited.png)
 
 Select Data Backup
 ![How to take data backup for an email template?](/images/data_back_up_email_template/data_backup.png)

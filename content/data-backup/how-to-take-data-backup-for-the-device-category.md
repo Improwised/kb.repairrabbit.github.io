@@ -8,10 +8,10 @@ draft= true
 
 
 “Master management”
-![How to take data backup for the device category?](/images/data_backup_device_category/go_to_master_management.png)
+![How to take data backup for the device category?](/images/data_backup_device_category/go_to_master_m-min.png)
 
 “Data backup”
-![How to take data backup for the device category?](/images/data_backup_device_category/select_data_backup.png)
+![How to take data backup for the device category?](/images/data_backup_device_category/click_data_back_up_edited.png)
 
 
 Select “Device category” from select module
@@ -25,5 +25,4 @@ Select “Device category” from select module
 
 
 Your data back up has been saved in your system settings.
-
 

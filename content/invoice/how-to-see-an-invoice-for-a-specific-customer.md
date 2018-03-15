@@ -3,8 +3,16 @@ title= "How to see an invoice for a specific customer?"
 date= 2018-01-25T11:40:46+05:30
 description= ""
 weight= 5
-draft= false
+draft= true
 +++
+
+
+this question answer is pending,  
+
+-----------------------------------
+
+question to this below answer is pending 
+
 
 “Invoices ” 
 ![How to see an invoice for a specific customer?](/images/invoice/how_to_check_an_invoice_for_specific_customer/go_to_invoice.png)                                  

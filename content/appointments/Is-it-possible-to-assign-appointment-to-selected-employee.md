@@ -8,5 +8,5 @@ draft= false
 
  Appointments cannot be assigned to selected employee.
 
- But, it can be customised with the help of (Customisation Link)
+ 
 

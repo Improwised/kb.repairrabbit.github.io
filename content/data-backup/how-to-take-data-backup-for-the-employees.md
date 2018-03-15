@@ -10,7 +10,7 @@ draft= true
 
 
 “Master management”
-![How to take data back up for an employees?](/images/data_backup_employees/go_to_master_management.png)
+![How to take data back up for an employees?](/images/data_backup_employees/master_management_edited-min.png)
 
 “Data backup”
 ![How to take data back up for an employees?](/images/data_backup_employees/select_data_backup.png)

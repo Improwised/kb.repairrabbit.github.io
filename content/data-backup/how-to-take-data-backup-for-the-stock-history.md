@@ -9,7 +9,7 @@ draft= true
 
 
 “Master management”
-![How to take data backup for the stock history?](/images/data_backup_stock_history/go_to_master_management.png)
+![How to take data backup for the stock history?](/images/data_backup_stock_history/go_to_master_m-min.png)
 
 “Data backup”
 ![How to take data backup for the stock history?](/images/data_backup_stock_history/select_data_backup.png)
