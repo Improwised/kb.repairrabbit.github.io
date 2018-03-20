@@ -1,26 +1,26 @@
 +++
-title= "Launch Your Business"
+title= "Launch customer web portal"
 date= 2018-02-28T19:48:03+05:30
 description = ""
 draft= false
 weight = 3
 +++
 
-Before launching your customer side. You should complete following steps.
+Before the launch of the customer side. admin needs to follow this instructions.
 
 * Add device categories from Master Management.
 * Add relevant devices from Master Management.
 * Add products for each devices from Master Management.
 
-After adding device related information. Add following data.
+After adding device related information. Add the following data.
 
-* Add Stores and associate devices to them.
+* Add Stores and associate devices.
 * Add employees, store admin for each stores.
-* If you provide accessories, Add accessories too. From master management.
-* Add stocks for each products for each stores you created. It can be added from inventory.
-* By default, RepairRabbit send few emails to customers on certain actions. But you can enable or disable it. It can be done from Master Management.
+* If you provide accessories than add accessories also from master management.
+* Add stocks for each products, for each stores created. It can be added from inventory.
+* By default, RepairRabbit send few emails to customers on certain actions.But admin  can enable or disable it from Master Management.
 
-Now, You can launch repair rabbit for your customers.
+Now, admin can launch repair rabbit for your customers.
 
 
 To check the sysytem use the following emails and passowrd:

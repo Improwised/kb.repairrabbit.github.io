@@ -8,32 +8,32 @@ weight = 1
 +++
 
 
-### Setup On Cloud
+### Cloud setup:
 
 #### Prerequisites:
 
 * docker/docker-compose
 * git
 
-You must have project added on your server and you are in root of your project.
+Project should be added on your server and make sure that you are in the project root.
 
-Run below command from root of your project.
+Run the below command from the project root.
 
 ```
 docker-compose up
 ```
 
-Above command will create 3 containers for nginx, app and database respectively. 
+It will create 3 containers for nginx, app and database respectively. 
 
-As we mount the storage to container. Give read/write permission to storage for user docker.
+As we mount the storage to the container. Give read/write permission to storage for user docker.
 
 ```
 chmod -R 777 storage/app/public/
 ```
 
-After Successfull creation of containers. SSH/Bash into app container using `docker exec -it <container> bash`.
+Once the containers are created Successfully , follow this command to get into the `app` container. `docker exec -it <container> bash`.
 
-* Generate application key
+* Now generate an application key
 
 ```
 php artisan key:generate
@@ -46,13 +46,13 @@ php artisan key:generate
 php artisan storage:link
 ```
 
-To know detail description of each configuration variables [click here](/wizard-installation/).
+To know detail description of each configuration variables [click](/wizard-installation/).
 
-### Setup On Shared Hosting
+### Shared Hosting Setup
 
-Here we assume you have extracted the zip package and you served `index.php` from public folder.
+Lets assume you have extracted the zip package and you served `index.php` from public folder.
 
-* Now, Go to installation route
+* Go to installation route
 
   ```
   {APP_URL}/install
@@ -62,9 +62,9 @@ Here we assume you have extracted the zip package and you served `index.php` fro
 
 * Wizard will set the configurations required for this ERP.
 
-* To know detail description of each configuration variables [click here](/wizard-installation/)
+* To know the details of each configuration variables [click](/wizard-installation/)
 
 
 #### Miscellaneous
 
-If you are unable to generate PDF on server, create a folder fonts inside storage folder.
+If you fail to generate PDF on server, create a `fonts` folder into the storage folder.

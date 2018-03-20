@@ -12,19 +12,19 @@ weight = 2
 
 * `APP_NAME`
 
-  This field denotes the name of the application. You will see it at top left bar.
+  This denotes the name of the application. You will see it at top left bar.
 
 * `APP_ENV`
 
-  It defines the environment in which application is running. Value can be `local`, `development` and `production`.
+  It defines the running application environment. It can be Value as `local`, `development` and `production`.
 
 * `APP_DEBUG`
 
-  It specifies whether debug mode is on or off. It's value can be either `True` or `False`.
+  It specifiy about debug mode status as in or off. It can be valued as either `True` or `False`.
 
 * `APP_LOG_LEVEL`
 
-  It is used to define which log level, the application is using. Value can be  any of `debug`, `info`, `notice`, `warning`, `error`, `critical`, `alert`, `emergency`.
+  It define the active log level of the application. It can be Valued as any, `debug`, `info`, `notice`, `warning`, `error`, `critical`, `alert`, `emergency`.
 
 * `APP_URL`
 
@@ -32,15 +32,15 @@ weight = 2
 
 * `APP_LOGO`
 
-  The path at which the logo of the application is available. For example `http://repairrabbit.test/images/logo.png`
+  The application logo path. For example `http://repairrabbit.test/images/logo.png`
 
 * `APP_CURRENCY`
 
-  It shows the currency which would be used in entire system. Values should be any of the **html entity** from [here](https://www.toptal.com/designers/htmlarrows/currency/)
+  It shows the currency that system supports. Values should be any of the **html entity** from [here](https://www.toptal.com/designers/htmlarrows/currency/)
 
 * `VAT`
 
-  The percentage value of VAT, That would be applied to all the price. By default it would consider `21`% of VAT included in Price.
+  The applicable percentage value of VAT on all the price. By default system will consider `21`% of VAT included in Price.
 
 ### 2. Database settings
 
@@ -48,31 +48,31 @@ weight = 2
 
 * `DB_CONNECTION`
   
-  database server to which to connect. It value must be `mysql`
+  It denotes on which database server application required to get connected. It must be valued `mysql`
 
 * `DB_HOST`
 
-  The database host to connect application. Its value must be host(ip) at which your database server is running. For example `127.0.0.1`
+  The database host is to connect application. Its value must be host(ip) where your database server is running. For example `127.0.0.1`
   
 * `DB_PORT`
 
-  Port at which your database server listen. Generally mysql server listen at port `3306`.
+  A Port that database server listen. Generally mysql server listen at the port `3306`.
   
 * `DB_DATABASE`
 
-  Value must be the name of your database.
+  Name of your database will be the Value .
   
 * `DB_USERNAME`
 
-  Value must be the user of your mysql server. By default `mysql` has user called `root`.
+  The User of your mysql server will the value. By default `mysql` has user called `root`.
   
 * `DB_PASSWORD`
 
-  Value must be the password of your mysql server to be connected. By default mysql does not set any password.
+  Value must be the password of your mysql server to be connected.Mysql does not set any password by default.
   
 * `DB_STRICT_MODE`
 
-  It defines the mode in which to operate database. It should contains value either `True` or `False`.
+  It defines the mode to operate the database. The value should be either `True` or `False`.
   
 ### 3. Company Detail Settings for mail
 
@@ -110,7 +110,7 @@ This piece of settings/configurations cotains information regarding mail setting
 
 * `MAIL_DRIVER`
 
-  It specifies which mail driver would be used while sending mails from the system. It's value can be any of the `mail`, `smtp`, `sendmail`, `mailgun`.
+  It specifies which mail driver can be used while sending mails from the system. It's value can be any of the `mail`, `smtp`, `sendmail`, `mailgun`.
 
 * `MAIL_FROM_NAME`
 
@@ -160,15 +160,15 @@ This piece of settings/configurations cotains information regarding mail setting
 
 ![Screen_Shot_2018-03-05_at_11.47.23_AM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/74765d15ed99b5f001c54676a61e5225/Screen_Shot_2018-03-05_at_11.47.23_AM.png)
 
-Below piece of configurations contains the information about the initial user who will gonna setup the system first.
+Below piece of configurations contains the information about the initial user who will install the system at the first stage.
 
 * `Admin Name `
 
-  Name of the initial user.
+  Name of the admin user.
   
 * `Admin Email`
 
-  Email of the initial admin user. Who will gonna setup the system and seed initial data like employee, stores, inventories etc.
+  Email of the admin user. Who will install the system and seed initial data like employee, stores, inventories etc.
   
 * `Admin Password`
 
@@ -181,23 +181,23 @@ Following are the additional env fields which can be set directly in `.env` file
 
 * `APP_TIMEZONE`
 
-  This field is used to specify timezone which app will use for its all time related operations. For example. `Asia/Kolkata`
+  This field specify timezone that application will use for time related operations. For example. `Asia/Kolkata`
   
 * `APP_LANGUAGE`
 
-  It is used to serve the application in different languages. By default we support to serve application in two languages `en`, `da`. You can add more languages if you need by following instructions from [here](./development/internationalization.md)
+  It serve the application in different languages. By default we support application in two languages `en`, `da`. You can add more languages if you need with the help of this instructions [here](./development/internationalization.md)
   
 * `QUEUE_DRIVER`
 
-  It specifies how to send mails to users. Its value can be `sync` or `database`. `sync` will directly send mails rather than pushing into queue. For `Database` will generate jobs/queue and we have to run jobs explicitely.
+  It specifies how to send an email to user. It value can be `sync` or `database`. for this `sync` value the system will directly send mails rather than pushing it into queue. For `Database` system will generate jobs/queue and admin will have to run jobs explicitely.
   
 * `Sentry`
 
-  This field is used to handle miscellaneous data. For example user can enable a field called Send Anonymous usage data to receive error logs for better user experience and improvement of application. To support this, we have to add sentry key in .env file. and enable feature from settings.
+  This is used to manage miscellaneous data. For example user can enable a field called Send Anonymous usage data to receive error logs for better user experience and improvement of application. To support this, admin have to add sentry key in .env file. and enable feature from settings.
   
 * `ANALYTICS_PROVIDER`
 
-  This field is to setup analytics like google analytics. For example. `GoogleAnalytics`.
+  This setup the analytics like google analytics. For example. `GoogleAnalytics`.
   
 * `ANALYTICS_TRACKING_ID`
 
