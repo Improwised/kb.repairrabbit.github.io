@@ -6,19 +6,20 @@ draft= false
 weight = 4
 +++
 
-Repair Rabbit has total 4 types of users. Each user has cetain roles nd permissions given to access resources. Below are the list of users supported in the system.
+Repair Rabbit has several users. Each user has been assigned certain roles and permission to access resources. Below is the list of users supported by the system.
 
-### [Customers](/roles-and-permissions/#a-name-customers-customers-a)
-### [Employees](/roles-and-permissions/#a-name-employees-employees-a)
-### [Store Admin](/roles-and-permissions/#a-name-store-admin-store-admin-a)
-### [Super/Main Admin](/roles-and-permissions/#a-name-super-admin-super-main-admin-a)
+* [Customers](/roles-and-permissions/#a-name-customers-customers-a)
+* [Employees](/roles-and-permissions/#a-name-employees-employees-a)
+* [Store Admin](/roles-and-permissions/#a-name-store-admin-store-admin-a)
+* [Super/Main Admin](/roles-and-permissions/#a-name-super-admin-super-main-admin-a)
 
 <br/>
 <hr>
 
-## <a name="#customers">Customers</a>
+### <a name="#customers">Customers</a>
 
-`Customers` type user i.e. user who has role customer can perform following actions.
+`Customers` Here, user has an access to perform all the specified actions,
+
 
 * Create A New Appointments
 * View Appointments
@@ -27,35 +28,35 @@ Repair Rabbit has total 4 types of users. Each user has cetain roles nd permissi
 * Edit Profile
 * Reset Password
 
-## <a name="#employees">Employees</a>
+### <a name="#employees">Employees</a>
 
-`Employees` type user i.e. user who has role employee can perform following actions.
+`Employees` Here, the user has an access to perform all the specified actions ,
 
-**In Dashboard:**
+**Dashboard:**
 
-An employee has following access in `Dashboard` page.
+An employee can access the `Dashboard` .
 
-* Year to date Appointments
-* Appointment - Previous Year
-* Year to date Tickets
-* Tickets - Previous Year
 * Appointments
+* Year to date Appointments
+* Previous Year -Appointments
+* Year to date Tickets
+* Previous Year Tickets 
 * Repairs By Employee
 
-**In Agenda:**
+**Agenda:**
 
-An employee has following access in `Agenda` page.
+An employee can also access the `Agenda`.
 
 * Appointments
 * Leaves
 * Store Holidays
 
 
-**In Tickets:**
+**Tickets:**
 
-An employee has following access in `Tickets` page.
+An employee can access `Tickets` .
 
-* Listing
+* List
 * Add
 * View
 * Edit
@@ -66,11 +67,11 @@ An employee has following access in `Tickets` page.
 * History
 
 
-**In Appointments:**
+**Appointments:**
 
-An employee has following access in `Appointments` page.
+An employee can access `Appointments` .
 
-* Listing
+* List
 * Add
 * View
 * Edit
@@ -78,23 +79,24 @@ An employee has following access in `Appointments` page.
 * View Ticket
 
 
-**In Customers:**
+**Customers:**
 
-An employee has following access in `Customers` page.
+An employee has an access to  `Customers` .
 
-* Listing
+* List
 * Add
 * View
 * Edit
 * Change Password
 * Import Sample data Csv
-* Tickets, Appointments listing of that perticular customer with a perticular store of a employee
-* Ticket, Appointment add new of that perticular customer with a perticular store of a employee
+* list of the Tickets, Appointments about a particular customer with specific details about store or an employee.
+* New Ticket or an Appointment can be added related to the particular customer with a specific store or an employee details.
 
 
-**In Invoices:**
 
-An employee has following access in `Invoices` page.
+**Invoices:**
+
+An employee can also access `Invoices` page.
 
 * Add
 * View
@@ -103,26 +105,26 @@ An employee has following access in `Invoices` page.
 
 ## <a name="#store_admin">Store Admin</a>
 
-**In Dashboard:**
+**Dashboard:**
 
 * Year to date Appointment
-* Appointment - Previous Year
+* Previous Year - Appointment 
 * Year to date Tickets
-* Tickets - Previous Year
-* Total earning amount
-* Total Price Of Stock
+* Previous Year - Tickets 
+* Total Revenue 
+* Total Stock valuation
 * Employees Status
 * Stores Status
 * Appointments
 * Repairs By Employee
 
-**In Agenda:**
+**Agenda:**
 
 * Appointments
 * Leaves
 * Store Holidays
 
-**In Tickets:**
+**Tickets:**
 
 * Listing
 * Add
@@ -138,41 +140,41 @@ An employee has following access in `Invoices` page.
 * History
 
 
-**In Appointments:**
+**Appointments:**
 
-* Listing
+* List
 * Add
 * View
 * Edit
 * Delete
-* Convert Into Ticket(start repair)
+* Convert Into Ticket (start repair)
 * View Ticket
 
-**In Customers:**
+**Customers:**
 
-* Listing
+* List
 * Add
 * View
 * Edit
 * Change Password
 * Delete
 * Import Sample data Csv
-* Tickets, Appointments, Invoices listing of that perticular customer with a perticular store
-* Ticket, Appointment, Invoice add new of that perticular customer with a perticular store
+* Easy access over the customers data with specicf details related to Tickets, appointments or Inovice for a particular store.
+* Easy to add new Ticket, Appointment, or an Invoice for a specific customer for a particular store.
 
 
-**In Invoices:**
+**Invoices:**
 
-* Listing
+* List
 * Add
 * View
 * Edit
 * Print
 * Preview
 
-**In Employees:**
+**Employees:**
 
-* Listing
+* List
 * Add
 * View
 * Edit
@@ -180,67 +182,65 @@ An employee has following access in `Invoices` page.
 * Change Role
 * Delete
 
-**In Store Closed(Holidays):**
+**Store Closed(Holidays):**
 
-* Listing
+* List
 * Add
 * Edit
 * Delete
 
-**In Inventory:**
+**Inventory:**
 
-* Listing(with add, return and transfer for a perticular store also)
+* List (about add,return and transfer of a specific store)
 * Add
 * Return
 * Transfer
 * History of stock
 * History of a perticular product also
 
-**In Master Management:**
+**Master Management:**
 
 *Shops*
 
-* View(With Employee listing, add, edit, view, change password, delete of a perticular store)
-* Edit
+* View(Employees list, add, edit, view, change the password, delete of a particular store)
 
 *Accessories*
 
-* Listing
+* List
 * View
 * Add
 * Edit
 
 ## <a name="#super_admin">Super/Main Admin</a>
 
-**In Dashboard:**
+**Dashboard:**
 
-In this all blocks, admin having rights of all stores which are listing as following:
-
+Here, Admin can access all the listed features
 
 * Year to date Appointment
-* Appointment - Previous Year
+* Previous Year-Appointment 
 * Year to date Tickets
-* Tickets - Previous Year
+* Previous Year Tickets
 * Total earning amount
-* Total Price Of Stock
-* Employees Status
-* Stores Status
+* Total stock evaluation
+* Employee Status
+* Store Status
 * Appointments
 * Repairs By Employee
 
-**In Agenda:**
+**Agenda:**
 
-In this all blocks, admin having rights of all stores with employees which are listing as following:
+Here, admin can access all the listed features for each employee in every store.
 
 * Appointments
 * Leaves
 * Store Holidays
 
-**In Tickets:**
+**Tickets:**
 
-In this all blocks, admin having rights of all stores which are listing as following:
+Here, admin can access all the listed features for each employee in every store.
 
-* Listing
+* List
 * Add
 * View
 * Edit
@@ -254,11 +254,11 @@ In this all blocks, admin having rights of all stores which are listing as follo
 * History
 
 
-**In Appointments:**
+**Appointments:**
 
-In this all blocks, admin having rights of all stores which are listing as following:
+Here, admin can access all the listed features for each employee in every store.
 
-* Listing
+* List
 * Add
 * View
 * Edit
@@ -266,11 +266,11 @@ In this all blocks, admin having rights of all stores which are listing as follo
 * Convert Into Ticket(start repair)
 * View Ticket
 
-**In Customers:**
+**Customers:**
 
-In this all blocks, admin having rights of all customers from all stores which are listing as following:
+Here, admin can access all the listed features for each employee in every store.
 
-* Listing
+* List
 * Add
 * View
 * Edit
