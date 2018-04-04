@@ -10,15 +10,14 @@ draft= false
 
 Its easy to create a new appointment for the New Customers or for exsisting customers.
 
-_**Create New Appointments for new customers**_
+### **Create New Appointments for new customers**
  
-Proccess:-
 
 Dashboard > Add Appointment.
 
 ![dashboard add new appoinment](/images/appointments/dashboard_add_appointment.png)
 
- *OR* 
+*OR* 
 
 Appointments > New > Add New customer > fill details > Add
 
@@ -48,7 +47,7 @@ Again Fill the details required for product repair.
 
 
 
-_**New Appointment For Existing Customers :**_
+### ** Create new Appointment For Existing Customers :**
 
 Dashboard << Add Appointment
 

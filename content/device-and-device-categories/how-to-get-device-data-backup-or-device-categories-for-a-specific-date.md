@@ -12,7 +12,7 @@ draft= false
 ![How to get device data backup or device categories for a specific date?](/images/device_and_device_categories/how_will_i_get_device_data_backup_for_device_categories_for_a_specific_date/go_to_master_management.png)
 
 “Data backup”
-![How to get device data backup or device categories for a specific date?](/images/device_and_device_categories/how_will_i_get_device_data_backup_for_device_categories_for_a_specific_date/select_data_backup.png)
+![How to get device data backup or device categories for a specific date?](/images/device_and_device_categories/how_will_i_get_device_data_backup_for_device_categories_for_a_specific_date/click_data_back_up_edited-min.png)
 
 “Device category" from select Module 
 ![How to get device data backup or device categories for a specific date?](/images/device_and_device_categories/how_will_i_get_device_data_backup_for_device_categories_for_a_specific_date/select_device_category.png)

@@ -3,13 +3,13 @@ title= "How to take data backup for the stock history?"
 date= 2018-01-25T14:55:52+05:30
 description = ""
 weight= 8
-draft= false
+draft= true
 +++
 
 
 
 “Master management”
-![How to take data backup for the stock history?](/images/data_backup_stock_history/go_to_master_management.png)
+![How to take data backup for the stock history?](/images/data_backup_stock_history/go_to_master_m-min.png)
 
 “Data backup”
 ![How to take data backup for the stock history?](/images/data_backup_stock_history/select_data_backup.png)
