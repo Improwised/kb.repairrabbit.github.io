@@ -8,12 +8,12 @@ weight = 3
 
 # Settings
 
-This module is for settings configuation. Following settgins can be managed from settings.
+This module is for settings configuration. Following settings can be managed from settings.
 
 * General
 * Mail
 * Vat
-* Modules(Accessories)
+* Accessories(Modules)
 * Miscellaneous
 
 ### **General**
@@ -32,7 +32,7 @@ Example:
 
 Application Name: Repair Rabbit
 
-Currency: \&euro;
+Currency: \€euro;
 
 Company Name: RepairRabbit
 
@@ -47,7 +47,7 @@ Company Website: http://www.repairrabbit.co
 
 ### **Mail**
 
-In mail settings users can change following parameters
+In mail settings, users can change following parameters
 
 * Driver
 * From Name
@@ -61,7 +61,7 @@ Example:
 
 Driver: mail
 
-From Name: \&euro;
+From Name: \€euro;
 
 From Address: from@repairrabbit.com
 
@@ -86,7 +86,7 @@ Vat: 21%
 
 ### **Modules**
 
-Here user can enalble/disable the modules. For example `accessories` module.
+Here a user can enable/disable the modules. For example accessories module.
 
 * Accessories
 
@@ -96,7 +96,7 @@ Accessories: true
 
 ### **Miscellaneous**
 
-This field is used to handle miscellaneous data. For example user can enable a field called `Send Anonymous usage data` to send error logs for better user experience and improvement of application.
+This field is used to handle miscellaneous data. For example, a user can enable a field called Send Anonymous usage data to send error logs for better user experience and improvement of application.
 
 * Send Anonymous usage data
 

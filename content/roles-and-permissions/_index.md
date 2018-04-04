@@ -1,5 +1,5 @@
 +++
-title= "Roles and Permissions"
+title= "Security and Permissions"
 date= 2018-03-09T12:14:05+05:30
 description = ""
 draft= false
@@ -18,7 +18,7 @@ Repair Rabbit has several users. Each user has been assigned certain roles and p
 
 ### <a name="#customers">Customers</a>
 
-`Customers` Here, user has an access to perform all the specified actions,
+`Customers` Here, a user has an access to perform all the specified actions,
 
 
 * Create A New Appointments
@@ -30,7 +30,7 @@ Repair Rabbit has several users. Each user has been assigned certain roles and p
 
 ### <a name="#employees">Employees</a>
 
-`Employees` Here, the user has an access to perform all the specified actions ,
+`Employees` Here, a user has an access to perform all the specified actions,
 
 **Dashboard:**
 
@@ -69,7 +69,7 @@ An employee can access `Tickets` .
 
 **Appointments:**
 
-An employee can access `Appointments` .
+An employee can access `Appointments`.
 
 * List
 * Add
@@ -81,7 +81,7 @@ An employee can access `Appointments` .
 
 **Customers:**
 
-An employee has an access to  `Customers` .
+An employee has an access to  `Customers`.
 
 * List
 * Add
@@ -89,7 +89,7 @@ An employee has an access to  `Customers` .
 * Edit
 * Change Password
 * Import Sample data Csv
-* list of the Tickets, Appointments about a particular customer with specific details about store or an employee.
+* List of the Tickets, Appointments about a particular customer with specific details about store or an employee.
 * New Ticket or an Appointment can be added related to the particular customer with a specific store or an employee details.
 
 
@@ -196,11 +196,11 @@ An employee can also access `Invoices` page.
 * Return
 * Transfer
 * History of stock
-* History of a perticular product also
+* History of a particular product also
 
 **Master Management:**
 
-*Shops*
+*Stores*
 
 * View(Employees list, add, edit, view, change the password, delete of a particular store)
 
@@ -314,7 +314,7 @@ Here, admin can access all the listed features for each employee in every store.
 * Return
 * Transfer
 * History of stock
-* History of a perticular product also
+* History of a particular product also
 
 **In Master:**
 
@@ -342,7 +342,7 @@ Here, admin can access all the listed features for each employee in every store.
 * Edit
 * Delete
 
-*Shops*
+*Stores*
 
 * Listing
 * View(With Employee listing, add, edit, view, change password, delete of a perticular store)

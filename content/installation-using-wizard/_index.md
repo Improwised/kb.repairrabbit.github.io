@@ -52,7 +52,7 @@ weight = 2
 
 * `DB_HOST`
 
-  The database host is to connect application. Its value must be host(ip) where your database server is running. For example `127.0.0.1`
+  The Database host to which application will connect. Its value must be host(ip) at which your database server is running. For example `127.0.0.1`. If you are running the application using docker, use database service name `db` as host.
   
 * `DB_PORT`
 

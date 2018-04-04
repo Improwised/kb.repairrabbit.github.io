@@ -6,7 +6,7 @@ draft= false
 weight = 4
 +++
 
-* The system must have following key settings in `.env` file to send mail successfully from system:
+* The system must have following key settings in `.env` file to send mail successfully from the system:
 
 ```
 COMPANY_EMAIL_SUPPORT=
@@ -29,7 +29,7 @@ MAILGUN_DOMAIN=
 MAILGUN_SECRET=
 ```
 
-* These settings also available in `settings` page of admin. These keys in `.env` se can also be changed from settings panel.
+* These settings also available in `settings` page of admin. These keys in `.env` can also be changed from the settings panel.
 
 ## List Of Email Templates
 * [Appointment Status Is No Show & Unconfirmed](/advanced-configuration/email-templates/#a-name-status-no-show-appointment-status-is-no-show-unconfirmed-a)
@@ -51,7 +51,7 @@ Email will be sent to user, When the appointment status updated as `no_shows=1`.
 
 ### <a name="appointment_confirmation">Appointment conformation mail</a>
 
-When user creates an appointment at that time an confirmation mail will be sent to user.
+When the user creates an appointment at that time an confirmation mail will be sent to the user.
 
 ### <a name="reminder_email">Reminder E-Mail</a>
 
@@ -91,8 +91,8 @@ An email will be sent to user when the appointment status will be updated as `re
 
 ## To Update Email Template
 
-* To modify the email templete from `Edit` button, It will redirect the ckeditor to change the name, subject, status and content of a perticular mail in that `{{variable_names}}` should be kept as it is .
+* To modify the email template from Edit button, It will redirect the editor to change the name, subject, status and content of a particular mail in that `{{variable_names}}` should be kept as it is.
 
-* The `Active` status shows that the mail will be sent and the `Deactive` status shows the mail will not be sent from system.
+* The `Active` status shows that the mail will be sent and the `Deactivate` status shows the mail will not be sent from the system.
 
-* The status can also be changed from main listing of email-templates at admin side by clicking on `Active` or `Deactive` button.
+* The status can also be changed from the main listing of email-templates at admin side by clicking on `Active` or `Deactivate` button.
