@@ -7,46 +7,62 @@ type="page"
 weight = 1
 +++
 
-
-### Cloud setup:
+### Setup On Cloud
 
 #### Prerequisites:
 
 * docker/docker-compose
-* git
 
-Project should be added on your server and make sure that you are in the project root.
+You must have added the project on your server/machine and you are in root of your project.
 
-Run the below command from the project root.
+Change values of exported variables in `setup.sh` file in case if you want. Most of the cases the default values will work.
 
 ```
-docker-compose up
+export NGINX_PORT=80
+export APP_PORT=9000
+export DB_PORT=33061
+
+export MYSQL_ROOT_PASSWORD=secret
+export MYSQL_DATABASE=repairrabbit
+export MYSQL_USER=root
 ```
 
-It will create 3 containers for nginx, app and database respectively. 
+Give executable permission to `setup.sh` file.
 
-As we mount the storage to the container. Give read/write permission to storage for user docker.
+```
+chmod +x setup.sh
+```
+
+Run `setup.sh` executable.
+
+```
+sh setup.sh
+
+```
+Or to Rebuild application:
+
+```
+sh setup.sh up
+
+```
+
+Above command will create 3 containers for nginx, app and database respectively.
+
+As we mount the storage to container. Give read/write permission to storage for user docker.
 
 ```
 chmod -R 777 storage/app/public/
 ```
-
-Once the containers are created Successfully , follow this command to get into the `app` container. `docker exec -it <container> bash`.
-
-* Now generate an application key
-
-```
-php artisan key:generate
-
-```
-
-* Link the storage
+Link the storage
 
 ```
 php artisan storage:link
 ```
+Now, You can access the application at `{YOUR IP}:{NGINX_PORT}`.
 
-To know detail description of each configuration variables [click](/wizard-installation/).
+For example `192.168.1.26:80`, `127.0.0.1:80`.
+
+To know detail description of each configuration variables [click here](/installation-using-wizard/).
 
 ### Shared Hosting Setup
 
@@ -62,7 +78,7 @@ Lets assume you have extracted the zip package and you served `index.php` from p
 
 * Wizard will set the configurations required for this ERP.
 
-* To know the details of each configuration variables [click](/wizard-installation/)
+* To know the details of each configuration variables [click](/installation-using-wizard/)
 
 
 #### Miscellaneous
