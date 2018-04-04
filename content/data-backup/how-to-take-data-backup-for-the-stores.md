@@ -3,7 +3,7 @@ title= "How to take data back up for the store?"
 date= 2018-01-25T15:10:37+05:30
 description = ""
 weight= 12
-draft= false
+draft= true
 +++
 
 

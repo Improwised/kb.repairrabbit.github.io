@@ -3,7 +3,7 @@ title= "How to take data backup for an email template?"
 date= 2018-01-25T15:13:12+05:30
 description = ""
 weight= 13
-draft= false
+draft= true
 +++
 
 

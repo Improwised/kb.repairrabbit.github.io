@@ -3,7 +3,7 @@ title= "How to take data backup for the stock history?"
 date= 2018-01-25T14:55:52+05:30
 description = ""
 weight= 8
-draft= false
+draft= true
 +++
 
 
