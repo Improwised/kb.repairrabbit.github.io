@@ -1,5 +1,5 @@
 +++
-title= "How to check revenue generated from dashboard?"
+title= "How to check generated revenue from dashboard?"
 date= 2018-02-08T11:17:34+05:30
 description = ""
 weight= 2

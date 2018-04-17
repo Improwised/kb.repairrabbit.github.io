@@ -1,5 +1,5 @@
 +++
-title= "How to edit my existing customer ?"
+title= "How to edit description of existing customer ?"
 date= 2018-01-19T16:38:20+05:30
 description = ""
 weight = 1

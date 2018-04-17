@@ -1,5 +1,5 @@
 +++
-title= "How to determine the total price of all the products in stock?"
+title= "How to determine the total value of all the products in stock?"
 date= 2018-02-08T11:19:56+05:30
 description = ""
 weight= 3
