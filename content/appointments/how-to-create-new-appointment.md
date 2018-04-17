@@ -47,7 +47,7 @@ Again Fill the details required for product repair.
 
 
 
-### ** Create new Appointment For Existing Customers :**
+###  Create new Appointment For Existing Customers 
 
 Dashboard << Add Appointment
 

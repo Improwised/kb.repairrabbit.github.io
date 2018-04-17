@@ -17,7 +17,7 @@ here you can directly add appointments for the customers.
 ![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/add_appointment_from_dashboard.png)
 
 #### Add Tickets.
-here you can directly add tickets generated for the customers.
+here you can directly add tickets for the customers.
 ![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/add_ticket_from_dashboard.png)
 
 #### Add Invoice.

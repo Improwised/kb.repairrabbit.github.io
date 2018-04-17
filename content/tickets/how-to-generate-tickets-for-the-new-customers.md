@@ -1,5 +1,5 @@
 +++
-title= "How to generate a ticket for the new customers?"
+title= "How to generate ticket for the new customers?"
 date= 2018-01-25T15:31:58+05:30
 description = ""
 weight= 2
