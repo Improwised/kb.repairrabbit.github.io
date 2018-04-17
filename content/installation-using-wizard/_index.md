@@ -12,7 +12,7 @@ weight = 2
 
 * `APP_NAME`
 
-  This denotes the name of the application. You will see it at top left bar.
+  This denotes the name of the application. You will see it at the top left bar.
 
 * `APP_ENV`
 
@@ -20,11 +20,11 @@ weight = 2
 
 * `APP_DEBUG`
 
-  It specifiy about debug mode status as in or off. It can be valued as either `True` or `False`.
+  It specifies about debugs mode status as in or off. It can be valued as either `True` or `False`.
 
 * `APP_LOG_LEVEL`
 
-  It define the active log level of the application. It can be Valued as any, `debug`, `info`, `notice`, `warning`, `error`, `critical`, `alert`, `emergency`.
+  It defines the active log level of the application. It can be Valued as any, `debug`, `info`, `notice`, `warning`, `error`, `critical`, `alert`, `emergency`.
 
 * `APP_URL`
 
@@ -36,7 +36,7 @@ weight = 2
 
 * `APP_CURRENCY`
 
-  It shows the currency that system supports. Values should be any of the **html entity** from [here](https://www.toptal.com/designers/htmlarrows/currency/)
+  It shows the currency that system supports. Values should be any of the **HTML entity** from [here](https://www.toptal.com/designers/htmlarrows/currency/)
 
 * `VAT`
 
@@ -52,23 +52,23 @@ weight = 2
 
 * `DB_HOST`
 
-  The Database host to which application will connect. Its value must be host(ip) at which your database server is running. For example `127.0.0.1`. If you are running the application using docker, use database service name `db` as host.
+  The Database host to which application will connect. Its value must be host(ip) at which your database server is running. For example `127.0.0.1`. If you are running the application using Docker, use database service name `DB` as host.
   
 * `DB_PORT`
 
-  A Port that database server listen. Generally mysql server listen at the port `3306`.
+  A Port that database server listens. Generally, MySQL server listens at the port `3306`.
   
 * `DB_DATABASE`
 
-  Name of your database will be the Value .
+  Name of your database will be the Value.
   
 * `DB_USERNAME`
 
-  The User of your mysql server will the value. By default `mysql` has user called `root`.
+  The User of your MySQL server will the value. By default `mysql` has a user called `root`.
   
 * `DB_PASSWORD`
 
-  Value must be the password of your mysql server to be connected.Mysql does not set any password by default.
+  Value must be the password of your MySQL server to be connected.Mysql does not set any password by default.
   
 * `DB_STRICT_MODE`
 
