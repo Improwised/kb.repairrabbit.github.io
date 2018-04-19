@@ -20,7 +20,7 @@ If you have anything unclear, please feel free to write us.
 * Create an appointment for the Customers. 
 * Raise Tickets for Repair work Management
 * Track & record Customers Data
-* Analyze the Overall work for the diffent store Locations.
+* Analyze the Overall work for the different store Locations.
 * Verify - Invoice Data.
 * Manage work Schedule for the Employees. 
 * Ease to monitor store work for different stores.
