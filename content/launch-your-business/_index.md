@@ -26,8 +26,8 @@ Now, admin can launch repair rabbit for your customers.
 To check the sysytem use the following emails and passowrd:
 
 ```
-Admin: email => admin@gmail.com, password => 123456
-Store Admin: email => storeadmin@gmail.com, password => 123456
-Employee: email => employee@gmail.com, password => 123456
-Customer: email => customer@gmail.com, password => 123456
+Admin: email => admin@repairrabbit.co, password => 123456
+Store Admin: email => storeadmin@repairrabbit.co, password => 123456
+Employee: email => employee@repairrabbit.co, password => 123456
+Customer: email => customer@repairrabbit.co, password => 123456
 ```
