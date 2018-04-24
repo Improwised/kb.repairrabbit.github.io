@@ -15,7 +15,7 @@ weight = 1
 * docker/docker-compose
 * git
 
-Project should be added on your server and make sure that you are in the project root.
+You must have added the project to your server/machine and you are in the root of your project.
 
 Run the below command from the project root.
 
@@ -23,7 +23,7 @@ Run the below command from the project root.
 docker-compose up
 ```
 
-It will create 3 containers for nginx, app and database respectively. 
+It will create 3 containers for nginx, app and database respectively.
 
 As we mount the storage to the container. Give read/write permission to storage for user docker.
 
@@ -31,7 +31,7 @@ As we mount the storage to the container. Give read/write permission to storage 
 chmod -R 777 storage/app/public/
 ```
 
-Once the containers are created Successfully , follow this command to get into the `app` container. `docker exec -it <container> bash`.
+Once the containers are created Successfully, follow this command to get into the `app` container. `docker exec -it <container> bash`.
 
 * Now generate an application key
 
@@ -50,7 +50,7 @@ To know detail description of each configuration variables [click](/wizard-insta
 
 ### Shared Hosting Setup
 
-Lets assume you have extracted the zip package and you served `index.php` from public folder.
+Let's assume you have extracted the zip package and you served `index.php` from the public folder.
 
 * Go to installation route
 
@@ -67,4 +67,4 @@ Lets assume you have extracted the zip package and you served `index.php` from p
 
 #### Miscellaneous
 
-If you fail to generate PDF on server, create a `fonts` folder into the storage folder.
+If you fail to generate PDF on a server, create a `fonts` folder into the storage folder.
