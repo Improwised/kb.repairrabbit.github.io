@@ -7,7 +7,7 @@ type="page"
 weight = 1
 +++
 
-### Setup On Cloud
+### How to Setup On Cloud
 
 #### Prerequisites:
 
@@ -15,7 +15,7 @@ weight = 1
 
 You must have added the project on your server/machine and you are in root of your project.
 
-Change values of exported variables in `setup.sh` file in case if you want. Most of the cases the default values will work.
+In Most of the cases the default values will work and also you can Change values of exported variables in `setup.sh` file.
 
 ```
 export NGINX_PORT=80
@@ -43,7 +43,7 @@ To know detail description of each configuration variables [click here](/install
 
 ### Shared Hosting Setup
 
-Lets assume you have extracted the zip package and you served `index.php` from public folder.
+Let's assume you have extracted the zip package and you served `index.php` from the public folder.
 
 * Go to installation route
 
@@ -58,6 +58,7 @@ Lets assume you have extracted the zip package and you served `index.php` from p
 * To know the details of each configuration variables [click](/installation-using-wizard/)
 
 
-#### Miscellaneous
+#### Note
 
-If you fail to generate PDF on server, create a `fonts` folder into the storage folder.
+If you fail
+ to generate PDF on server, create a `fonts` folder into the storage folder.

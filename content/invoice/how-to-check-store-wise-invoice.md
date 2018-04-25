@@ -9,7 +9,7 @@ draft= false
 
 
 
-Here,you can check the store wise invoices.
+Here, you can check the store wise invoices.
 
 Process to Follow.
 
@@ -23,5 +23,5 @@ Select the particular store from the top right side.
 click on the particular store
 ![How to check store wise invoice?](/images/invoice/how_to_check_store_wise_invoice/selected_particular_store.png)
 
-Here, the  system will display  an invoices of that particular store.
+Here, the system will display invoices for that particular store.
 ![How to check store wise invoice?](/images/invoice/how_to_check_store_wise_invoice/summary_for_selected_store.png)

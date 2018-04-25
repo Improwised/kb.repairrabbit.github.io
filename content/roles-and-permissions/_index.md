@@ -34,7 +34,7 @@ Repair Rabbit has several users. Each user has been assigned certain roles and p
 
 **Dashboard:**
 
-An employee can access the `Dashboard` .
+An employee can access the `Dashboard`.
 
 * Appointments
 * Year to date Appointments
@@ -81,7 +81,7 @@ An employee can access `Appointments`.
 
 **Customers:**
 
-An employee has an access to  `Customers`.
+An employee has an access to `Customers`.
 
 * List
 * Add
@@ -89,7 +89,7 @@ An employee has an access to  `Customers`.
 * Edit
 * Change Password
 * Import Sample data Csv
-* List of the Tickets, Appointments about a particular customer with specific details about store or an employee.
+* List of the Tickets, Appointments about a particular customer with specific details about a store or an employee.
 * New Ticket or an Appointment can be added related to the particular customer with a specific store or an employee details.
 
 
@@ -159,7 +159,7 @@ An employee can also access `Invoices` page.
 * Change Password
 * Delete
 * Import Sample data Csv
-* Easy access over the customers data with specicf details related to Tickets, appointments or Inovice for a particular store.
+* Easy access to the customers' data with specific details related to Tickets, appointments or Invoice for a particular store.
 * Easy to add new Ticket, Appointment, or an Invoice for a specific customer for a particular store.
 
 
@@ -191,18 +191,18 @@ An employee can also access `Invoices` page.
 
 **Inventory:**
 
-* List (about add,return and transfer of a specific store)
+* List (about add, return and transfer of a specific store)
 * Add
 * Return
 * Transfer
 * History of stock
-* History of a particular product also
+* Also History of a particular product
 
 **Master Management:**
 
 *Stores*
 
-* View(Employees list, add, edit, view, change the password, delete of a particular store)
+* View (Employees list, add, edit, view, change the password, delete of a particular store)
 
 *Accessories*
 
@@ -277,8 +277,8 @@ Here, admin can access all the listed features for each employee in every store.
 * Change Password
 * Delete
 * Import Sample data Csv
-* Tickets, Appointments, Invoices listing of that perticular customer
-* Ticket, Appointment, Invoice add new of that perticular customer
+* Tickets, Appointments, Invoices listing of that particular customer
+* Ticket, Appointment, Invoice add new of that particular customer
 
 **In Invoices:**
 
@@ -300,7 +300,7 @@ Here, admin can access all the listed features for each employee in every store.
 * Change Role
 * Delete
 
-**In Store Closed(Holidays):**
+**In-Store Closed(Holidays):**
 
 * Listing
 * Add
@@ -309,7 +309,7 @@ Here, admin can access all the listed features for each employee in every store.
 
 **In Inventory:**
 
-* Listing(with add, return and transfer for a perticular store also)
+* Listing(with add, return and transfer for a particular store also)
 * Add
 * Return
 * Transfer
@@ -345,7 +345,7 @@ Here, admin can access all the listed features for each employee in every store.
 *Stores*
 
 * Listing
-* View(With Employee listing, add, edit, view, change password, delete of a perticular store)
+* View(With Employee listing, add, edit, view, change password, delete of a particular store)
 * Add
 * Edit
 * Delete

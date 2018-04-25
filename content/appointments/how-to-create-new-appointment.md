@@ -8,7 +8,7 @@ draft= false
 
 
 
-Its easy to create a new appointment for the New Customers or for exsisting customers.
+It's easy to create a new appointment for the New Customers or for existing customers.
 
 ### **Create New Appointments for new customers**
  
@@ -37,7 +37,7 @@ Fill the details, and “Add”.
 "Add" 
 ![new appointment for new customer](/images/appointments/appointment_add.png)
 
-Again Fill the details required for product repair. 
+Again Fill the details required for product repair.
 
 ![new appointment for new customer6](/images/appointments/appointment_filldetail.png)
 

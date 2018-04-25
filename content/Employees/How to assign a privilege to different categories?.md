@@ -29,4 +29,4 @@ fill the required details to assign priviledge
 
 
 #### Important
-Privilege for Customers will be automatically assigned.  On adding a new Customer , the registered email of Customers would be their login Id and Password will sent  automatically to registered email.
+Privilege for Customers will be automatically assigned. On adding a new Customer, the registered email of Customers would be their login Id and Password will be sent automatically to registered email.

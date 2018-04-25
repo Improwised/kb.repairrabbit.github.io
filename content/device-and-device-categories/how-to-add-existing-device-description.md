@@ -11,7 +11,7 @@ draft= false
 “Master management”
 ![How to add exsisting device description?](/images/device_and_device_categories/how_to_Add_exsisting_device_description/go_to_master_management.png)
 
-search the device
+Search the device
 ![How to add exsisting device description?](/images/device_and_device_categories/how_to_Add_exsisting_device_description/search_the_device.png)
 
 

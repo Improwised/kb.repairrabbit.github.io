@@ -14,7 +14,7 @@ draft= false
 “Store”
 ![How to add a new store?](/images/faq's/how_to_add_a_new_store/click_store.png)
 
-Select a “new” from top right corner . 
+Select a “new” from top right corner. 
 ![How to add a new store?](/images/faq's/how_to_add_a_new_store/click_new_from_right_corner.png)
 
 Add required details & “save and next”

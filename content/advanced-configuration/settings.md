@@ -18,7 +18,7 @@ Following configurations can be done from the settings page.
 
 ![Screen_Shot_2018-04-13_at_1.37.26_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/da7496e0bb0456a51018eac034821a64/Screen_Shot_2018-04-13_at_1.37.26_PM.png)
 
-In general settings users can change following configurations
+In general settings, users can change following configurations
 
 * Application Name
 * Currency
@@ -51,7 +51,7 @@ Company Website: www.repairrabbit.co
 
 ![Screen_Shot_2018-04-13_at_1.42.22_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/00d87414d4b58be047c26bcf1417c41e/Screen_Shot_2018-04-13_at_6.03.35_PM.png)
 
-In mail settings users can change following configurations
+In mail settings, users can change following configurations
 
 * Driver
 * From Name
@@ -106,7 +106,7 @@ Accessories: true
 
 ![Screen_Shot_2018-04-13_at_6.05.55_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/9c69febc03c89f03b9e346c66ab61fd3/Screen_Shot_2018-04-13_at_6.05.55_PM.png)
 
-This field is used to handle miscellaneous data. For example user can enable a field called `Send Anonymous usage data` to send error logs for better user experience and improvement of application.
+This field is used to handle miscellaneous data. For example, a user can enable a field called Send Anonymous usage data to send error logs for better user experience and improvement of application.
 
 * Send Anonymous usage data
 

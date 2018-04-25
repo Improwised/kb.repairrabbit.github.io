@@ -7,4 +7,4 @@ draft= false
 +++
 
 
-Yes you can export data for appointments, Tickets, customers, invoice, employees, store holiday, stock, stock history, Device categories, Device, Products , Shops, and email templates into CSV format. 
+Yes, you can export data for appointments, Tickets, customers, invoice, employees, store holiday, stock, stock history, Device categories, Device, Products, Shops, and email templates into CSV format. 

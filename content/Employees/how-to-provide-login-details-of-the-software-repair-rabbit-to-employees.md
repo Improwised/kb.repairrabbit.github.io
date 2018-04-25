@@ -7,5 +7,5 @@ draft= false
 +++
 
 
-On adding an new Employee, the  email of Employee  would be his login Id and Password will automatically send to that email Id.
+On adding a new Employee, the email of Employee would be his login Id and Password will automatically send to that email Id.
 
