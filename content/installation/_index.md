@@ -11,7 +11,7 @@ weight = 1
 
 #### Prerequisites:
 
-* docker/docker-compose
+* docker/docker-compose >= 18.03.0/1.18.0
 
 You must have added the project on your server/machine and you are in root of your project.
 
@@ -27,38 +27,19 @@ export MYSQL_DATABASE=repairrabbit
 export MYSQL_USER=root
 ```
 
-Give executable permission to `setup.sh` file.
-
-```
-chmod +x setup.sh
-```
-
-Run `setup.sh` executable.
+Run `setup.sh` file to start installation
 
 ```
 sh setup.sh
-
 ```
-Or to Rebuild application:
+or
 
 ```
 sh setup.sh up
-
 ```
+Now, Wait for the installation to complete
 
-Above command will create 3 containers for nginx, app and database respectively.
-
-As we mount the storage to container. Give read/write permission to storage for user docker.
-
-```
-chmod -R 777 storage/app/public/
-```
-Link the storage
-
-```
-php artisan storage:link
-```
-Now, You can access the application at `{YOUR IP}:{NGINX_PORT}`.
+once the installation completes, you can access the application at `{YOUR IP}:{NGINX_PORT}`.
 
 For example `192.168.1.26:80`, `127.0.0.1:80`.
 
@@ -78,7 +59,7 @@ Let's assume you have extracted the zip package and you served `index.php` from 
 
 * Wizard will set the configurations required for this ERP.
 
-* To know the details of each configuration variables [click](/installation-using-wizard/)
+* To know the details of each configuration variables [click here](/installation-using-wizard/)
 
 
 #### Miscellaneous
