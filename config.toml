@@ -1,6 +1,7 @@
 baseURL = "http://kb.repairrabbit.co/"
 languageCode = "en-us"
 title = "Welcome to Repair App Knowledgebase"
+googleAnalytics = "UA-112062782-3"
 theme = "docdock"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
