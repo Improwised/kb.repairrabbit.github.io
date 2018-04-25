@@ -11,7 +11,7 @@ weight = 1
 
 #### Prerequisites:
 
-* docker/docker-compose
+* docker/docker-compose >= 18.03.0/1.18.0
 
 You must have added the project on your server/machine and you are in root of your project.
 
@@ -55,7 +55,7 @@ Let's assume you have extracted the zip package and you served `index.php` from 
 
 * Wizard will set the configurations required for this ERP.
 
-* To know the details of each configuration variables [click](/installation-using-wizard/)
+* To know the details of each configuration variables [click here](/installation-using-wizard/)
 
 
 #### Note

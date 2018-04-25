@@ -6,9 +6,11 @@ draft= false
 weight = 2
 +++
 
+## Installation using wizard
+
 ### 1. Environment settings
 
-![Screen_Shot_2018-04-13_at_12.48.59_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/c8ae45ed84f5f6284f0101992725fa54/Screen_Shot_2018-04-13_at_12.48.59_PM.png)
+![Screen_Shot_2018-04-13_at_12.48.59_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/92a7e4ea1a31e6c2c5a2d476aeb53d19/Screen_Shot_2018-04-24_at_1.12.47_PM.png)
 
 * `APP_NAME`
 
@@ -21,7 +23,7 @@ weight = 2
 
 ### 2. Database settings
 
-![Screen_Shot_2018-04-13_at_12.49.30_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/d9c6fe6e8c6ac7012dafb9ff6d337fba/Screen_Shot_2018-04-13_at_12.49.30_PM.png)
+![Screen_Shot_2018-04-13_at_12.49.30_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/ae34334d44c5f5e90792324c654f91cd/Screen_Shot_2018-04-24_at_1.13.38_PM.png)
 
 * `DB_CONNECTION`
 
@@ -50,7 +52,36 @@ weight = 2
 
 ### 3. Admin Settings (Initial User to run)
 
-![Screen_Shot_2018-04-13_at_12.50.22_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/f64025750802732dfb274e73c0c25386/Screen_Shot_2018-04-13_at_12.50.22_PM.png)
+![Screen_Shot_2018-04-13_at_12.49.30_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/ae34334d44c5f5e90792324c654f91cd/Screen_Shot_2018-04-24_at_1.13.38_PM.png)
+
+* `DB_CONNECTION`
+
+  It denotes on which database server application required to get connected. It must be valued `mysql`
+
+* `DB_HOST`
+
+  The Database host to which application will connect. Its value must be host(ip) at which your database server is running. For example `127.0.0.1`. If you are running the application using docker, use database service name `db` as host.
+
+* `DB_PORT`
+
+  A Port that database server listen. Generally mysql server listen at the port `3306`.
+
+* `DB_DATABASE`
+
+  Name of your database will be the Value .
+
+* `DB_USERNAME`
+
+  The User of your mysql server will the value. By default `mysql` has user called `root`.
+
+* `DB_PASSWORD`
+
+  Value must be the password of your mysql server to be connected.Mysql does not set any password by default.
+
+
+### 3. Admin Settings(Initial User to run)
+
+![Screen_Shot_2018-04-13_at_12.50.22_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/cd43edd715e4577a3c13ddd28311bd31/Screen_Shot_2018-04-24_at_1.21.28_PM.png)
 
 Below piece of configurations contains the information about the initial user who will install the system at the first stage.
 
