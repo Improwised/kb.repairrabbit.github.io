@@ -5,5 +5,4 @@ description = ""
 weight = 6
 draft= false
 +++
-
  Yes, a customer will get notified of a booked appointment via email.

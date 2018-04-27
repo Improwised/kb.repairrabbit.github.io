@@ -1,5 +1,5 @@
 +++
-title= "How to edit a device?"
+title= "How to edit description of a device?"
 date= 2018-01-25T13:28:14+05:30
 description= ""
 weight= 6

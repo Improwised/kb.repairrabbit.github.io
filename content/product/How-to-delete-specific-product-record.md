@@ -22,10 +22,6 @@ Now search the product
 Select the product and “delete”
 ![How to delete specific product records?](/images/tickets/how_to_delet_specific_product_records/select_the_product_and_delet.png)
 
-You will get a confirmation message, “are you sure to delete the ticket, Click “Yes” to delete a record of product permanently. 
+
+You will get a confirmation message, “are you sure to delete the ticket, Click “Yes” to delete a record of product permanently.
 ![How to delete specific product records?](/images/tickets/how_to_delet_specific_product_records/confirm_your_action_.png)
-
-
-
- 
-

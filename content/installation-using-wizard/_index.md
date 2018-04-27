@@ -16,7 +16,6 @@ weight = 2
 
   This indicates the name of the application. You will see it at the top left bar.
 
-
 * `APP_CURRENCY`
 
   It shows the currency that system supports.

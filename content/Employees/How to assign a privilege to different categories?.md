@@ -7,12 +7,12 @@ draft= false
 +++
 
 
-While adding a new Employee, you can assign any one category from 
+While adding a new Employee, you can assign any one category from
 
 
-1. System Admin  
-2. Store Admin 
-3. Employee. 
+1. System Admin
+2. Store Admin
+3. Employee.
 
 "Employees"
 ![How to assign a privilege to different categories?](/images/employees/how_to_assing_priviledges/go_to_employees.png)
@@ -25,7 +25,6 @@ fill the required details to assign priviledge
 
 "Add"
 ![How to assign a privilege to different categories?](/images/employees/how_to_assing_priviledges/click_add.png)
-
 
 
 #### Important

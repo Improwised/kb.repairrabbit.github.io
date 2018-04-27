@@ -19,11 +19,11 @@ Fill the required details and "add"
 ![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/add_required_details_and_add.png)
 
 system will provide you option for email invoice
-![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/system_will_show_you_an_option.png)
+![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/do_also_want_to_send_an_email.png)
 
 
 select the checkbox for email invoice
-![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/click_the_check_box.png)
+![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/do_also_want_to_send_an_email_TICK.png)
 
 
 
