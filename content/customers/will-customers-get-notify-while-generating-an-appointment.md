@@ -6,4 +6,4 @@ weight = 6
 draft= false
 +++
 
- yes customer will get notify for booked appointment via email.
+ Yes, a customer will get notified of a booked appointment via email.
