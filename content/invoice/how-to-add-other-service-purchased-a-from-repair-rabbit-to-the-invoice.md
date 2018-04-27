@@ -22,7 +22,7 @@ Add the required details and "add"
 Add the details in the invoice
 ![How to add other service purchased a part from repair rabbit to the invoice?](/images/invoice/how_to_add_additional_purchase_in_invoice/addd_the_details_in_invoice.png)
 
-Click in the (+) sign to add extra items to  invoice. 
+Click on the (+) sign to add extra items to invoice. 
 ![How to add other service purchased a part from repair rabbit to the invoice?](/images/invoice/how_to_add_additional_purchase_in_invoice/add_the_details_on_additional_purchase.png)
 
 “Save” 

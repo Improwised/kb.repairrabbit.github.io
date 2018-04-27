@@ -6,7 +6,7 @@ weight = 1
 draft= false
 +++
 
-Appointment is an arrangement of assigning service to make your business process systematic and time savvy on specific time & place. With the help of Appointment, customer can know/ book the exact date and time for his repair. 
+Appointment is an arrangement of assigning service to make your business process systematic and time savvy in specific time & place. With the help of Appointment, a customer can know/ book the exact date and time for his repair.
 
 
 

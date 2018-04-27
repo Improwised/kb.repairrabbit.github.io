@@ -7,7 +7,7 @@ draft= false
 +++
 
 
-Transfer stock will help you to transfer stock to a single store only.
+"Transfer stock" will help you to transfer stock to a single store only.
 
 
 "Inventory"

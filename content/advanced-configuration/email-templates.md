@@ -6,7 +6,7 @@ draft= false
 weight = 4
 +++
 
-* The system must have following key settings in `.env` file to send mail successfully from the system:
+* The system must have following key settings in a `.env` file to send mail successfully from the system:
 
 ```
 COMPANY_EMAIL_SUPPORT=
@@ -41,13 +41,13 @@ MAILGUN_SECRET=
 * [Password Reset](/advanced-configuration/email-templates/#a-name-password-reset-password-reset-a)
 * [Ticket Notification To Store](/advanced-configuration/email-templates/#a-name-ticket-notification-to-store-ticket-notification-to-store-a)
 * [New User Created](/advanced-configuration/email-templates/#a-name-ticket-notification-to-store-ticket-notification-to-store-a)
-* [Ticket Updated With Police Number](/advanced-configuration/email-templates/#a-name-ticket-update-with-policy-ticket-updated-with-police-number-a)
+* [Ticket Updated With Policy Number](/advanced-configuration/email-templates/#a-name-ticket-update-with-policy-ticket-updated-with-police-number-a)
 * [Retarget E-Mail Template](/advanced-configuration/email-templates/#a-name-retarget-email-template-retarget-e-mail-template-a)
 
 
 ### <a name="status_no_show">Appointment status is no show & unconfirmed</a>
 
-Email will be sent to user, When the appointment status updated as `no_shows=1`.
+Email will be sent to the user, When the appointment status updated as `no_shows=1`.
 
 ### <a name="appointment_confirmation">Appointment conformation mail</a>
 
@@ -55,23 +55,23 @@ When the user creates an appointment at that time an confirmation mail will be s
 
 ### <a name="reminder_email">Reminder E-Mail</a>
 
-An automatic reminder email will be sent to user for an appointment.
+An automatic reminder email will be sent to the user for an appointment.
 
 ### <a name="notification_to_store">Appointment Notification to Store</a>
 
-An email notification will be sent to store admin when new appoinments created.
+An email notification will be sent to store admin when new appointments created.
 
 ### <a name="new_ticket">New Ticket Creation</a>
 
-An email will be sent to user when he/she creates new ticket.
+An email will be sent to the user when he/she creates a new ticket.
 
 ### <a name="ticket_update">Ticket Update</a>
 
-An email will be sent to user when the status of ticket changed.
+An email will be sent to the user when the status of ticket changed.
 
 ### <a name="password_reset">Password Reset</a>
 
-An email will be sent to user when it request for password reset.
+An email will be sent to the user when it requests for password reset.
 
 ### <a name="ticket_notification_to_store">Ticket Notification to Store</a>
 
@@ -81,13 +81,13 @@ An email will be sent to store admin when new ticket created.
 
 An email will be sent to admin when new user or employee register in the system.
 
-### <a name="ticket_update_with_policy">Ticket Updated With Police Number</a>
+### <a name="ticket_update_with_policy">Ticket Updated With Policy Number</a>
 
 An email will be sent when ticket policy number updated.
 
 ### <a name="retarget_email_template">Retarget E-Mail Template</a>
 
-An email will be sent to user when the appointment status will be updated as `retarget=1`.
+An email will be sent to the user when the appointment status will be updated as `retarget=1`.
 
 ## To Update Email Template
 

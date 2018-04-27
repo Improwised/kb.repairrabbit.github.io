@@ -8,5 +8,5 @@ draft= false
 
 
 
-A holiday doesn't get removed automatically, as this a manual process. 
+As this is a manual process, A holiday doesn’t get removed automatically.
 

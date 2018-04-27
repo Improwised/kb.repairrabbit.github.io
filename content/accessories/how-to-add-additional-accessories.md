@@ -7,19 +7,19 @@ draft= false
 +++
 
 
-"customer" 
+"Customer" 
 ![How to add an additional accessories?](/images/accessories/go_to_customers.png)
 
 "New"
 ![How to add an additional accessories?](/images/accessories/clcik_new.png)
 
-“add new customer"
+“Add new customer"
 ![How to add an additional accessories?](/images/accessories/add_new_customer.png)
 
 select "New invoice"
 ![How to add an additional accessories?](/images/accessories/click_new_invoice.png)
 
-add the details on additional purchase
+Add the details on additional purchase
 ![How to add an additional accessories?](/images/accessories/add_the_additional_accessories_detail.png)
 
 Click “+” sign to add multiple items to invoice
@@ -28,7 +28,7 @@ Click “+” sign to add multiple items to invoice
 Click “Save”
 ![How to add an additional accessories?](/images/accessories/click_save.png)
 
-system will confirm your action, click "ok"
+system will confirm your action, click "OK"
 ![How to add an additional accessories?](/images/accessories/confirm_your_system_click_ok.png)
 
 

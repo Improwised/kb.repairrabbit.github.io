@@ -9,7 +9,7 @@ draft= false
 
 
 
-If a customer is making booking on Store Closed day, the system will not accept the booking.
+If a customer is making a booking on Store Closed day, the system will not accept the booking.
 
 
 Moreover, “Store menu”  will also show the opening and closing time.
@@ -20,6 +20,6 @@ Moreover, “Store menu”  will also show the opening and closing time.
 “Stores”
 ![How to check the store status?](/images/faq's/how_to_check_the_store_status/select_store_from_the_list.png)
 
-Now selecte “Stores” , here the system will display all the data about stores.
+Now selecte “Stores”, here the system will display all the data about stores.
 ![How to check the store status?](/images/faq's/how_to_check_the_store_status/here_system_will_show_the details.png)
 

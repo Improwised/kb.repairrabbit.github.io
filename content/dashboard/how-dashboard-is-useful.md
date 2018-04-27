@@ -8,9 +8,9 @@ draft= false
 
 
 A Dashboard will show you the summary of every section of Repair Rabbit.
-![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/dashboard_1_edited.png) 
+![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/dashboard_1_edited.png)
 
-Dashboard also helps to perform short actions on majorly used sections like, 
+The dashboard also helps to perform short actions on majorly used sections like,
 
 #### Add appointments.
 here you can directly add appointments for the customers.
@@ -21,11 +21,11 @@ here you can directly add tickets for the customers.
 ![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/ss_new_add_ticket_dashboard.png)
 
 #### Add Invoice.
-here you can directly add new invoice.
-![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/ss_new_add_invoice_dashboard.png)
+here you can directly add a new invoice.
+![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/add_invoice_dashboard.png)
 
 #### Add Employee
-here you can directly add new employees 
+here you can directly add new employees
 ![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/ss_new_add_employee_dashboard.png)
 
 #### Add customer

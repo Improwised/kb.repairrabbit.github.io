@@ -19,7 +19,7 @@ draft= false
 fill the required details and “add”.
 ![How to generate a ticket for the new customers?](/images/tickets/how_to_ generate_a_ticket_ for_the_ new_customers/fill_the_details_and_click_add.png)
 
-'add", the system will display an empty ticket. 
+After 'adding", the system will display an empty ticket. 
 ![How to generate a ticket for the new customers?](/images/tickets/how_to_ generate_a_ticket_ for_the_ new_customers/when you ‘add”, the system will display an empty ticket.png)
 
 Fill the required details in the ticket and “add”. 

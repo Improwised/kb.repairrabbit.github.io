@@ -7,15 +7,15 @@ type="page"
 weight = 1
 +++
 
-### Setup On Cloud
+### How to Setup On Cloud
 
 #### Prerequisites:
 
 * docker/docker-compose >= 18.03.0/1.18.0
 
-You must have added the project on your server/machine and you are in root of your project.
+You must have added the project to your server/machine and you are in the root of your project.
 
-Change values of exported variables in `setup.sh` file in case if you want. Most of the cases the default values will work.
+In Most of the cases the default values will work and also you can Change values of exported variables in `setup.sh` file.
 
 ```
 export NGINX_PORT=80
@@ -32,11 +32,7 @@ Run `setup.sh` file to start installation
 ```
 sh setup.sh
 ```
-or
 
-```
-sh setup.sh up
-```
 Now, Wait for the installation to complete
 
 once the installation completes, you can access the application at `{YOUR IP}:{NGINX_PORT}`.
@@ -62,6 +58,6 @@ Let's assume you have extracted the zip package and you served `index.php` from 
 * To know the details of each configuration variables [click here](/installation-using-wizard/)
 
 
-#### Miscellaneous
+#### Note
 
 If you fail to generate PDF on a server, create a `fonts` folder into the storage folder.

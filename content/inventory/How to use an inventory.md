@@ -6,13 +6,13 @@ weight= 1
 draft= false
 +++
 
- View complete summary of your stock easily in  just one click by hitting on “ View stock ”
+ View a complete summary of your stock easily in  just one click by hitting on “ View stock ”
  
-“Transfer stock” will show you the summary of the transferred stock in emergency.
+“Transfer stock” will show you the summary of the transferred stock in the emergency.
 
 “Add stocks” will help you to add the new stock.
 
-“Stock history” will summarize the details on stock transferred within multiple location.
+“Stock history” will summarize the details of stock transferred to multiple locations.
 
-“Return stock” summarize the history on stock returns.
+“Return stock” summarizes the history of stock returns.
 
