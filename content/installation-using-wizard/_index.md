@@ -27,11 +27,11 @@ weight = 2
 
 * `DB_CONNECTION`
 
-  It indicates on which database server application required to get connected. It must be valued `mysql`
+  It indicates on which database server application required to get connected. It must be valued `MySQL`
 
 * `DB_HOST`
 
-  The Database host to which application will connect. Its value must be host(IP) at which your database server is running. For example 127.0.0.1. If you are running the application using Docker, use database service name db as host.
+  The Database host to which application will connect. Its value must be the host(IP) at which your database server is running. For example 127.0.0.1. If you are running the application using Docker, use database service name db as host.
 
 * `DB_PORT`
 
@@ -43,11 +43,11 @@ weight = 2
 
 * `DB_USERNAME`
 
-  The User of your MySQL server will the value. By default `mysql` has a user called `root`.
+  The User of your MySQL server will the value. By default, `mysql` has a user called `root`.
 
 * `DB_PASSWORD`
 
-  A value must be the password of your MySQL server to be connected.Mysql does not set any password by default.
+  A value must be the password of your MySQL server to be connected. Mysql does not set any password by default.
 
 
 ### 3. Admin Settings (Initial User to run)
@@ -60,23 +60,23 @@ weight = 2
 
 * `DB_HOST`
 
-  The Database host to which application will connect. Its value must be host(ip) at which your database server is running. For example `127.0.0.1`. If you are running the application using docker, use database service name `db` as host.
+  The Database host to which application will connect. Its value must be a host(IP) at which your database server is running. For example `127.0.0.1`. If you are running the application using docker, use database service name `db` as host.
 
 * `DB_PORT`
 
-  A Port that database server listen. Generally mysql server listen at the port `3306`.
+  A Port that database server listens. Generally, MySQL server listen at the port `3306`.
 
 * `DB_DATABASE`
 
-  Name of your database will be the Value .
+  Name of your database will be the Value.
 
 * `DB_USERNAME`
 
-  The User of your mysql server will the value. By default `mysql` has user called `root`.
+  The User of your MySQL server will the value. By default `mysql` has a user called `root`.
 
 * `DB_PASSWORD`
 
-  Value must be the password of your mysql server to be connected.Mysql does not set any password by default.
+  Value must be the password of your MySQL server to be connected. Mysql does not set any password by default.
 
 
 ### 3. Admin Settings(Initial User to run)
@@ -100,7 +100,7 @@ Below piece of configurations contains the information about the initial user wh
 
 ### Additional Settings
 
-Following are the additional env fields which can be set directly in `.env` file.
+Following are the additional env fields which can be set directly in the `.env` file.
 
 * `APP_TIMEZONE`
 
@@ -108,7 +108,7 @@ Following are the additional env fields which can be set directly in `.env` file
 
 * `APP_LANGUAGE`
 
-  It serves the application in different languages. By default, we support application in two languages `en`, `da`. You can add more languages if you need with the help of this instructions [here](./development/internationalization.md)
+  It serves the application in different languages. By default, we support application in two languages `en`, `da`. You can add more languages if you need with the help of these instructions [here](./development/internationalization.md)
 
 * `QUEUE_DRIVER`
 
@@ -116,11 +116,11 @@ Following are the additional env fields which can be set directly in `.env` file
 
 * `Sentry`
 
-  This is used to manage miscellaneous data. For example, a user can enable a field called Send Anonymous usage data to receive error logs for better user experience and improvement of application. To support this, the admin has to add sentry key in .env file. and enable the feature from settings.
+  This is used to manage miscellaneous data. For example, a user can enable a field called Send Anonymous usage data to receive error logs for better user experience and improvement of application. To support this, the admin has to add sentry key in the .env file. and enable the feature from settings.
 
 * `ANALYTICS_PROVIDER`
 
-  This set up the analytics like google analytics. For example. `google analytics`.
+  This set up the analytics like google analytics. For example. `Google analytics`.
 
 * `ANALYTICS_TRACKING_ID`
 

@@ -13,7 +13,7 @@ weight = 1
 
 * docker/docker-compose >= 18.03.0/1.18.0
 
-You must have added the project on your server/machine and you are in root of your project.
+You must have added the project to your server/machine and you are in the root of your project.
 
 In Most of the cases the default values will work and also you can Change values of exported variables in `setup.sh` file.
 
@@ -60,5 +60,4 @@ Let's assume you have extracted the zip package and you served `index.php` from 
 
 #### Note
 
-If you fail
- to generate PDF on server, create a `fonts` folder into the storage folder.
+If you fail to generate PDF on a server, create a `fonts` folder into the storage folder.
