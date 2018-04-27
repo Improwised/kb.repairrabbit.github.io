@@ -8,29 +8,34 @@ draft= false
 
 
 A Dashboard will show you the summary of every section of Repair Rabbit.
-![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/dashboard_summary.png) 
+![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/dashboard_1_edited.png) 
 
 Dashboard also helps to perform short actions on majorly used sections like, 
 
 #### Add appointments.
 here you can directly add appointments for the customers.
-![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/add_appointment_from_dashboard.png)
+![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/ss_new_add_appointment_dashboard.png)
 
 #### Add Tickets.
 here you can directly add tickets for the customers.
-![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/add_ticket_from_dashboard.png)
+![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/ss_new_add_ticket_dashboard.png)
 
 #### Add Invoice.
 here you can directly add new invoice.
-![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/add_invoice_dashboard.png)
+![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/ss_new_add_invoice_dashboard.png)
 
 #### Add Employee
-here you can directly add new employees easily.
-![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/add_employees_dashboard.png)
+here you can directly add new employees 
+![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/ss_new_add_employee_dashboard.png)
+
+#### Add customer
+here you can directly add new customers
+![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/ss_new_add_customer_dashboard.png)
+
 
 #### Add Stores
 Now you can easily add new store from Dashboard
-![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/add_store_dashboard.png)
+![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/ss_new_add_store_dashboard.png)
 
 
 

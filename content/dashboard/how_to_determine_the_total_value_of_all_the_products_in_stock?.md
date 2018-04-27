@@ -9,15 +9,15 @@ draft= false
 
 
 "Dashboard"
-![How to determine the total price of all the products in stock?](/images/dashboard/how_can_i_determine_total_valuation_of_all_stock/go_to_dashboar.png)
+![How to determine the total price of all the products in stock?](/images/dashboard/how_can_i_determine_total_valuation_of_all_stock/dashboard_2_edit-min.png)
 
 "Total price of stock"
-![How to determine the total price of all the products in stock?](/images/dashboard/how_can_i_determine_total_valuation_of_all_stock/go_to_total_price_of_stock.png)
+![How to determine the total price of all the products in stock?](/images/dashboard/how_can_i_determine_total_valuation_of_all_stock/total_price_edited-min.png)
 
 
 Select the product and search.
-![How to determine the total price of all the products in stock?](/images/dashboard/how_can_i_determine_total_valuation_of_all_stock/select_product_and_search.png)
+![How to determine the total price of all the products in stock?](/images/dashboard/how_can_i_determine_total_valuation_of_all_stock/click_search-min.png)
 
 here. you wll get exact amount of stock.
-![How to determine the total price of all the products in stock?](/images/dashboard/how_can_i_determine_total_valuation_of_all_stock/you_will_get_exact_amount_in_stock.png)
+![How to determine the total price of all the products in stock?](/images/dashboard/how_can_i_determine_total_valuation_of_all_stock/total_quantity-min.png)
 
