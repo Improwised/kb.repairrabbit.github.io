@@ -21,7 +21,7 @@ To search filtered results click “Month”, “Week” or “Day”
 "Filter"
 ![How to search filtered invoice?](/images/invoice/how_to_search_filtered_invoice/filtered_invoice.png)
 
-The summary of an invoices for a Month, week or a particular day will be shown.
+The summary of invoices for a Month, week or a particular day will be shown.
 ![How to search filtered invoice?](/images/invoice/how_to_search_filtered_invoice/summary_for_filtered_invoice.png)
 
 

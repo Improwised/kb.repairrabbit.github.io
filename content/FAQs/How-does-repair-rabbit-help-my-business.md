@@ -8,4 +8,4 @@ draft= false
 
 
 
-Repair Rabbit software enhance customer service and boost the productivity. Repair Rabbit is the simple software with an extraordinary features!(URL for Features)
+Repair Rabbit software enhances customer service and boosts the productivity. Repair Rabbit is the simple software with extraordinary features!(URL for Features)

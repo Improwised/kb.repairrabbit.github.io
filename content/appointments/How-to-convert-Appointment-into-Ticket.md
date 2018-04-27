@@ -18,7 +18,7 @@ draft= false
 You will get a message “Are you sure to convert this Appointment into Ticket ?” Click “Ok” 
 ![How to convert Appointments into Tickets?](/images/convert_appointment_int_ticket/click_ok.png)              
             
-Appointment will be converted into ticket.
+Appointment will be converted into a ticket.
 ![How to convert Appointments into Tickets?](/images/convert_appointment_int_ticket/appointment_converted_into_ticket.png)
 
 

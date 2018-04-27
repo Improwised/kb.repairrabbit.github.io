@@ -1,5 +1,5 @@
 +++
-title= "How to check an invoices for all the stores together?"
+title= "How to check an invoice for all the stores together?"
 date= 2018-01-25T11:54:30+05:30
 description= ""
 weight= 8

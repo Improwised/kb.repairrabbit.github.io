@@ -18,10 +18,10 @@ search the customer delete the ticket.
 
 
 it will show you a confirmation message “Are you sure?”
-![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/it_will_confirm_your action.png)
+![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/ticket_edited_1.png)
 
 “Yes"
-![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/click_yes_to_delet.png)
+![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/ticket_edited_2.png)
 
 system will show you the message “Ticket has been deleted" so now hit "OK"
 ![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/hit_ok.png)

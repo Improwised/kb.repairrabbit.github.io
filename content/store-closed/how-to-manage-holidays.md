@@ -33,13 +33,13 @@ On click “Add” all the holidays will be added.
 
 #### Process to edit holidays
 
-go to "master management"
+go to "Master management"
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_edit_holiday/go_to_master_management.png)
 
 go to “Store closed”
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_edit_holiday/click_store_holidays.png)
 
-select the holiday and make the required changes & click “edit”
+select the holiday and make the required changes & click “Edit”
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_edit_holiday/select_holiday_and_click_edit.png)
 
 click “Edit”  & the new change done will be saved.
@@ -53,7 +53,7 @@ click “Edit”  & the new change done will be saved.
 Go to "master management"
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_delet_holiday/go_to_master_management.png)
 
-Go to“store closed”
+Go to “store closed”
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_delet_holiday/click_store_holidays.png)
 
 Select the holiday to be deleted and click  “delete”
@@ -62,10 +62,10 @@ Select the holiday to be deleted and click  “delete”
 You will see a Flash message “Are you sure ?”
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_delet_holiday/confirm_your_action_to_delet.png)
 
-on “yes” the holiday will get delete.
+on “Yes” the holiday will get delete.
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_delet_holiday/select_holiday_and_click_delet.png)
   
-holiday will be deleted permanently.
+Holiday will be deleted permanently.
 
 
 
