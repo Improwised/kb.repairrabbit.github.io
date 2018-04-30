@@ -1,4 +1,4 @@
-baseURL = "http://kb.repairrabbit.co/"
+baseURL = "https://kb.repairrabbit.co/"
 languageCode = "en-us"
 title = "Welcome to Repair App Knowledgebase"
 googleAnalytics = "UA-112062782-3"
