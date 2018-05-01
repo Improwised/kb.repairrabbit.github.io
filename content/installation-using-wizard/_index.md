@@ -2,7 +2,7 @@
 title= "Installation using wizard"
 date= 2018-03-09T11:06:25+05:30
 description = ""
-draft= false
+draft= true
 weight = 2
 +++
 
