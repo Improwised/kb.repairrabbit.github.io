@@ -1,9 +1,9 @@
 +++
-title= "What Are the Core Advantages of Repairrabbit?"
+title= "What Are the Core Advantages of Repairrabbit API?"
 date= 2018-09-10T16:29:40+05:30
 description = ""
 draft= false
-weight =3
+weight=3
 +++
 
 Suppose, You are running a repair business and having a manual process for managing appointments, tickets, stores inventories, etc. and it becomes messy to manage all those things. At that time RepairRabbit API can help you to build your own customised solution and your own customised UI to serve your needs. 
