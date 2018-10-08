@@ -1,13 +1,8 @@
-image: alpine:3.8
+# All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
+image: registry.gitlab.com/pages/hugo:latest
 
-before_script:
-  - apk update && apk add openssl git
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.33/hugo_0.33_Linux-64bit.tar.gz
-  - echo "8946a6b3c269fa3c9689085d860b7bd2  hugo_0.33_Linux-64bit.tar.gz" | md5sum -c
-  - tar xf hugo_0.33_Linux-64bit.tar.gz && cp ./hugo /usr/bin
-  - hugo version
-  # Uncomment the next line if your theme is in a git submodule
-  # - git submodule update --init
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
 
 test:
   script:
