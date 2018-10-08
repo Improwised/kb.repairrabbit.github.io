@@ -2,15 +2,15 @@
 title= "Installation using wizard"
 date= 2018-03-09T11:06:25+05:30
 description = ""
-draft= true
+draft= false
 weight = 2
 +++
 
 ## Installation using wizard
 
-### 1. Environment settings
+### 1. APP Settings
 
-![Screen_Shot_2018-04-13_at_12.48.59_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/92a7e4ea1a31e6c2c5a2d476aeb53d19/Screen_Shot_2018-04-24_at_1.12.47_PM.png)
+![APP Settings](/images/installation_using_wizard/app_settings.png)
 
 * `APP_NAME`
 
@@ -22,7 +22,7 @@ weight = 2
 
 ### 2. Database settings
 
-![Screen_Shot_2018-04-13_at_12.49.30_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/ae34334d44c5f5e90792324c654f91cd/Screen_Shot_2018-04-24_at_1.13.38_PM.png)
+![Database Settings](/images/installation_using_wizard/database_settings.png)
 
 * `DB_CONNECTION`
 
@@ -49,38 +49,9 @@ weight = 2
   A value must be the password of your MySQL server to be connected. Mysql does not set any password by default.
 
 
-### 3. Admin Settings (Initial User to run)
+### 3. Admin Settings(Initial User to setup the system)
 
-![Screen_Shot_2018-04-13_at_12.49.30_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/ae34334d44c5f5e90792324c654f91cd/Screen_Shot_2018-04-24_at_1.13.38_PM.png)
-
-* `DB_CONNECTION`
-
-  It denotes on which database server application required to get connected. It must be valued `mysql`
-
-* `DB_HOST`
-
-  The Database host to which application will connect. Its value must be a host(IP) at which your database server is running. For example `127.0.0.1`. If you are running the application using docker, use database service name `db` as host.
-
-* `DB_PORT`
-
-  A Port that database server listens. Generally, MySQL server listen at the port `3306`.
-
-* `DB_DATABASE`
-
-  Name of your database will be the Value.
-
-* `DB_USERNAME`
-
-  The User of your MySQL server will the value. By default `mysql` has a user called `root`.
-
-* `DB_PASSWORD`
-
-  Value must be the password of your MySQL server to be connected. Mysql does not set any password by default.
-
-
-### 3. Admin Settings(Initial User to run)
-
-![Screen_Shot_2018-04-13_at_12.50.22_PM](https://gitlab.com/RepairRabbit/repairrabbit/uploads/cd43edd715e4577a3c13ddd28311bd31/Screen_Shot_2018-04-24_at_1.21.28_PM.png)
+![Admin Settings](/images/installation_using_wizard/admin_settings.png)
 
 Below piece of configurations contains the information about the initial user who will install the system at the first stage.
 
@@ -107,7 +78,7 @@ Following are the additional env fields which can be set directly in the `.env` 
 
 * `APP_LANGUAGE`
 
-  It serves the application in different languages. By default, we support application in two languages `en`, `da`. You can add more languages if you need with the help of these instructions [here](./development/internationalization.md)
+  It serves the application in different languages. By default, we support application in two languages `en`, `da`.
 
 * `QUEUE_DRIVER`
 
