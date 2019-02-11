@@ -1,14 +1,10 @@
 +++
-title= "How to add other service purchased a part from repair rabbit to the invoice?"
+title= "How to add other service purchased apart from repair rabbit to the invoice?"
 date= 2018-01-25T12:20:19+05:30
 description = ""
 weight= 15
-draft= false
+draft= true
 +++
-
-
-
-
 
 “Invoices ” 
 ![How to add other service purchased a part from repair rabbit to the invoice?](/images/invoice/how_to_add_additional_purchase_in_invoice/go_to_invoice.png)

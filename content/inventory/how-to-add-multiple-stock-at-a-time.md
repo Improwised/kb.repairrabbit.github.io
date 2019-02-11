@@ -3,7 +3,7 @@ title= "How to add multiple stock at a time?"
 date= 2018-01-25T10:56:25+05:30
 description= ""
 weight= 7
-draft= false
+draft= true
 +++
 
 

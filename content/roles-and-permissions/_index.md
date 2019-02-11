@@ -685,4 +685,4 @@ weight = 18
   </tr>
 </table>
 
-<b>Note:</b> Please note that System admin will have all the rights to change/view of every data of every store while store admin’s rights will remain restricted to his own store which is the same for an employee who can only view/change that particular store’s data.
+<b>Note:</b> Please note that System Admin will have all the rights to change/view data of every store while Store Admin’s rights restricted to his/her own store which is the same for an employee who can only view/change that particular store’s data.

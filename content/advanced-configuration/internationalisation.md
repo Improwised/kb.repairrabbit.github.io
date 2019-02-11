@@ -6,7 +6,7 @@ draft= true
 weight = 5
 +++
 
-RepairRabbit is a multilingual application. Currently, RepairRabbit supports two languages english and dutch by default.
+RepairRabbit is a multilingual application. Currently, RepairRabbit supports two languages English and Dutch by default.
 
 Language files are written inside `resource/lang` directory.
 

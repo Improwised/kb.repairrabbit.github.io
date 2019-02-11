@@ -7,15 +7,15 @@ draft= false
 +++
 
 
-You can review all the tickets for the selected branch or for all the stores (if applicable) together.
+You can review all the tickets for the selected branch or for all branches (if applicable) together.
 
-To view tickets of all stores
+To view tickets of all stores:
 
-"Tickets" 
+Click "Tickets" 
 ![How to review all the tickets for all the stores?](/images/tickets/ how_can_i_review_all_the_tickets_for_all_the_branches/go_to_tickets.png)
 
-“all branches” from the top right corner.
+Select “All branches” from the top right corner
 ![How to review all the tickets for all the stores?](/images/tickets/ how_can_i_review_all_the_tickets_for_all_the_branches/select_all_branches.png)
 
-You will get summary of all the tickets from all the stores.       
+You will get summary of all the tickets from all the stores       
 ![How to review all the tickets for all the branches?](/images/tickets/ how_can_i_review_all_the_tickets_for_all_the_branches/summary_all_branches.png)

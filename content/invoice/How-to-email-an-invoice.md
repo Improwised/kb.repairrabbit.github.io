@@ -6,23 +6,19 @@ weight= 9
 draft= false
 +++
 
-Yes, you can email an invoice . 
-
-
-"Invoice"
+Click "Invoices"
 ![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/go_to_invoice.png)
 
-"New"
+Click "New"
 ![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/clcik_new.png)
 
-Fill the required details and "add"
+Fill the required details and click "Add"
 ![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/add_required_details_and_add.png)
 
-system will provide you option for email invoice
+The system will provide you an option to e-mail the invoice
 ![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/do_also_want_to_send_an_email.png)
 
-
-select the checkbox for email invoice
+Select the checkbox to e-mail the invoice
 ![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/do_also_want_to_send_an_email_TICK.png)
 
 

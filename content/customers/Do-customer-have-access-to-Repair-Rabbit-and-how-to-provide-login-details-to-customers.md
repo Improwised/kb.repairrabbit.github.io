@@ -6,8 +6,8 @@ weight= 4
 draft= false
 +++
 
-Login details like Email Id and password for customers can be provided by sending an email on registered mail id. 
+Login details like e-mail ID and password for customers can be provided by sending an e-mail on the registered e-mail ID. 
 
-Customer can Login into the Repair Rabbit with the assign log in details.
+Customers can login into customer portal of RepairRabbit with the assigned login details.
 
 

@@ -6,19 +6,18 @@ weight= 2
 draft= false
 +++
 
-
 To edit an earlier image, 
 
-“Master management” 
+Click “Master Management” 
 ![How to ediat a placed image?](/images/products/how_to_edit_placed_image/go_to_master_management.png)
 
-Select the product and “edit”
+Select "Products"
 ![How to ediat a placed image?](/images/products/how_to_edit_placed_image/select_product.png)
 
-Search the product and "edit"
+Search the product and click "Edit"
 ![How to ediat a placed image?](/images/products/how_to_edit_placed_image/click_edit.png)
 
-Tap on the image & click on existing image from “ click to select file”, now replace the new image, & “edit”   
+Delete the existing image and upload a new then click "Save"
 ![How to ediat a placed image?](/images/products/how_to_edit_placed_image/tap_on_image_and_replace_the_image_and_save.png)
 
 

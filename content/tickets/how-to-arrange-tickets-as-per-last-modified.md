@@ -3,11 +3,8 @@ title= "How to arrange tickets as per last modified?"
 date= 2018-01-25T16:36:37+05:30
 description = ""
 weight= 11
-draft= false
+draft= true
 +++
-
-
-
 
 “Tickets ” 
 ![How to arrange tickets as per last modified?](/images/tickets/how_can_i_ arrange_tickets_as_last_ modified/go_to_tickets.png)

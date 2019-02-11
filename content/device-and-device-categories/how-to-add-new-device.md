@@ -6,17 +6,14 @@ weight= 1
 draft= false
 +++
 
+Click “Master Management”
+![How to add a new device?](/images/device_and_device_categories/how_to_add_a_new_device/click_master_management.png)
 
+Click “Devices”
+![How to add a new device?](/images/device_and_device_categories/how_to_add_a_new_device/click_devices.png) 
 
+Click "New"
+![How to add a new device?](/images/device_and_device_categories/how_to_add_a_new_device/click_new.png)
 
-“Master management”
-![How to add a new device?](/images/device_and_device_categories/how_to_add_a_new_device/go_to_master_management.png)
-
-“New”
-![How to add a new device?](/images/device_and_device_categories/how_to_add_a_new_device/click_new.png) 
-
-Add required details, and “add ”
-![How to add a new device?](/images/device_and_device_categories/how_to_add_a_new_device/add_device_details_and_add.png)
-
-“add”, device will be added.
-![How to add a new device?](/images/device_and_device_categories/how_to_add_a_new_device/device_will_be_added.png)
+Fill in the details and click "Save"
+![How to add a new device?](/images/device_and_device_categories/how_to_add_a_new_device/click_save.png)

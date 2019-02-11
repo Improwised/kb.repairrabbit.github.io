@@ -6,7 +6,5 @@ Weight = 2
 draft= false
 +++
 
-
-
-As this is a manual process, A holiday doesn’t get removed automatically.
+As this is a manual process, a holiday doesn’t get removed automatically.
 

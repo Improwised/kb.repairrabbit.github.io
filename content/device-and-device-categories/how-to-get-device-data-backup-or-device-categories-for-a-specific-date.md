@@ -3,7 +3,7 @@ title= "How to get device data backup or device categories for a specific date?"
 date= 2018-01-25T13:19:41+05:30
 description= ""
 weight= 4
-draft= false
+draft= true
 +++
 
 
