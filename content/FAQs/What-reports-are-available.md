@@ -6,6 +6,6 @@ weight= 14
 draft= false
 +++
 
-You can have quick actions on reports with just 1 click. Our best feature dashboard shows and summarizes every report. You can easily check reports on Tickets, Revenue, employees daily workflow, total stock valuation, Employee status and also store status.
 
+You can have quick access to reports with just one click. Dashboard shows and summarise reports of different modules. You can easily check reports on Revenue, Stock, Employees daily workflow, Appointments, Tickets, Employee status and store status.
 

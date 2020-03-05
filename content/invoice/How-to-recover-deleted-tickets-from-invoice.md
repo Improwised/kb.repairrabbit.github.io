@@ -5,3 +5,6 @@ description= ""
 weight= 14
 draft= false
 +++
+
+
+You will not be able to recover tickets, once it has been deleted.

@@ -6,7 +6,7 @@ weight= 3
 draft= false
 +++
 
-
+You can generate ticket for existing customer by searching for the customer with the help of search bar.
 
 "Tickets"
 ![How to generate a ticket for the exsisting customers?](/images/tickets/how_to_generate_the_tickets_for_exsisting_customers/go_to_tickets.png)
@@ -17,8 +17,8 @@ draft= false
 Search the customer.
 ![How to generate a ticket for the exsisting customers?](/images/tickets/how_to_generate_the_tickets_for_exsisting_customers/search_the_customer.png)
 
-Fill the required details, “add ”
+Fill in required details, click “add ”
 ![How to generate a ticket for the exsisting customers?](/images/tickets/how_to_generate_the_tickets_for_exsisting_customers/fill_the_required_details & add.png)
 
-The New ticket has been created.
+New ticket has been created.
 ![How to generate a ticket for the exsisting customers?](/images/tickets/how_to_generate_the_tickets_for_exsisting_customers/the_new_ticket_is_generated.png)

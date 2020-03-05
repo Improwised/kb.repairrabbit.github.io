@@ -7,7 +7,7 @@ weight = 2
 +++
 
 
-To consume the RepairRabbit API, you need to whitelist your domains/subdomains (from where you are going to access RepairRabbit API)
+To use RepairRabbit API, you need to whitelist your domains/subdomains (from where you are going to access RepairRabbit API)
 with the RepairRabbit.
 
 Whitelisting of the domain is necessary to prevent any unauthorized access to the API.

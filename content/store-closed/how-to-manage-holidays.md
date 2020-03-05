@@ -6,7 +6,7 @@ Weight = 1
 draft= false
 +++
 
-Under “Store closed” feature all the holidays can be managed. You can Add, edit or delete holidays. 
+Under “Store holiday” feature all the holidays can be managed. You can Add, edit or delete holidays. 
 
 #### Process to add holidays 
  
@@ -14,7 +14,7 @@ Under “Store closed” feature all the holidays can be managed. You can Add, e
 Go to "master management"
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_add_holiday/go_to_master_management.png)
 
-go to “Store closed”
+go to “Store holiday”
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_add_holiday/select_store_holidays.png)
 
 Click  “New” 
@@ -36,13 +36,13 @@ On click “Add” all the holidays will be added.
 go to "Master management"
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_edit_holiday/go_to_master_management.png)
 
-go to “Store closed”
+go to “Store holidays”
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_edit_holiday/click_store_holidays.png)
 
-select the holiday and make the required changes & click “Edit”
+select the holiday and make required changes & click “Edit”
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_edit_holiday/select_holiday_and_click_edit.png)
 
-click “Edit”  & the new change done will be saved.
+click “Edit”  &  new change done will be saved.
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_edit_holiday/edit_details_and_click_edit.png) 
 
 
