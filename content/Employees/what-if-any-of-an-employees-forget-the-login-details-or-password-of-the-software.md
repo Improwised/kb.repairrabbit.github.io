@@ -6,7 +6,7 @@ weight = 6
 draft= false
 +++
 
-Password can be changed and the new changes will be sent automatically to the employee on their registered e-mail ID. 
+Password can be changed and new changes will be sent automatically to Employee on his registered email. 
 
 To change the password:
 

@@ -15,6 +15,5 @@ draft= false
 Select the "Product" and click "Search"
 ![How to determine the total price of all the products in stock?](/images/dashboard/how_can_i_determine_total_valuation_of_all_stock/click_search-min.png)
 
-Here, you will get the exact amount of stock
+Here, you wll get exact amount of stock.
 ![How to determine the total price of all the products in stock?](/images/dashboard/how_can_i_determine_total_valuation_of_all_stock/total_quantity-min.png)
-

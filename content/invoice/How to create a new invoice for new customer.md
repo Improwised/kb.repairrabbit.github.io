@@ -12,7 +12,7 @@ Click “Invoices”
 Click “New” 
 ![How to create a new invoice for new customers?](/images/invoice/how_to_generate_an_invoice_for_new_customer/clcik_new.png)
 
-Add the necessary details about a customer 
+Fill in necessary details about a customer. 
 ![How to create a new invoice for new customers?](/images/invoice/how_to_generate_an_invoice_for_new_customer/add_required_details_and_add.png)
 
 Click “Add”, it will display an empty invoice
@@ -21,9 +21,10 @@ Click “Add”, it will display an empty invoice
 Fill all the required details in the  invoice and click “Save”  
 ![How to create a new invoice for new customers?](/images/invoice/how_to_generate_an_invoice_for_new_customer/click_save.png)
 
-Now, system will ask you to confirm your action to generate "Invoice"
+Here, system will ask you to confirm your action to generate "invoice"
 ![How to create a new invoice for new customers?](/images/invoice/how_to_generate_an_invoice_for_new_customer/system_will_ask_to_confirm_your_action.png)
 
-Click "OK"
+Click "ok"
 ![How to create a new invoice for new customers?](/images/invoice/how_to_generate_an_invoice_for_new_customer/click_ok.png)
 
+The new invoice has been generated.

@@ -7,9 +7,7 @@ draft= false
 +++
 
 
-
-
-E-mail templates notify the customer of their appointment status. Admin can edit the e-mail templates.
+Email templates notify the customers of their appointment status. Admin can edit the email templates.
 
 As an example, if an appointment is missed by the customer, admin can send the e-mail "We miss you!"
 

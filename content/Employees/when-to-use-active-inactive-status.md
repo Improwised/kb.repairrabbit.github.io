@@ -6,10 +6,7 @@ weight = 7
 draft= false
 +++
 
-
-
-Once an employee joins the organization or shop, he will be marked as active but if an employee leaves the organization or shop, they are marked as “Inactive."
-
+Once an employee joins the organization or shop, he will be marked as an active but if an employee leaves the Shop or Organisation, he needs to be marked as “ Inactive ”.
 
 Click "Employees"
 ![When to use active or inactive status?](/images/employees/how_to_assign_active_inactive_status/go_to_employees.png) 
@@ -22,6 +19,3 @@ Click "Edit"
 
 Click "Save"
 ![When to use active or inactive status?](/images/employees/how_to_assign_active_inactive_status/now_save.png) 
-
-
-

@@ -15,14 +15,9 @@ Click "New"
 Fill the required details and click "Add"
 ![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/add_required_details_and_add.png)
 
-The system will provide you an option to e-mail the invoice
+System will provide you option to email invoice
 ![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/do_also_want_to_send_an_email.png)
 
-Select the checkbox to e-mail the invoice
+
+Select the checkbox "Do you also want to send an e-mail ?" to email invoice
 ![How to email an invoice?](/images/invoice/is_it_possible_to_email_invoice/do_also_want_to_send_an_email_TICK.png)
-
-
-
-
-
-

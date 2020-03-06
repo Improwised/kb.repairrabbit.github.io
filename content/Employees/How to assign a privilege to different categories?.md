@@ -27,4 +27,4 @@ Click "Add"
 
 
 #### Important
-Privilege for customers will be automatically assigned. On adding a new customer, the registered e-mail ID of customer would be their login ID. Password will be sent automatically to the registered e-mail ID.
+Privilege for Customers will be automatically assigned. On adding a new Customer, the registered email of Customer would be his login Id and Password will be sent automatically to registered email.

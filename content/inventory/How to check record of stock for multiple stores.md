@@ -17,4 +17,3 @@ Select “All Stores” from the top right corner
 
 It will summarize the stock for “All Stores”
 ![How to check record of stock for multiple stores?](/images/inventory/how_to_check_stock_records_for_multiple_stores/detail_summary_for_stock.png)
-

@@ -11,7 +11,6 @@ It's easy to create a new appointment either for new customers or for existing c
 ### **Create new appointment for new customers**
 
 Dashboard > Add Appointment
-
 ![dashboard add new appoinment](/images/appointments/dashboard_add_appointment.png)
 
 *Or* 
@@ -27,7 +26,7 @@ Click “Add New Customer”
 
 ![new appointment for new customer](/images/appointments/appointment_newcustomer.png)
 
-Fill the details
+Fill in details, and “Add”.
 
 ![new appointment for new customer](/images/appointments/appointment_filldata.png)
 
@@ -35,7 +34,7 @@ Click "Add"
 
 ![new appointment for new customer](/images/appointments/appointment_add.png)
 
-Again fill the details required for product repair
+Again fill the details required for product repair.
 
 ![new appointment for new customer6](/images/appointments/appointment_filldetail.png)
 
@@ -65,7 +64,7 @@ Search Customer
 
 ![new appointment for existing customer2](/images/appointments/appointntment_search.png)
 
-Fill in the required details
+Fill in the required details about the prodcuct repair. 
 
 ![new appointment for existing customer2](/images/appointments/appointment_filldetail.png)
 

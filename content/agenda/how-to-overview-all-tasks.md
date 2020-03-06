@@ -5,11 +5,12 @@ description = ""
 draft= false
 +++
 
-Click "Agenda"
+Click "Calendar"
 ![How to get an overview of all tasks](/images/agenda/gotoagenda.png)
 
-You can also review the tasks for a particular month
+
+You can also review the Tasks for particular Month.
 ![How to overview all tasks](/images/agenda/agenda_selectmonth.png)       
 
-View task summary with exact dates
+View Task Summary with Exact dates.
 ![How to overview all tasks](/images/agenda/agenda_see_all_task.png)     

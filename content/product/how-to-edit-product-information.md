@@ -1,5 +1,5 @@
 +++
-title= "How to edit product details?"
+title= "How to edit product information?"
 date= 2018-01-25T11:08:26+05:30
 description= ""
 weight= 9

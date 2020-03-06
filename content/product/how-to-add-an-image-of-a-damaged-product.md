@@ -15,16 +15,16 @@ draft= true
 “New customer”
 ![How to add an image of a damaged product?](/images/products/how_can_i_add_image_of_damaged_product/add_new_customer.png)
 
-Add the required details.
+Add required details.
 ![How to add an image of a damaged product?](/images/products/how_can_i_add_image_of_damaged_product/fill_required_details_and_add.png)
 
-“Add” the information will be updated.
+Click “Add”. Information will be updated.
 ![How to add an image of a damaged product?](/images/products/how_can_i_add_image_of_damaged_product/fill_required_details_and_add.png)
 
-Add the  required details on  product problem.
+Add required details of product problem.
 ![How to add an image of a damaged product?](/images/products/how_can_i_add_image_of_damaged_product/product_details.png)
 
-Add Status Image of damage product and click “Add”.
+Add Status Image of damaged product and click “Add”.
 ![How to add an image of a damaged product?](/images/products/how_can_i_add_image_of_damaged_product/edit_image_and_edit.png)
 
 

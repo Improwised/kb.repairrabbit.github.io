@@ -6,13 +6,13 @@ draft= false
 weight = 2
 +++
 
-
 To consume RepairRabbit API, you need to whitelist your domains/subdomains (from where you are going to access the RepairRabbit API)
 with the RepairRabbit.
 
-Whitelisting of the domain is necessary to prevent any unauthorized access to the API. So, Your data can be secured with RepairRabbit.
+Whitelisting of the domain is necessary to prevent any unauthorized access to the API. So, Your data can be secured with the RepairRabbit.
 
 The admin of the RepairRabbit can whitelist your domains/subdomains. It can be done from the `API Settings` of RepairRabbit admin panel.
+
 
 Click "API Settings"
 ![menu](/images/api-settings/menu.png)
@@ -27,6 +27,6 @@ Click "Whitelisted Domains"
 
 ![whitelist domain](/images/api-settings/domain-added.png)
 
-Once you are done with whitelisting of your domain. You are all set to go consume RepairRabbit API.
+Once you are done with whitelisting of your domain. You are all set to go to consume RepairRabbit API.
 
 The API documentation is available at [https://demo.repairrabbit.co/api-doc](https://demo.repairrabbit.co/api-doc) .

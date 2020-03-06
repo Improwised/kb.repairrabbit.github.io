@@ -21,7 +21,7 @@ Add the required details about a product
 Click “Add Stock”
 ![How to add stock?](/images/inventory/how_can_i_add_stock/click_add_stock.png)
 
-“Add Stocks” system will show the details updated by the user
+System will show the details updated by the user.
 ![How to add stock?](/images/inventory/how_can_i_add_stock/stock_detail_summary_again_click_add_stock.png)
 
 
