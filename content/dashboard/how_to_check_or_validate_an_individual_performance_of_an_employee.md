@@ -1,5 +1,5 @@
 +++
-title= "how to check or validate performance of an individual employee?"
+title= "How to check or validate performance of an individual employee?"
 date= 2018-02-08T11:24:03+05:30
 description = ""
 weight= 5

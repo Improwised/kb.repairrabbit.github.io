@@ -12,9 +12,9 @@ draft= false
 “View stock ”
 ![How to check record of stock for multiple stores?](/images/inventory/how_to_check_stock_records_for_multiple_stores/view_stock.png)
 
-Select “all branches” from the top right corner.
+Select “all stores” from top right corner.
 ![How to check record of stock for multiple stores?](/images/inventory/how_to_check_stock_records_for_multiple_stores/select_all_branches.png)
 
-it will summarize the stock for “all branches”
+It will summarize the stock for “all stores”
 ![How to check record of stock for multiple stores?](/images/inventory/how_to_check_stock_records_for_multiple_stores/detail_summary_for_stock.png)
 

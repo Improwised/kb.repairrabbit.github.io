@@ -6,9 +6,9 @@ weight = 6
 draft= false
 +++
 
-Password can be Changed and the new changes will be sent automatically to Employee on their registered email. 
+Password can be changed and new changes will be sent automatically to Employee on his registered email. 
 
-To change this password:
+To change the password:
 
 "Employee"
 ![What, if any, of an employees forget the login details or password of the software?](/images/employees/how_to_change_password_for_exsisting_employee/go_to_employees.png)

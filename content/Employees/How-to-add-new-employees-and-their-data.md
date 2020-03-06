@@ -14,9 +14,8 @@ draft= false
 “New”
 ![How to add a new employees and their data?](/images/add_employee/add_Employee_3.png)
 
-Fill the necessary details about the employee, then click “Add”
+Fill in necessary details about an employee, then click “Add”.
 ![How to add a new employees and their data?](/images/add_employee/add_employee_4.png)
           
-“Add” employees.
-!![How to add a new employees and their data?](/images/add_employee/add_employee_5.png)
-
+![How to add a new employees and their data?](/images/add_employee/add_employee_5.png)
+Employee has been added to the list.
