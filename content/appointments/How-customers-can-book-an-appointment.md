@@ -9,6 +9,6 @@ draft= false
 
 
 
-Customer can now easily book an appointment through customer Web portal where they can sign in with their registered email id and password.
+Customer can now easily book an appointment through customer web portal where they can sign in with his registered email id and password.
 
 

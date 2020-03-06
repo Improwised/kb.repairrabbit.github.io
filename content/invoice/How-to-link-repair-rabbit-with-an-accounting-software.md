@@ -9,7 +9,7 @@ draft= true
 
 
 
-to know more please click on the given link. (link to Customization Page)
+To know more please click on the given link. (link to Customization Page)
 
 
 

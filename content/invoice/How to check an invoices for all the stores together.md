@@ -12,9 +12,10 @@ draft= false
 "Invoices" 
 ![How to check an invoices for all the stores together?](/images/invoice/how_can_i_see_all_invoice_for_all_stores/go_to_invoice.png)
 
-Select “all branches" from the top right side.
+Select “all stores" from the top right corner.
 ![How to check an invoices for all the stores together?](/images/invoice/how_can_i_see_all_invoice_for_all_stores/select_all_branches.png)
 
-On selecting “all branches", the system will show the  invoices of all the branches together. 
+On selecting “all stores", the system will show the invoices of all the stores together. 
+
 ![How to check an invoices for all the stores together?](/images/invoice/how_can_i_see_all_invoice_for_all_stores/summary_of_all_invoice_for_all_Store.png)
 

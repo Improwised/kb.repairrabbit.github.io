@@ -8,6 +8,7 @@ draft= false
 +++
 
 “Customers”
+
 ![How to add the list of my existing clients into Repair Rabbit?](/images/customers/how_can_i_add_the_list_of_my_exsisting_clients_into_repair_rabbit/go_to_customers.png)
       
 

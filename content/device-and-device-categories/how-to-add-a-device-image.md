@@ -21,7 +21,7 @@ draft= false
 “Click to select file” 
 ![How toadd a device image?](/images/device_and_device_categories/how_can_i_add_a_device_image/click_to_select_file.png)
 
-“Add” image will be added
+Click “Add”. Image has been added
 ![How to add a device image?](/images/device_and_device_categories/how_can_i_add_a_device_image/now_add.png)
 
 

@@ -20,12 +20,12 @@ While adding a new Employee, you can assign any one category from
 "New"
 ![How to assign a privilege to different categories?](/images/employees/how_to_assing_priviledges/add_new.png)
 
-fill the required details to assign priviledge
+Fill in required details to assign priviledge.
 ![How to assign a privilege to different categories?](/images/employees/how_to_assing_priviledges/fill_the_required_details_and_assign_privilege.png)
 
-"Add"
+Click "Add"
 ![How to assign a privilege to different categories?](/images/employees/how_to_assing_priviledges/click_add.png)
 
 
 #### Important
-Privilege for Customers will be automatically assigned. On adding a new Customer, the registered email of Customers would be their login Id and Password will be sent automatically to registered email.
+Privilege for Customers will be automatically assigned. On adding a new Customer, the registered email of Customer would be his login Id and Password will be sent automatically to registered email.

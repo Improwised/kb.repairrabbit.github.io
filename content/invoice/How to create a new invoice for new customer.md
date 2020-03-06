@@ -14,7 +14,7 @@ draft= false
 “New” 
 ![How to create a new invoice for new customers?](/images/invoice/how_to_generate_an_invoice_for_new_customer/clcik_new.png)
 
-Add the necessary details about a customer. 
+Fill in necessary details about a customer. 
 ![How to create a new invoice for new customers?](/images/invoice/how_to_generate_an_invoice_for_new_customer/add_required_details_and_add.png)
 
 “Add”, it will display an empty invoice.
@@ -23,10 +23,10 @@ Add the necessary details about a customer.
 Fill all the required details in the  invoice and “save” . 
 ![How to create a new invoice for new customers?](/images/invoice/how_to_generate_an_invoice_for_new_customer/click_save.png)
 
-here system will ask you to confirm your action to generate "invoice"
+Here, system will ask you to confirm your action to generate "invoice"
 ![How to create a new invoice for new customers?](/images/invoice/how_to_generate_an_invoice_for_new_customer/system_will_ask_to_confirm_your_action.png)
 
-"ok"
+Click "ok"
 ![How to create a new invoice for new customers?](/images/invoice/how_to_generate_an_invoice_for_new_customer/click_ok.png)
 
-The new invoice will be generated.
+The new invoice has been generated.

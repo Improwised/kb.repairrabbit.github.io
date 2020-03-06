@@ -13,5 +13,5 @@ There are different categories which have different privileges.
 1. System Admin  
 2. Store Admin 
 3. Employee  
-4. Customer. 
+4. Customer
 
