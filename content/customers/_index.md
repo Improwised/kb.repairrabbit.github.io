@@ -6,4 +6,4 @@ draft= false
 weight = 8
 +++
 
-{{%children style="h4"%}}
+{{< children style="h4" >}}

@@ -8,4 +8,4 @@ weight = 17
 
 
 
-{{%children style="h4"%}}
+{{< children style="h4" >}}

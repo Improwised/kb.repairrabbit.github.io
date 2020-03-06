@@ -7,5 +7,5 @@ weight = 19
 alwaysopen = true
 +++
 
-{{%children style="h4"%}}
+{{< children style="h4" >}}
 
