@@ -6,9 +6,8 @@ weight= 12
 draft= false
 +++
 
-
-“Invoices”
+Click “Invoices ”
 ![How to print an invoice?](/images/invoice/how_to_print_an_invoice/go_to_invoice.png)
 
-“Print” 
+Click “Print ” 
 ![How to print an invoice?](/images/invoice/how_to_print_an_invoice/click_print.png)

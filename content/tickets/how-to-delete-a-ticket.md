@@ -6,23 +6,21 @@ weight= 7
 draft= false
 +++
 
-
-“Tickets” 
+Click “Tickets” 
 ![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/go_to_tickets.png)
 
-search the customer delete the ticket.
+Search customer by "Name"
 ![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/search_the_customer.png)
 
-"Delete ” 
+Click "Delete” from "Action" 
 ![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/Delet_ticket.png)
 
-
-it will show you a confirmation message “Are you sure?”
+A confirmation message will pop up 
 ![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/ticket_edited_1.png)
 
-“Yes"
+Click “Yes, delete it!"
 ![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/ticket_edited_2.png)
 
-system will show you the message “Ticket has been deleted" so now hit "OK"
+System will show you a message “Ticket has been deleted", click "OK"
 ![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/hit_ok.png)
 

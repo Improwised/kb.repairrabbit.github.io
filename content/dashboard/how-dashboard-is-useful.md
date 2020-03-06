@@ -44,3 +44,4 @@ Now you can easily add new store directly from Dashboard.
 5. Easy access to get data on year to date appointment. 
 6. It will also show employee’s status (Active/Inactive).
 7. You can get information regarding tickets generated and year to date Tickets.
+

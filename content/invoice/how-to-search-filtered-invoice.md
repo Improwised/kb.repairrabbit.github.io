@@ -3,14 +3,10 @@ title= "How to search filtered invoice?"
 date= 2018-01-25T11:45:48+05:30
 description= ""
 weight= 6 
-draft= false
+draft= true
 +++
 
-
-
-
 Process to search filtered invoices
- 
 
 “Invoices” 
 ![How to search filtered invoice?](/images/invoice/how_to_search_filtered_invoice/go_to_invoice.png)

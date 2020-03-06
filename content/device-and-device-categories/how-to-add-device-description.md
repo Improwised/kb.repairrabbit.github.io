@@ -3,7 +3,7 @@ title= "How to add device description?"
 date= 2018-01-25T13:13:38+05:30
 description = ""
 weight= 2
-draft= false
+draft= true
 +++
 
 

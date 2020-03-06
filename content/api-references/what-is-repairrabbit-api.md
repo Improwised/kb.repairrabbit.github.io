@@ -6,4 +6,4 @@ draft= false
 weight=1
 +++
 
-RepairRabbit API will allow you to create a new presentation layer—like an app, a website, or a widget. It can be used to distribute services and information to new audiences. You can easily transfer data to/from different systems and keep it safe. We deliver API for all the RepairRabbit features such as Appointments, tickets, Inventories, Invoice etc. Thus, you can create customised solution on top of RepairRabbit API in a secured manner.
+RepairRabbit API will allow you to create a new presentation layer—like an app, a website, or a widget. It can be used to distribute services and information to new audiences. You can easily transfer data to/from different systems and keep it safe. We deliver API for all the RepairRabbit features such as appointments, tickets, inventory, invoice, etc. Thus, you can create a customised solution on top of RepairRabbit API in a secured manner.

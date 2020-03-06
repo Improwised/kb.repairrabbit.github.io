@@ -6,8 +6,6 @@ weight= 15
 draft= true
 +++
 
-
-
  In case of insufficient stock, if the ticket has been generated,the system will show a message, "The requested product is out of stock".
 
 

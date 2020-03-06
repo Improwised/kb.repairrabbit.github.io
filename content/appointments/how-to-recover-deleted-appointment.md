@@ -1,5 +1,5 @@
 +++
-title= "How to recover deleted appointment ?"
+title= "How to recover a deleted appointment?"
 date= 2018-01-19T15:18:26+05:30
 description = ""
 weight = 6

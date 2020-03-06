@@ -1,12 +1,12 @@
 +++
-title= "How to overview all tasks?"
+title= "How to get an overview of all tasks?"
 date= 2018-01-16T20:02:37+05:30
 description = ""
 draft= false
 +++
 
-"Calendar"
-![How to overview all tasks](/images/agenda/gotoagenda.png)
+Click "Calendar"
+![How to get an overview of all tasks](/images/agenda/gotoagenda.png)
 
 
 You can also review the Tasks for particular Month.

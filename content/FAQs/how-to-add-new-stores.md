@@ -8,22 +8,22 @@ draft= false
 
 
 
-“Master management”
+Click “Master management”
 ![How to add a new store?](/images/faq's/how_to_add_a_new_store/go_to_master_management.png)
 
-“Store”
+Click “Store”
 ![How to add a new store?](/images/faq's/how_to_add_a_new_store/click_store.png)
 
-Select a “new” from top right corner. 
+Select “New” from top right corner
 ![How to add a new store?](/images/faq's/how_to_add_a_new_store/click_new_from_right_corner.png)
 
-Add required details & “save and next”
+Add required details and click “Save And Next”
 ![How to add a new store?](/images/faq's/how_to_add_a_new_store/add_the_required_details.png)
 
-Select the products and “save and next”
+Select the products and “Save And Next”
 ![How to add a new store?](/images/faq's/how_to_add_a_new_store/select_product_save_next.png)
 
-Add required details and “add”
+Add required details, and click “Add”
 ![How to add a new store?](/images/faq's/how_to_add_a_new_store/add_the_details_and_add.png)
 
 Store will be added.

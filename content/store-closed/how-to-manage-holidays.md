@@ -66,8 +66,3 @@ On clicking “Yes”, the holiday will get deleted.
 ![How to manage holidays?](/images/store_closed/how_can_manage_holidays/process_to_delet_holiday/select_holiday_and_click_delet.png)
   
 Holiday will be deleted permanently.
-
-
-
-
-

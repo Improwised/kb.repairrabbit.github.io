@@ -6,7 +6,7 @@ draft= false
 weight = 3
 +++
 
-Before the launch of the customer side. admin needs to follow these instructions.
+Before the launch of the customer side, admin needs to follow these instructions.
 
 * Add device categories from Master Management.
 * Add relevant devices from Master Management.
@@ -16,14 +16,13 @@ After adding device related information. Add the following data.
 
 * Add Stores and associated devices.
 * Add employees, store admin for each store.
-* If you provide accessories than add accessories also from master management.
-* Add stocks to each product and store created. It can be added from inventory.
+* If you provide accessories then add accessories from Master Management.
+* Add details about stock of each product and store created. It can be added from Inventory.
 * By default, RepairRabbit sends few emails to customers on certain actions. But admin can enable or disable it from Master Management.
 
-Now, admin can launch repair rabbit for your customers.
+Now, admin can launch RepairRabbit for customers.
 
-
-To check the system use the following emails and password:
+To check the system use the following e-mail IDs and password:
 
 ```
 Admin: email => admin@repairrabbit.co, password => 123456

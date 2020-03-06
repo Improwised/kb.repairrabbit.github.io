@@ -9,16 +9,16 @@ draft= false
 
 
 
-“Inventory”
+Click “Inventory”
 ![How to add stock?](/images/inventory/how_can_i_add_stock/go_to_inventory.png)
 
-“Add stocks”
+Click “Add Stocks”
 ![How to add stock?](/images/inventory/how_can_i_add_stock/select_add_stock.png)
 
-Add the required details about a product and “Add stock”
+Add the required details about a product
 ![How to add stock?](/images/inventory/how_can_i_add_stock/fill_the_required_details.png)
 
-“Add stock”
+Click “Add Stock”
 ![How to add stock?](/images/inventory/how_can_i_add_stock/click_add_stock.png)
 
 System will show the details updated by the user.

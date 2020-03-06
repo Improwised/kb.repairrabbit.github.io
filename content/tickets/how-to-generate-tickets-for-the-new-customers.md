@@ -7,13 +7,13 @@ draft= false
 +++
 
 
-"Tickets"
+Click "Tickets"
 ![How to generate a ticket for the new customers?](/images/tickets/how_to_ generate_a_ticket_ for_the_ new_customers/go_to_tickets.png)
 
-“New”
+Click “New”
 ![How to generate a ticket for the new customers?](/images/tickets/how_to_ generate_a_ticket_ for_the_ new_customers/click_New_ticket.png)
 
-“Add new customer ”
+Click “Add new customer”
 ![How to generate a ticket for the new customers?](/images/tickets/how_to_ generate_a_ticket_ for_the_ new_customers/go_to_add_new_customer.png)
 
 Fill in all the required details and “add”.
