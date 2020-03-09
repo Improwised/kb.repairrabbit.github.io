@@ -18,7 +18,7 @@ Search customer by "Name"
 ![How to generate a ticket for the exsisting customers?](/images/tickets/how_to_generate_the_tickets_for_exsisting_customers/search_the_customer.png)
 
 Fill the required details and click “Add”
-![How to generate a ticket for the exsisting customers?](/images/tickets/how_to_generate_the_tickets_for_exsisting_customers/fill_the_required_details & add.png)
+![How to generate a ticket for the exsisting customers?](/images/tickets/how_to_generate_the_tickets_for_exsisting_customers/fill_the_required_details_and_add.png)
 
 A new ticket has been created.
 ![How to generate a ticket for the exsisting customers?](/images/tickets/how_to_generate_the_tickets_for_exsisting_customers/the_new_ticket_is_generated.png)

@@ -20,4 +20,4 @@ Click “Stores”
 ![How to check the store status?](/images/faq's/how_to_check_the_store_status/select_store_from_the_list.png)
 
 Now select the store, here the system will display all the data about selected store.
-![How to check the store status?](/images/faq's/how_to_check_the_store_status/here_system_will_show_the details.png)
+![How to check the store status?](/images/faq's/how_to_check_the_store_status/here_system_will_show_the_details.png)
