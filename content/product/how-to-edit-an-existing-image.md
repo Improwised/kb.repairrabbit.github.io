@@ -17,5 +17,5 @@ Click on "Products"
 Search the product and click "edit"
 ![How to ediat a placed image?](/images/products/how_to_edit_placed_image/click_edit.png)
 
-Tap on the image & click on existing image from “ click to select file”, now replace the new image, & “save”   
+Tap on the image and click on existing image from “ click to select file”. Now replace with the new image, click “save”.  
 ![How to edit a placed image?](/images/products/how_to_edit_placed_image/tap_on_image_and_replace_the_image_and_save.png)

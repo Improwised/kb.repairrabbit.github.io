@@ -15,5 +15,5 @@ It will show total repairs made by selected employee for entered date. You can a
 ![How to check or validate the individual performance of an employee?](/images/dashboard/how_can_check_performance_for_an_individual_employees/go_to_repairs_by_employee.png)
 
 
-Select "Date" & "Store" and click "Search"
+Select "Date" and "Store" and click "Search".
 ![How to check or validate the individual performance of an employee?](/images/dashboard/how_can_check_performance_for_an_individual_employees/select_date_store_and_search_employee.png)

@@ -6,8 +6,8 @@ weight= 12
 draft= false
 +++
 
-Click “Invoices ”
+Click “Invoices”
 ![How to print an invoice?](/images/invoice/how_to_print_an_invoice/go_to_invoice.png)
 
-Click “Print ” 
+Select the invoice you want to get printed. Click “Print” 
 ![How to print an invoice?](/images/invoice/how_to_print_an_invoice/click_print.png)

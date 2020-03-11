@@ -9,11 +9,11 @@ draft= false
 Click "Invoices" 
 ![How to check store wise invoice?](/images/invoice/how_to_check_store_wise_invoice/go_to_invoice.png)
 
-Select the particular store from the top right side    
+Select the specific store from the top right corner   
 ![How to check store wise invoice?](/images/invoice/how_to_check_store_wise_invoice/select_store.png)
 
 <!---click on the particular store
 ![How to check store wise invoice?](/images/invoice/how_to_check_store_wise_invoice/selected_particular_store.png)--->
 
-Now, the system will display invoices for that particular store
+Now, the system will display invoices for selected store.
 ![How to check store wise invoice?](/images/invoice/how_to_check_store_wise_invoice/summary_for_selected_store.png)

@@ -15,12 +15,12 @@ Search customer by "Name"
 Click "Delete” from "Action" 
 ![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/Delet_ticket.png)
 
-A confirmation message will pop up 
+A confirmation message will pop up.
 ![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/ticket_edited_1.png)
 
 Click “Yes, delete it!"
 ![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/ticket_edited_2.png)
 
-System will show you a message “Ticket has been deleted", click "OK"
+System will show you a message “Ticket has been deleted", click "OK".
 ![How to delete a ticket?](/images/tickets/how_to_delete_the_tickets/hit_ok.png)
 

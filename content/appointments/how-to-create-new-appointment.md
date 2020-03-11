@@ -72,4 +72,4 @@ Click “Add”
 
 ![new appointment for existing customer2](/images/appointments/appointment_1clickadd.png)
 
-An appointment is created.
+An appointment has been created.

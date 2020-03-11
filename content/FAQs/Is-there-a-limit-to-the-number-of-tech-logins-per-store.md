@@ -6,4 +6,4 @@ weight= 9
 draft= false
 +++
 
-No, you can create as many "administrator" and/or "technician" logins as you like.
+No, you can create as many "administrator" and/or "technician" logins as you require.

@@ -9,9 +9,9 @@ draft= false
 "Dashboard"
 ![How to check revenue generated from the dashboard?](/images/dashboard/how_can_i_check_revenue_generated/dashboard_new_1-min.png)
 
-Select "Date" & "Store" and click "Search"
+Select "Date" and "Store" and click "Search"
 ![How to check revenue generated from the dashboard?](/images/dashboard/how_can_i_check_revenue_generated/select_store_date-min.png)
 
-Here, the system will show the exact amount of revenue generated
+Here, the system will show the exact amount of revenue generated.
 ![How to check revenue generated from the dashboard??](/images/dashboard/how_can_i_check_revenue_generated/revenue_1-min.png)
 

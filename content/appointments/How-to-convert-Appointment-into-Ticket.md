@@ -18,7 +18,7 @@ Click “Start Repair”
 You will get a message “Are you sure to convert this appointment into ticket?” then click "OK"
 ![How to convert appointments into tickets?](/images/convert_appointment_int_ticket/click_ok.png)              
             
-Appointment will be converted into a ticket
+Appointment will be converted into a ticket.
 ![How to convert appointments into tickets?](/images/convert_appointment_int_ticket/appointment_converted_into_ticket.png)
 
 

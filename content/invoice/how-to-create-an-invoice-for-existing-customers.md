@@ -18,7 +18,7 @@ Fill in the details
 Click “Save” 
 ![How to create a new invoice for exsisting customers?](/images/invoice/how_to_generate_invoice_for_exsisting_customer/click_save.png)
 
-You’ll get a message “Are you sure to generate this invoice?”
+You’ll get a message “Are you sure to generate the invoice?”
 ![How to create a new invoice for exsisting customers?](/images/invoice/how_to_generate_invoice_for_exsisting_customer/system_will_ask_to_confirm_your_action.png)
 
 Click “OK”
