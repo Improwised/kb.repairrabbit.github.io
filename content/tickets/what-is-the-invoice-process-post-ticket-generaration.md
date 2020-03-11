@@ -15,7 +15,7 @@ Search customer by "Name"
 Click "View" from "Action"
 ![What is the invoice process post ticket generation?](/images/tickets/what_is_the_invoice_process_post_ticket_generation/clcik_view.png)
 
-Fill the required details and click "Add"
+Fill in required details and click "Add".
 ![What is the invoice process post ticket generation?](/images/tickets/what_is_the_invoice_process_post_ticket_generation/add_required_details_and_edit.png)
 
 Ticket is generated and system will show all the details related to the ticket. 
@@ -23,7 +23,7 @@ Ticket is generated and system will show all the details related to the ticket.
 Click “Generate Invoice”
 ![What is the invoice process post ticket generation?](/images/tickets/what_is_the_invoice_process_post_ticket_generation/click_on_generate_invoice.png)
 
-Now, invoice is generated
+Now, invoice has been generated.
 ![What is the invoice process post ticket generation?](/images/what_is_the_invoice_process_post_ticket_generation/fill_the_required_details_and_save.png)
 
 

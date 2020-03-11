@@ -7,7 +7,7 @@ draft= false
 +++
 
 Dashboard will show you summary of every section of Repair Rabbit.   
-Dashboard also helps to perform short actions on majorly used sections like,
+
 ![How is dashboard useful?](/images/dashboard/how_is_dashboard_useful/dashboard_1_edited.png)
 
 In addition, it can be used to perform small operations on majorly used sections like,

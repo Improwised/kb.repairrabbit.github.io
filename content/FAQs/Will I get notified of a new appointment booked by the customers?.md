@@ -7,7 +7,7 @@ draft= false
 +++
 
 
-Sorry, you won't receive any notification of the new appointment booked. You can directly check from the appointments dashboard.
+Sorry, you will not receive any notification of the new appointment booked. You can check it directly from the dashboard "appointments".
 
 
 

@@ -15,7 +15,7 @@ Search the customer
 Click "Edit"
 ![How to prepone or postpone the appointments?](/images/appointments/how_to_prepone_or_postpone_appointments/click_edit.png)
 
-Select "date & "time" to edit existing appointment
+Select "date" and "time" to edit existing appointment
 ![How to prepone or postpone the appointments?](/images/appointments/how_to_prepone_or_postpone_appointments/select_date_and_time.png)
 
 Click "Save"

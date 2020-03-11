@@ -16,6 +16,6 @@ Click “View”
 ![How to check an invoice, appointment and ticket of the customer?](/images/customers/how_can_i_check_invoice_appointment_tickets_of_the_customer/click_view.png)
     
 
-Select “Tickets” or “Appointments” or “Invoices” for detailed information of any of the category
+Select “Tickets”, “Appointments” or “Invoices” for detailed information of any of the category
 ![How to check an invoice, appointment and ticket of the customer?](/images/customers/how_can_i_check_invoice_appointment_tickets_of_the_customer/select_tickets_appointments_invoices.png)
 

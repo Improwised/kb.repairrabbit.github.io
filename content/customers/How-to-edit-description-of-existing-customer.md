@@ -18,4 +18,4 @@ Edit the required information and click on “Edit”
 ![How to edit my exsisting customer?](/images/customers/how_to_edit_my_exsisting_customer/search_the_customer_and_click_edit.png)
  
   
-Now, your edited information have been saved.
+Now, your edited information has been saved.
