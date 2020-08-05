@@ -1,0 +1,282 @@
+backend:
+  name: gitlab
+  repo: RepairRabbit/repairkb
+  branch: add_netlify_cms
+  auth_type: implicit
+  app_id: 2c419908e611387c4d718f924446d0419e3878e970e051a4bb083d92cebeb938
+  open_authoring: true
+
+publish_mode: editorial_workflow
+media_folder: "static/uploads" 
+  
+collections:
+  - name: "Home"
+    label: "Home"
+    folder: "content/"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "accessories"
+    label: "accessories"
+    folder: "content/accessories"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "advanced-configuration"
+    label: "advanced-configuration"
+    folder: "content/advanced-configuration"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "agenda"
+    label: "agenda"
+    folder: "content/agenda"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "api-references"
+    label: "api-references"
+    folder: "content/api-references"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "appointments"
+    label: "appointments"
+    folder: "content/appointments"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "blog"
+    label: "blog"
+    folder: "content/blog"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "cron-setting-doc"
+    label: "cron-setting-doc"
+    folder: "content/cron-setting-doc"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "customers"
+    label: "customers"
+    folder: "content/customers"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "dashboard"
+    label: "dashboard"
+    folder: "content/dashboard"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "data-backup"
+    label: "data-backup"
+    folder: "content/data-backup"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "device-and-device-categories"
+    label: "device-and-device-categories"
+    folder: "content/device-and-device-categories"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "email-documentation"
+    label: "email-documentation"
+    folder: "content/email-documentation"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "Employees"
+    label: "Employees"
+    folder: "content/Employees"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "FAQs"
+    label: "FAQs"
+    folder: "content/FAQs"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "installation"
+    label: "installation"
+    folder: "content/installation"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "installation-using-wizard"
+    label: "installation-using-wizard"
+    folder: "content/installation-using-wizard"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "inventory"
+    label: "inventory"
+    folder: "content/inventory"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "invoice"
+    label: "invoice"
+    folder: "content/invoice"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "launch-your-business"
+    label: "launch-your-business"
+    folder: "content/launch-your-business"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "product"
+    label: "product"
+    folder: "content/product"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "repairrabbit-api-doc"
+    label: "repairrabbit-api-doc"
+    folder: "content/repairrabbit-api-doc"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "role-assesment-customer"
+    label: "role-assesment-customer"
+    folder: "content/role-assesment-customer"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "role-assesment-employee"
+    label: "role-assesment-employee"
+    folder: "content/role-assesment-employee"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "role-assesment-storeadmin"
+    label: "role-assesment-storeadmin"
+    folder: "content/role-assesment-storeadmin"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "roles-and-permissions"
+    label: "roles-and-permissions"
+    folder: "content/roles-and-permissions"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "Security and Permissions"
+    label: "Security and Permissions"
+    folder: "content/Security and Permissions"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "store-closed"
+    label: "store-closed"
+    folder: "content/store-closed"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "tickets"
+    label: "tickets"
+    folder: "content/tickets"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "use-product"
+    label: "use-product"
+    folder: "content/use-product"
+    create: true
+    fields: 
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "weight", name: "weight", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
