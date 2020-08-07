@@ -1,7 +1,7 @@
 backend:
   name: gitlab
   repo: RepairRabbit/repairkb
-  branch: add_netlify_cms
+  branch: master
   auth_type: implicit
   app_id: 2c419908e611387c4d718f924446d0419e3878e970e051a4bb083d92cebeb938
   open_authoring: true
