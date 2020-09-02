@@ -26,5 +26,5 @@ Click “+” sign to add multiple items to the invoice
 Click “Save”.
 ![How to add an additional accessories?](/images/accessories/click_save.png)
 
-System will confirm your action, than click "OK".
+System will confirm your action, then click "OK".
 ![How to add an additional accessories?](/images/accessories/confirm_your_system_click_ok.png)
