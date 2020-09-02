@@ -1,13 +1,12 @@
-+++
-title= "Cron Setting Doc"
-date= 2018-01-18T19:23:21+05:30
-description = ""
-weight = 99
-draft= true
-alwaysopen = true
-+++
-
-The documentation for Repair Rabbit api is provided here in this file
+---
+title: Cron Setting Doc
+date: 2018-01-18T13:53:21.000Z
+description: ""
+weight: 99
+draft: true
+alwaysopen: true
+---
+The documentation for RepairRabbit API is provided here in this file
 
 ### Documetation for setting up cron and email queue
 
@@ -38,7 +37,6 @@ php artisan schedule:run
 
 * Because of some problem if jobs will not be executed successfully then it tries to execute 3 times after that it will make the entry in `failed_jobs` table of your database
 
-
 ### To retrive the failed job back to execute again run the following:
 
 ```
@@ -54,5 +52,3 @@ You have to find php exectuable path in the server. For an instance, it can be s
 ```
  * * * * * cd /home/path to project -folder && /usr/local/bin/php artisan schedule:run >> /home/path-where-you-want-output/cron-output.txt 2>&1 2>&1
 ```
-
-
