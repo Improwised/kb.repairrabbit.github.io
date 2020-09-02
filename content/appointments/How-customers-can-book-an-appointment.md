@@ -5,4 +5,4 @@ description: ""
 weight: 4
 draft: false
 ---
-Customer can now easily book an appointment through customer web portal where they can sign in with their registered e-mail ID and passwor.
+Customer can now easily book an appointment through customer web portal where they can sign in with their registered e-mail ID and password.
