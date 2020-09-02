@@ -12,7 +12,7 @@ The documentation for RepairRabbit API is provided here in this file
 
 * Check .env file for `QUEUE_DRIVER`, it must be `database`.
 * Then if you want to send email from system then please check the email status from admin email templates.
-* If the email having `deactive` status then it can't make the entery in `jobs` table of your database so be sure it is `active`.
+* If the email having `deactive` status then it can't make entry in `jobs` table of your database so be sure it is `active`.
 * Then check your mail configuration in environment file it must require the following things:
 
 ```
